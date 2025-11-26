@@ -36,12 +36,15 @@ export default function Navbar({ enableColorChange = true }) {
         </div>
 
         {/* Links */}
+        <div className='flex gap-4'>
         <div className="hidden md:flex gap-6 items-center ">
           <Link to={"/"} className="hover:text-gray-300 text-white transition">Inicio</Link>
           <p  className="hover:text-gray-300 transition text-white">Productos</p>
-          <Box />
+          
           {/* <a href="#sobre-nosotros" className="hover:text-gray-300 transition">Sobre Nosotros</a> */}
           {/* <a href="#contacto" className="hover:text-gray-300 transition">Contacto</a> */}
+        </div>
+        <Box />
         </div>
 
       </nav>
