@@ -26,7 +26,7 @@ export default function Footer() {
       {/* Contenido del footer (encima de la onda) */}
       <div className="relative z-10 container mx-auto px-4 pt-20 pb-12">
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
-          <p className="text-sm">© {new Date().getFullYear()} Mi Empresa. Todos los derechos reservados.</p>
+          <p className="text-sm">© {new Date().getFullYear()} El Coral. Todos los derechos reservados.</p>
           <div className="flex gap-4">
             <a href="#facebook" className="hover:text-gray-400">Facebook</a>
             <a href="#instagram" className="hover:text-gray-400">Instagram</a>

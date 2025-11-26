@@ -124,7 +124,7 @@ export default function Productdetail({ imagenes, description, uses }) {
                 onClick={() => toggleAccordion("shipping")}
                 className="w-full flex justify-between py-3 text-left font-medium"
               >
-                Shipping Information
+                Beneficios
                 <span>{openAccordion === "shipping" ? "-" : "+"}</span>
               </button>
               {openAccordion === "shipping" && (

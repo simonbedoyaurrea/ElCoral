@@ -1,29 +1,179 @@
 {
     "name": "Jabones Artesanales",
     "description": "descripcion para cambiar",
-
-    "products": [
-    {"id": 31, "name": "Jabon artesanal de Miel con aceite de almendras 100gr", "price": 8000, "ingredients": [], "image":"/ruta"},
-    {"id": 32, "name": "Jabon artesanal de Romero 100gr", "price": 8000, "ingredients": [], "image":""},
-    {"id": 33, "name": "Jabon artesanal de Caléndula 100gr", "price": 8000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124283/9d854d74-b97e-499c-8825-8a8b403cfec9.png"},
-    {"id": 34, "name": "Jabon artesanal de Manzanilla 100gr", "price": 8000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124146/e3eca5fa-0336-489a-bf88-51c3f9a66384.png"},
-    {"id": 35, "name": "Jabon artesanal de Avena y Miel 100gr", "price": 8000, "ingredients": [], "image":"/ruta"},
-    {"id": 36, "name": "Jabon artesanal de Canela y Café 100gr", "price": 8000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111779/3fab8608-cb35-496d-b70c-638b878a8428.png"},
-    {"id": 37, "name": "Jabon artesanal de Eucalipto 100gr", "price": 8000, "ingredients": [], "image":"/ruta"},
-    {"id": 38, "name": "Jabon artesanal de Cacao 100gr", "price": 8000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764112956/39067aec-f1c0-4228-bbfb-e196e1de06ec.png"},
-    {"id": 39, "name": "Jabon artesanal de Carbon Activado-aceite de árbol de Té 100gr", "price": 9000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764107772/8fac1f3f-8af9-444f-934b-652827decd13.png"},
-    {"id": 40, "name": "Jabon artesanal de Moringa-Aceite de árbol de Té 100gr", "price": 9000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111130/d5a89fde-969f-4899-abd2-45f54f14e617.png"},
-    {"id": 41, "name": "Jabon artesanal de Naranja y miel 100gr", "price": 8000, "ingredients": [], "image":"/ruta"},
-    {"id": 42, "name": "Jabon artesanal de Zanahoria y canela 100gr", "price": 8000, "ingredients": [], "image":"/ruta"},
-    {"id": 43, "name": "Jabon artesanal de Pétalos de rosa 100gr", "price": 8000, "ingredients": [], "image":"/ruta"},
-    {"id": 44, "name": "Jabon artesanal de Lavanda 100gr", "price": 8000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176267/eb4c05f1-bca4-42a5-8ad9-fc808e60c359.png"},
-    {"id": 45, "name": "Jabon artesanal de Té verde 100gr", "price": 8000, "ingredients": [], "image":"/ruta"},
-    {"id": 46, "name": "Jabon artesanal de Arroz y aceite de semilla de uva 100gr", "price": 9000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021177/7cc87173-d5c5-4f4f-b462-b3de350ad0f8.png"},
-    {"id": 47, "name": "Jabon artesanal de Áloe vera y miel 100gr", "price": 8000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176372/ec6bf669-e5f9-45a4-8d07-bfeb9a474f0a.png"},
-    {"id": 48, "name": "Kit 4 jabones de 25gr por unidad", "price": 9000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124768/9d159a04-733a-4e8e-94bb-51edb48db093.png"},
-    {"id": 49, "name": "Jabon artesanal de Arroz y Cúrcuma 100gr", "price": 8000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764012686/6d368cfe-0940-4c08-ba0e-a278bcf4dd0d.png"}
-]
-
+        "products": [
+        {
+            "id": 31,
+            "name": "Jabon artesanal de Miel con aceite de almendras 100gr",
+            "price": 8000,
+            "image": "/ruta",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 32,
+            "name": "Jabon artesanal de Romero 100gr",
+            "price": 8000,
+            "image": "",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 33,
+            "name": "Jabon artesanal de Caléndula 100gr",
+            "price": 8000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124283/9d854d74-b97e-499c-8825-8a8b403cfec9.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 34,
+            "name": "Jabon artesanal de Manzanilla 100gr",
+            "price": 8000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124146/e3eca5fa-0336-489a-bf88-51c3f9a66384.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 35,
+            "name": "Jabon artesanal de Avena y Miel 100gr",
+            "price": 8000,
+            "image": "/ruta",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 36,
+            "name": "Jabon artesanal de Canela y Café 100gr",
+            "price": 8000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111779/3fab8608-cb35-496d-b70c-638b878a8428.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 37,
+            "name": "Jabon artesanal de Eucalipto 100gr",
+            "price": 8000,
+            "image": "/ruta",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 38,
+            "name": "Jabon artesanal de Cacao 100gr",
+            "price": 8000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764112956/39067aec-f1c0-4228-bbfb-e196e1de06ec.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 39,
+            "name": "Jabon artesanal de Carbon Activado-aceite de árbol de Té 100gr",
+            "price": 9000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764107772/8fac1f3f-8af9-444f-934b-652827decd13.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 40,
+            "name": "Jabon artesanal de Moringa-Aceite de árbol de Té 100gr",
+            "price": 9000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111130/d5a89fde-969f-4899-abd2-45f54f14e617.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 41,
+            "name": "Jabon artesanal de Naranja y miel 100gr",
+            "price": 8000,
+            "image": "/ruta",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 42,
+            "name": "Jabon artesanal de Zanahoria y canela 100gr",
+            "price": 8000,
+            "image": "/ruta",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 43,
+            "name": "Jabon artesanal de Pétalos de rosa 100gr",
+            "price": 8000,
+            "image": "/ruta",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 44,
+            "name": "Jabon artesanal de Lavanda 100gr",
+            "price": 8000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176267/eb4c05f1-bca4-42a5-8ad9-fc808e60c359.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 45,
+            "name": "Jabon artesanal de Té verde 100gr",
+            "price": 8000,
+            "image": "/ruta",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 46,
+            "name": "Jabon artesanal de Arroz y aceite de semilla de uva 100gr",
+            "price": 9000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021177/7cc87173-d5c5-4f4f-b462-b3de350ad0f8.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 47,
+            "name": "Jabon artesanal de Áloe vera y miel 100gr",
+            "price": 8000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176372/ec6bf669-e5f9-45a4-8d07-bfeb9a474f0a.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 48,
+            "name": "Kit 4 jabones de 25gr por unidad",
+            "price": 9000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124768/9d159a04-733a-4e8e-94bb-51edb48db093.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 49,
+            "name": "Jabon artesanal de Arroz y Cúrcuma 100gr",
+            "price": 8000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764012686/6d368cfe-0940-4c08-ba0e-a278bcf4dd0d.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        }
+    ]
 }
 
 

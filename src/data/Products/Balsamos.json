@@ -1,14 +1,106 @@
 {
-    "name":"Balsamos Labiales",
-    "description":"descripcion para cambiar",
-    "products":[
-        { "id":20,"name": "Balsamo labial Cacao 4gr", "price": 4000, "ingredients":["manteca de cacao","manteca de karite","cera de abejas","cacao","vitamina E","aceite de coco","aceite de almendras"], "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765725/6817f5a0-4f4d-4fc8-ba73-e11a46de77b1.png"},
-        { "id":21,"name": "Balsamo labial Caléncula con Manzanilla 4gr", "price": 4000, "ingredients":["manteca de cacao","manteca de karite","cera de abejas","Macerado de Manzanilla","vitamina E","aceite de coco","Macerado de calendula"], "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768846/8ecd9829-f008-49d0-aea1-51cd2f1195da.png" },
-        { "id":22,"name": "Balsamo labial Naranja 4gr", "price": 4000,"ingredients":["manteca de cacao","manteca de karite","cera de abejas","Extracto de Naranja","vitamina E","aceite de coco"], "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768969/3c352b42-8ea0-4b04-aec7-6cbe1231937c.png" },
-        { "id":23,"name": "Balsamo labial Vainilla 4gr", "price": 4000,"ingredients":["manteca de cacao","manteca de karite","cera de abejas","Extracto de Vainilla","vitamina E","aceite de coco"], "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765915/d1f90866-4b21-4772-b3da-7cb534d343d9.png" },
-        { "id":24,"name": "Balsamo labial Menta 4gr", "price": 4000, "ingredients":["manteca de cacao","manteca de karite","cera de abejas","aceite esencial de menta","vitamina E","aceite de coco","Macerado de Menta"], "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765879/31b29a9f-3992-4386-8577-3ed6525fee94.png" },
-        { "id":25,"name": "Balsamo labial Cereza 4gr", "price": 4000, "ingredients":["manteca de cacao","manteca de karite","cera de abejas","extracto de cereza","vitamina E","aceite de coco"],"image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765650/cereza_acfqmc.jpg" }
+    "name": "Balsamos Labiales",
+    "description": "descripcion para cambiar",
+    "products": [
+        {
+            "id": 20,
+            "name": "Balsamo labial Cacao 4gr",
+            "price": 4000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765725/6817f5a0-4f4d-4fc8-ba73-e11a46de77b1.png",
+            "shortDescription": "",
+            "ingredients": [
+                "manteca de cacao",
+                "manteca de karite",
+                "cera de abejas",
+                "cacao",
+                "vitamina E",
+                "aceite de coco",
+                "aceite de almendras"
+            ],
+            "benefits": []
+        },
+        {
+            "id": 21,
+            "name": "Balsamo labial Caléncula con Manzanilla 4gr",
+            "price": 4000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768846/8ecd9829-f008-49d0-aea1-51cd2f1195da.png",
+            "shortDescription": "",
+            "ingredients": [
+                "manteca de cacao",
+                "manteca de karite",
+                "cera de abejas",
+                "Macerado de Manzanilla",
+                "vitamina E",
+                "aceite de coco",
+                "Macerado de calendula"
+            ],
+            "benefits": []
+        },
+        {
+            "id": 22,
+            "name": "Balsamo labial Naranja 4gr",
+            "price": 4000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768969/3c352b42-8ea0-4b04-aec7-6cbe1231937c.png",
+            "shortDescription": "",
+            "ingredients": [
+                "manteca de cacao",
+                "manteca de karite",
+                "cera de abejas",
+                "Extracto de Naranja",
+                "vitamina E",
+                "aceite de coco"
+            ],
+            "benefits": []
+        },
+        {
+            "id": 23,
+            "name": "Balsamo labial Vainilla 4gr",
+            "price": 4000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765915/d1f90866-4b21-4772-b3da-7cb534d343d9.png",
+            "shortDescription": "",
+            "ingredients": [
+                "manteca de cacao",
+                "manteca de karite",
+                "cera de abejas",
+                "Extracto de Vainilla",
+                "vitamina E",
+                "aceite de coco"
+            ],
+            "benefits": []
+        },
+        {
+            "id": 24,
+            "name": "Balsamo labial Menta 4gr",
+            "price": 4000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765879/31b29a9f-3992-4386-8577-3ed6525fee94.png",
+            "shortDescription": "",
+            "ingredients": [
+                "manteca de cacao",
+                "manteca de karite",
+                "cera de abejas",
+                "aceite esencial de menta",
+                "vitamina E",
+                "aceite de coco",
+                "Macerado de Menta"
+            ],
+            "benefits": []
+        },
+        {
+            "id": 25,
+            "name": "Balsamo labial Cereza 4gr",
+            "price": 4000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765650/cereza_acfqmc.jpg",
+            "shortDescription": "",
+            "ingredients": [
+                "manteca de cacao",
+                "manteca de karite",
+                "cera de abejas",
+                "extracto de cereza",
+                "vitamina E",
+                "aceite de coco"
+            ],
+            "benefits": []
+        }
     ]
-  
 }
 

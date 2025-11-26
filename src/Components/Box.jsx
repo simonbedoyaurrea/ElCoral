@@ -13,7 +13,7 @@ export default function Box() {
   const clearCart = useBoxStore((s) => s.clearCart)
   const total = useBoxStore((s) => s.total)
 
-  const phoneNumber = "573053351409"; 
+  const phoneNumber = "573044467119"; 
   const message = "Hola, estoy interesado en tus productos:\n";
 
 

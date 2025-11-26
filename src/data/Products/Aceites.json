@@ -2,21 +2,179 @@
   "name": "Aceites",
   "description": "descripcion para cambiar",
   "products": [
-    { "id":1,"name": "Aceite de semilla de uva (30ml)", "price": 15000, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764113609/822bac74-875b-4453-afbb-47c3008a5553.png", "ingredients":["aceite vegetal de semilla de uva 100%"] },
-    { "id":2,"name": "Aceite de ricino (100ml)", "price": 10000, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763870506/acb4187b-6c13-44ac-8f66-1b64507e8ec9.png", "ingredients":["Aceite de ricino 100%"]  },
-    { "id":3,"name": "Aceite de ricino (30ml)", "price": 5000, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764168179/ad786f70-2c08-4997-aae8-8d8554122b13.png" , "ingredients":["Aceite de ricino 100%"] },
-    { "id":4,"name": "Aceite de argán (30ml)", "price": null, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765350/aceiteArgan_wv6akn.png", "ingredients":["Aceite de argán 100%"]  },
-    { "id":5,"name": "Aceite de almendras (30ml)", "price": null, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764116155/51647150-7b03-46ce-8f12-d970a28f790b.png", "ingredients":["aceite de almendras 100%"]  },
-    { "id":6,"name": "Aceite de coco virgen 100% puro (130ml)", "price": null, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021380/c20e78f8-ff6e-4454-9194-0c4ebb69eea1.png" , "ingredients":["Aceite de Coco 100% puro"] },
-    { "id":7,"name": "Aceite de coco virgen 100% puro (105ml)", "price": null, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764120384/edc31d0e-4e70-4036-9959-36aeb5dfe49a.png" , "ingredients":["Aceite de Coco 100% puro"] },
-    { "id":8,"name": "Aceite de coco virgen 100% puro (250ml)", "price": null, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764167337/74c23dac-a1d8-49e0-ab6b-cf0e94ba782a.png" , "ingredients":["Aceite de Coco 100% puro"] },
-    { "id":9,"name": "Aceite de coco virgen 100% puro (500ml)", "price": null, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176621/f6bd6506-e714-4391-a1f5-64e3ac4569e0.png" , "ingredients":["Aceite de Coco 100% puro"] },
-    { "id":10,"name": "Aceite de coco virgen 100% puro (750ml)", "price": null, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764120318/ab6d2296-8ed4-4496-a6e4-08864c4f7827.png" , "ingredients":["Aceite de Coco 100% puro"] },
-    { "id":11,"name": "Aceite de mano de res (120ml)", "price": 18000, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125966/0140129a-4e3a-4479-9d91-1a200e148303.png", "ingredients":["aceite de mano de res 100%"]},
-    { "id":12,"name": "Aceite de mano de res (240ml)", "price": 30000, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764011206/536d3238-1ca6-4df6-bcd1-c8c1ae6ef88d.png" , "ingredients":["Aceite de mano de res 100%"] },
-    { "id":13,"name": "Vitamina E pura (30ml)", "price": 30000, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764108608/7678ac03-658b-406e-87ef-a5c36f103156.png" , "ingredients":["Vitamina E 100%"] },
-    { "id":14,"name": "Mezcla de aceites (120ml)", "price": 12000, "image": "" , "ingredients":["Aceite de coco", "Aceite de mano de res", "Fenogreco","Aceite de Ricino","Aceite de argan"] },
-    { "id":15,"name": "Mezcla de aceites (240ml)", "price": 21000, "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764127186/ba568486-5ed7-40b0-bf84-6dc16af5f2a7.png" , "ingredients":["Aceite de coco", "Aceite de mano de res", "Fenogreco","Aceite de Ricino","Aceite de argan"] }
+    {
+      "id": 1,
+      "name": "Aceite de semilla de uva (30ml)",
+      "price": 23000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764113609/822bac74-875b-4453-afbb-47c3008a5553.png",
+      "shortDescription": "",
+      "ingredients": [
+        "aceite vegetal de semilla de uva 100%"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 2,
+      "name": "Aceite de ricino (100ml)",
+      "price": 24000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763870506/acb4187b-6c13-44ac-8f66-1b64507e8ec9.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de ricino 100%"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 3,
+      "name": "Aceite de ricino (30ml)",
+      "price": 10000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764168179/ad786f70-2c08-4997-aae8-8d8554122b13.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de ricino 100%"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 4,
+      "name": "Aceite de argán (30ml)",
+      "price": 17000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765350/aceiteArgan_wv6akn.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de argán 100%"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 5,
+      "name": "Aceite de almendras (30ml)",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764116155/51647150-7b03-46ce-8f12-d970a28f790b.png",
+      "shortDescription": "",
+      "ingredients": [
+        "aceite de almendras 100%"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 6,
+      "name": "Aceite de coco virgen 100% puro (130ml)",
+      "price": 16000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021380/c20e78f8-ff6e-4454-9194-0c4ebb69eea1.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Coco 100% puro"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 7,
+      "name": "Aceite de coco virgen 100% puro (105ml)",
+      "price": 12000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764120384/edc31d0e-4e70-4036-9959-36aeb5dfe49a.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Coco 100% puro"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 8,
+      "name": "Aceite de coco virgen 100% puro (250ml)",
+      "price": 26000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764167337/74c23dac-a1d8-49e0-ab6b-cf0e94ba782a.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Coco 100% puro"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 9,
+      "name": "Aceite de coco virgen 100% puro (500ml)",
+      "price": 40000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176621/f6bd6506-e714-4391-a1f5-64e3ac4569e0.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Coco 100% puro"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 10,
+      "name": "Aceite de coco virgen 100% puro (750ml)",
+      "price": 58000 ,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764120318/ab6d2296-8ed4-4496-a6e4-08864c4f7827.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Coco 100% puro"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 11,
+      "name": "Aceite de mano de res (120ml)",
+      "price": 9000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125966/0140129a-4e3a-4479-9d91-1a200e148303.png",
+      "shortDescription": "",
+      "ingredients": [
+        "aceite de mano de res 100%"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 12,
+      "name": "Aceite de mano de res (240ml)",
+      "price": 14000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764011206/536d3238-1ca6-4df6-bcd1-c8c1ae6ef88d.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de mano de res 100%"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 13,
+      "name": "Vitamina E pura (30ml)",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764108608/7678ac03-658b-406e-87ef-a5c36f103156.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Vitamina E 100%"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 14,
+      "name": "Mezcla de aceites (120ml)",
+      "price": 12000,
+      "image": "",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco",
+        "Aceite de mano de res",
+        "Fenogreco",
+        "Aceite de Ricino",
+        "Aceite de argan"
+      ],
+      "benefits": []
+    },
+    {
+      "id": 15,
+      "name": "Mezcla de aceites (240ml)",
+      "price": 21000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764127186/ba568486-5ed7-40b0-bf84-6dc16af5f2a7.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco",
+        "Aceite de mano de res",
+        "Fenogreco",
+        "Aceite de Ricino",
+        "Aceite de argan"
+      ],
+      "benefits": []
+    }
   ]
 }
 

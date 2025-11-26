@@ -1,23 +1,40 @@
 
 
 {
-    "name":"Mascarillas",
-    "description":"descripcion para cambiar",
-    "products":[
-        { "id":64,"name": "Mascarilla preshampoo de aceite de almendras y miel", "price": 22000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111501/bf804c31-0d50-44cf-a09b-f0a82705b6d4.png" },
-        { "id":65, "name": "Mascarilla de cúrcuma y arroz 110 gr", "price": 18000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764113888/d31ceec9-437f-4e68-914b-9528fd5a3743.png" },
+    "name": "Mascarillas",
+    "description": "descripcion para cambiar",
+    "products": [
         {
-            "id":19,
+            "id": 64,
+            "name": "Mascarilla preshampoo de aceite de almendras y miel (130 gr)",
+            "price": 10000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111501/bf804c31-0d50-44cf-a09b-f0a82705b6d4.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 65,
+            "name": "Mascarilla de cúrcuma y arroz (110 gr)",
+            "price": 8000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764113888/d31ceec9-437f-4e68-914b-9528fd5a3743.png",
+            "shortDescription": "",
+            "ingredients": [],
+            "benefits": []
+        },
+        {
+            "id": 19,
             "name": "Mascarilla Detox - arcilla blanca,carbón activado,arroz y té verde 60gr",
             "price": 15000,
-            "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1763764812/MascarillaDetox_nkhwnc.jpg",
-            "ingredients":[
-            "Carbon activado",
-            "Arcilla blanca",
-            "hojas de té verde",
-            "harina de arroz"
-            ]
-    
-         }
-    ]  
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763764812/MascarillaDetox_nkhwnc.jpg",
+            "shortDescription": "",
+            "ingredients": [
+                "Carbon activado",
+                "Arcilla blanca",
+                "hojas de té verde",
+                "harina de arroz"
+            ],
+            "benefits": []
+        }
+    ]
 }
