@@ -1,0 +1,18 @@
+{
+    "name":"Macerados",
+    "description":"descripcion para cambiar",
+    "products":[
+        {"id":50, "name": "Macerado de romero 130ml", "price": null, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773341/8cff73a6-a1e7-4d15-831b-dc53328be051.png"},
+        {"id":51, "name": "Macerado de romero 250ml", "price": null, "ingredients": [], "image":"/ruta"},
+        {"id":52, "name": "Macerado de romero 105ml", "price": null, "ingredients": [], "image":"/ruta"},
+        { "id":53,"name": "Macerado de fenogreco 130ml", "price": 16000, "ingredients": [], "image":"/ruta" },
+        { "id":54,"name": "Macerado de fenogreco 250ml", "price": 16000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111242/90d44b4b-bb87-42a4-b81f-7e5cdeea7834.png" },
+        { "id":55,"name": "Macerado de fenogreco 105ml", "price": 16000, "ingredients": [], "image":"/ruta" },
+        { "id":56,"name": "Macerado de caléndula 130ml", "price": 15000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1763869056/236a2138-a658-44e0-8abe-86d249e14ac8.png" },
+        { "id":57,"name": "Macerado de caléndula 250ml", "price": 15000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110637/8a1a1dd5-41fe-4365-a10d-46f824922acc.png" },
+        { "id":58,"name": "Macerado de caléndula 105ml", "price": 15000, "ingredients": [], "image":"/ruta" },
+        { "id":59,"name": "Macerado de oregano 130ml", "price": 15000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110025/1ab40ecb-baf1-4535-abd4-a2c0d9796f6a.png" },
+        { "id":60,"name": "Macerado de oregano 250ml", "price": 15000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125548/915e6598-a49d-4166-9a87-1dbbefc4589c.png" },
+        { "id":61,"name": "Macerado de oregano 105ml", "price": 15000, "ingredients": [], "image":"/ruta" }
+    ]   
+}

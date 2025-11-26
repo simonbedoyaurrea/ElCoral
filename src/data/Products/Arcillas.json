@@ -1,0 +1,89 @@
+
+{
+  "name": "Arcillas",
+  "description": "Arcillas naturales para el cuidado de la piel. Ideales para desintoxicar, equilibrar y mejorar la apariencia del rostro de forma natural.",
+  "products": [
+    {
+      "id": 16,
+      "name": "Arcilla Verde Natural",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763771767/b29b26c9-6aae-40d5-a662-c67a6091d040.png",
+      "shortDescription": "Purificante y desintoxicante. Ideal para piel grasa o con acné.",
+      "ingredients": [
+        "Silicato de aluminio",
+        "Óxidos de hierro",
+        "Óxidos de magnesio",
+        "Calcio",
+        "Potasio",
+        "Manganeso",
+        "Zinc",
+        "Cobre"
+      ],
+      "benefits": [
+        "Regula el exceso de grasa",
+        "Ayuda a limpiar puntos negros",
+        "Reduce impurezas y toxinas",
+        "Mejora el tono de la piel"
+      ]
+    },
+
+    {
+      "id": 17,
+      "name": "Arcilla Blanca (Caolín) Natural",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763771572/ff567419-3242-4b99-8d89-435909229dad.png",
+      "shortDescription": "Ideal para pieles sensibles. Limpia sin resecar.",
+      "ingredients": [
+        "Silicato de aluminio hidratado (caolinita)",
+        "Sílice",
+        "Óxido de aluminio",
+        "Potasio",
+        "Sodio",
+        "Calcio"
+      ],
+      "benefits": [
+        "Absorbe impurezas suavemente",
+        "Aclara y unifica el tono",
+        "No reseca la piel",
+        "Reduce irritación"
+      ]
+    },
+
+    {
+      "id": 18,
+      "name": "Carbón Activado en Polvo",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764115983/bcf6b8e3-d83f-43de-9c65-1cb15f038acd.png",
+      "shortDescription": "Poderosa limpieza profunda. Ideal para mascarillas detox.",
+      "ingredients": [
+        "Carbón activado 100%"
+      ],
+      "benefits": [
+        "Desintoxica profundamente",
+        "Reduce puntos negros",
+        "Aclara la piel",
+        "Elimina impurezas y exceso de grasa"
+      ]
+    },
+
+    {
+      "id": 19,
+      "name": "Mascarilla Detox - Arcilla Blanca, Carbón Activado, Arroz y Té Verde (60g)",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763764812/MascarillaDetox_nkhwnc.jpg",
+      "shortDescription": "Fórmula detox completa para limpiar, aclarar y revitalizar el rostro.",
+      "ingredients": [
+        "Carbón activado",
+        "Arcilla blanca",
+        "Hojas de té verde",
+        "Harina de arroz"
+      ],
+      "benefits": [
+        "Reduce grasa e impurezas",
+        "Calma e ilumina la piel",
+        "Mejora textura y suavidad",
+        "Efecto detox profundo"
+      ]
+    }
+  ]
+}

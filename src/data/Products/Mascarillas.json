@@ -1,0 +1,23 @@
+
+
+{
+    "name":"Mascarillas",
+    "description":"descripcion para cambiar",
+    "products":[
+        { "id":64,"name": "Mascarilla preshampoo de aceite de almendras y miel", "price": 22000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111501/bf804c31-0d50-44cf-a09b-f0a82705b6d4.png" },
+        { "id":65, "name": "Mascarilla de cúrcuma y arroz 110 gr", "price": 18000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764113888/d31ceec9-437f-4e68-914b-9528fd5a3743.png" },
+        {
+            "id":19,
+            "name": "Mascarilla Detox - arcilla blanca,carbón activado,arroz y té verde 60gr",
+            "price": 15000,
+            "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1763764812/MascarillaDetox_nkhwnc.jpg",
+            "ingredients":[
+            "Carbon activado",
+            "Arcilla blanca",
+            "hojas de té verde",
+            "harina de arroz"
+            ]
+    
+         }
+    ]  
+}

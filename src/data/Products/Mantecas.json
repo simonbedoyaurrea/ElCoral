@@ -1,0 +1,10 @@
+
+
+{
+    "name":"Mantecas",
+    "description":"descripcion para cambiar",
+    "products":[
+        { "id":62,"name": "Manteca de cacao 50 gr", "price": 20000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1763766925/6d56813e-2fbf-4d5e-a18d-0c634f9109d0.png" },
+        { "id":63,"name": "Crema de sebo de res 75 gr", "price": 25000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764012023/5532f543-2090-4010-aba6-f4518e1323db.png" }
+    ]   
+}

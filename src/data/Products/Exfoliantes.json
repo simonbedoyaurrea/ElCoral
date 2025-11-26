@@ -1,0 +1,10 @@
+{
+    "name":"Exfoliantes",
+    "description":"descripcion para cambiar",
+    "products":[
+        { "id":28,"name": "Exfoliante corporal 300 gr", "price": 28000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764109615/5839cc16-36cf-41a2-9ea6-137bb9e4bcd9.png" },
+        { "id":29,"name": "Exfoliante corporal 430 gr", "price": 35000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764127892/0fd8d0bb-9c4f-43e7-a2e4-3d971c2c9c06.png" },
+        { "id":30,"name": "Exfoliante facial 130 gr", "price": 20000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764109604/00465876-2c20-407f-9b70-c13517a7f251.png" }
+    ]
+  
+}

@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@keyframes marquee {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-70%); }
+}
+
+/* velocidad normal (PC) */
+.animate-marquee {
+  display: inline-block;
+  min-width: 200%;
+  animation: marquee 35s linear infinite;
+}
+
+/* velocidad móvil */
+@media (max-width: 768px) {
+  .animate-marquee {
+    animation: marquee 12s linear infinite; /* más rápido */
+  }
+}
+.categorias-container {
+    --scrollbar-border-thickness: 0px;
+    --scrollbar-width: 10px;
+    --scrollbar-height: 10px;
+    --scrollbar-thumb-color: #037FF4B3;
+    --scrollbar-track-color: #A1A1AA00;
+    --scrollbar-button-color: #202028;
+    --scrollbar-corner-color: #FFFFFF;
+    --scrollbar-border-color: #000000;
+}
+.categorias-container::-webkit-scrollbar {
+    width: var(--scrollbar-width, 20px);
+    height: var(--scrollbar-height, 20px);
+}
+.categorias-container::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-thumb-color, #3B82F6);
+    border: var(--scrollbar-border-thickness, 3px) solid var(--scrollbar-border-color, rgb(255, 255, 255));
+    border-radius: var(--scrollbar-border-radius, 4px);
+    box-shadow: var(--scrollbar-thumb-box-shadow, none);
+}
+.categorias-container::-webkit-scrollbar-track {
+    background: var(--scrollbar-track-color, #A1A1AA);
+}
+.categorias-container::-webkit-scrollbar-corner {
+    background: var(--scrollbar-corner-color, #FFFFFF);
+    border: var(--scrollbar-border-thickness, 3px) solid var(--scrollbar-border-color, rgb(255, 255, 255));
+    border-radius: var(--scrollbar-border-radius, 4px);
+}
+.categorias-container::-webkit-scrollbar-button:vertical:start:increment, #preview::-webkit-scrollbar-button:vertical:end:decrement, #preview::-webkit-scrollbar-button:horizontal:start:increment, #preview::-webkit-scrollbar-button:horizontal:end:decrement {
+    display: var(--show-double-buttons, none);
+}
+
+body {
+    --scrollbar-border-thickness: 0px;
+    --scrollbar-width: 10px;
+    --scrollbar-height: 10px;
+    --scrollbar-border-radius: 40px;
+    --scrollbar-thumb-color: #3984A4F2;
+    --scrollbar-track-color: #0000003B;
+}
+body::-webkit-scrollbar {
+    width: var(--scrollbar-width, 20px);
+    height: var(--scrollbar-height, 20px);
+}
+body::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-thumb-color, #3B82F6);
+    border: var(--scrollbar-border-thickness, 3px) solid var(--scrollbar-border-color, rgb(255, 255, 255));
+    border-radius: var(--scrollbar-border-radius, 4px);
+    box-shadow: var(--scrollbar-thumb-box-shadow, none);
+}
+body::-webkit-scrollbar-track {
+    background: var(--scrollbar-track-color, #A1A1AA);
+}
+body::-webkit-scrollbar-corner {
+    background: var(--scrollbar-corner-color, #FFFFFF);
+    border: var(--scrollbar-border-thickness, 3px) solid var(--scrollbar-border-color, rgb(255, 255, 255));
+    border-radius: var(--scrollbar-border-radius, 4px);
+}
+body::-webkit-scrollbar-button:vertical:start:increment, #preview::-webkit-scrollbar-button:vertical:end:decrement, #preview::-webkit-scrollbar-button:horizontal:start:increment, #preview::-webkit-scrollbar-button:horizontal:end:decrement {
+    display: var(--show-double-buttons, none);
+}

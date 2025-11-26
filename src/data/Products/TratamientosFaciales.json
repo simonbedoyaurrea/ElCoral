@@ -1,0 +1,13 @@
+
+{
+    "name":"Tratamientos faciales",
+    "description":"descripcion para cambiar",
+    "products":[
+        { "id":66,"name": "Contorno de ojos 13 ml", "price": 30000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764177795/635a35eb-7871-4b59-ba55-92cc4983a358.png" },
+        { "id":67,"name": "Serum facial 30 ml", "price": 40000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773694/0670a968-7ceb-4165-b52b-563e92f128b2.png" },
+        { "id":68,"name": "Tratamiento cejas y pestañas 30ml", "price": 15000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765340/tratamientocejas_ee33od.png" },
+        { "id":69,"name": "Roll on relajante de lavanda 13 ml", "price": 6000, "ingredients": [], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1763772466/06883cda-57fe-4cf8-a2d1-026d6bfc5f30.png" },
+        { "id":13,"name": "Vitamina E 30 ml", "price": 15000, "ingredients": [], "image":"/ruta" },
+        { "id":70,"name": "Roll on facial de manzanilla 13ml", "price": 8000, "ingredients": ["Manzanilla","Té verde","Aceite de almendras","vitamina E"], "image":"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764114404/4c0ee121-1569-44cb-a5db-757f0d0e4a8b.png" }
+    ] 
+}

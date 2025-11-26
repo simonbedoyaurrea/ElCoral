@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Arcillas y Activos Naturales",
+    "image": "https://img.freepik.com/free-photo/close-up-texture-cream_23-2149409691.jpg?semt=ais_hybrid&w=740&q=80",
+    "link": "/categorias/arcillas"
+  },
+  {
+    "name": "Aceites Naturales y Vegetales",
+    "image": "https://mockups-design-com.b-cdn.net/wp-content/uploads/2022/06/Two_Essential_Oil_Bottles_Mockup.jpg",
+    "link": "/categorias/aceites"
+  },
+  {
+    "name": "Macerados",
+    "image": "https://naturalpoland.com/wp-content/uploads/Macerat%E2%80%93co-to-jest-i-jakie-ma-zastosowanie.jpg",
+    "link": "/categorias/macerados"
+  },
+  {
+    "name": "Mantecas y Cremas",
+    "image": "https://norte-eurocao.com/wp-content/uploads/2023/10/manteca-de-cacao-scaled.jpg",
+    "link": "/categorias/mantecas"
+  },
+  {
+    "name": "Mascarillas",
+    "image": "https://blog.choppers.com.ve/wp-content/uploads/2018/07/Mascarilla-facial-de-cu%CC%81rcuma.jpg",
+    "link": "/categorias/mascarillas"
+  },
+  {
+    "name": "Exfoliantes",
+    "image": "https://mockups-design-com.b-cdn.net/wp-content/uploads/2022/06/Cosmetic_Jar_Mockup-1.jpg",
+    "link": "/categorias/exfoliantes"
+  },
+  {
+    "name": "Jabones Naturales",
+    "image": "https://img.freepik.com/foto-gratis/procedimientos-belleza-spa-jabon-concepto-cuidado-piel_185193-109294.jpg?semt=ais_hybrid&w=740&q=80",
+    "link": "/categorias/jabones"
+  },
+  {
+    "name": "Tratamientos Faciales",
+    "image": "https://unblast.com/wp-content/uploads/2025/04/Glass-Serum-Bottle-Mockup.jpg",
+    "link": "/categorias/tratamientos"
+  },
+  {
+    "name": "Bronceadores",
+    "image": "https://img.freepik.com/psd-premium/maqueta-botella-plastica-grande-protector-solar-podio_1332-26957.jpg?semt=ais_incoming&w=740&q=80",
+    "link": "/categorias/bronceadores"
+  },
+  {
+    "name": "Labiales y Bálsamos",
+    "image": "https://media.istockphoto.com/id/1414590465/photo/3d-render-mockup-flying-empty-white-packing-chapstick-or-lip-balm.jpg?s=612x612&w=0&k=20&c=uiRX84dmMsjv1GXnsMzQn0QkMqbIcZBBnqh88hRFr0s=",
+    "link": "/categorias/balsamos"
+  },
+  {
+    "name": "Todos",
+    "image": "https://img.freepik.com/free-photo/close-up-texture-cream_23-2149409691.jpg?semt=ais_hybrid&w=740&q=80",
+    "link": "/categorias/todos"
+  }
+]
