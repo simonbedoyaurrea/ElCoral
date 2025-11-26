@@ -1,6 +1,6 @@
 import React from "react";
-import balsamoAmarillo from '../assets/balsamoAmarillo.png';
-import balsamoCafe from '../assets/balsamoCafe.png';
+import balsamoAmarillo from '../assets/BalsamoAmarillo.png';
+import balsamoCafe from '../assets/BalsamoCafe.png';
 import mockupLabios from '../assets/mockupBalsamo.png';
 
 export default function BalsamosSeccion() {
