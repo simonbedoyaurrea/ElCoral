@@ -17,18 +17,20 @@ export default function Box() {
   const message = "Hola, estoy interesado en tus productos:\n";
 
 
-  const sendBox =()=>{
-    let productsMessage = message
+  const sendBox = () => {
+  let productsMessage = "🛒 *Pedido:* \n\n";
 
-    cart.forEach((item)=>
-       productsMessage+=`-${item.name} -- ${item.quantity} --$${item.price}--- subtotal: $${item.price*item.quantity} \n`
-    )
+  cart.forEach(item => {
+    productsMessage += `• *${item.name}*\n  Cantidad: ${item.quantity}\n  Precio: $${item.price}\n  Subtotal: $${item.price * item.quantity}\n\n`;
+  });
 
-    productsMessage += `total : ${total().toLocaleString()}`
+  productsMessage += `---------------------\n`;
+  productsMessage += `*Total:* $${total().toLocaleString()}`;
 
-    const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(productsMessage)}`;
-    window.open(url, "_blank");
-  }
+  const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(productsMessage)}`;
+  window.open(url, "_blank");
+};
+
 
   return (
     <>
@@ -92,7 +94,7 @@ export default function Box() {
                     className="flex items-center gap-3 border rounded-xl p-3 hover:shadow-md transition"
                   >
                     <img
-                      src={ "https://img.freepik.com/foto-gratis/productos-belleza-surtido-destinatarios-sobre-piedras-beige_23-2148761387.jpg?semt=ais_hybrid&w=740&q=80" || item.image  }
+                      src={ item.image || "https://img.freepik.com/foto-gratis/productos-belleza-surtido-destinatarios-sobre-piedras-beige_23-2148761387.jpg?semt=ais_hybrid&w=740&q=80"  }
                       alt={item.name}
                       className="w-16 h-16 object-cover rounded-md"
                     />
