@@ -2,20 +2,39 @@ import { FiShare2 } from "react-icons/fi";
 
 export default function ShareButton({ product }) {
   const handleShare = async () => {
+    const shareData = {
+      title: product.name,
+      text: `Mira este producto: ${product.name}`,
+      url: window.location.href,
+    };
+
     try {
       if (navigator.share) {
-        await navigator.share({
-          title: product.name,
-          text: `Mira este producto: ${product.name}`,
-          url: window.location.href,
-        });
+        await navigator.share(shareData);
+        console.log("Compartido exitosamente");
       } else {
-        // fallback en caso de que el navegador NO soporte share
-        await navigator.clipboard.writeText(window.location.href);
-        alert("Link copiado 📎");
+        // fallback: copiar al portapapeles
+        if (navigator.clipboard) {
+          await navigator.clipboard.writeText(shareData.url);
+          alert("Link copiado 📎");
+        } else {
+          // fallback más antiguo para navegadores viejos
+          const tempInput = document.createElement("input");
+          tempInput.value = shareData.url;
+          document.body.appendChild(tempInput);
+          tempInput.select();
+          document.execCommand("copy");
+          document.body.removeChild(tempInput);
+          alert("Link copiado 📎");
+        }
       }
     } catch (error) {
       console.log("Error al compartir", error);
+      // Si algo falla, intentar copiar al portapapeles
+      if (navigator.clipboard) {
+        await navigator.clipboard.writeText(shareData.url);
+        alert("Link copiado 📎");
+      }
     }
   };
 
