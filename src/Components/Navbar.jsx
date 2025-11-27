@@ -31,15 +31,17 @@ export default function Navbar({ enableColorChange = true }) {
       <nav className="flex items-center justify-between max-w-6xl mx-auto relative">
 
         {/* Logo */}
+        <Link to={"/"}>
         <div className="flex items-center gap-2">
           <img src={Logo} alt="logo" className="h-8 w-auto" />
         </div>
+        </Link>
 
         {/* Links */}
         <div className='flex gap-4'>
         <div className="hidden md:flex gap-6 items-center ">
           <Link to={"/"} className="hover:text-gray-300 text-white transition">Inicio</Link>
-          <p  className="hover:text-gray-300 transition text-white">Productos</p>
+          <Link to={"/categorias/todos"} className="hover:text-gray-300 transition text-white">Productos</Link>
           
           {/* <a href="#sobre-nosotros" className="hover:text-gray-300 transition">Sobre Nosotros</a> */}
           {/* <a href="#contacto" className="hover:text-gray-300 transition">Contacto</a> */}

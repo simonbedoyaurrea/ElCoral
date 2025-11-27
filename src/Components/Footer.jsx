@@ -28,9 +28,9 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-sm">© {new Date().getFullYear()} El Coral. Todos los derechos reservados.</p>
           <div className="flex gap-4">
-            <a href="#facebook" className="hover:text-gray-400">Facebook</a>
+            {/* <a href="#facebook" className="hover:text-gray-400">Facebook</a>
             <a href="#instagram" className="hover:text-gray-400">Instagram</a>
-            <a href="#twitter" className="hover:text-gray-400">Twitter</a>
+            <a href="#twitter" className="hover:text-gray-400">Twitter</a> */}
           </div>
         </div>
       </div>
