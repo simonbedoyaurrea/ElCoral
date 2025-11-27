@@ -62,6 +62,14 @@ export default function Productdetail({ description, uses }) {
     setOpenAccordion(openAccordion === section ? null : section);
   };
 
+  if (!product) {
+  return (
+    <div className="w-full h-screen flex items-center justify-center">
+      <p className="text-gray-500">Cargando producto...</p>
+    </div>
+  );
+}
+
   return (
     <div>
       <Navbar enableColorChange={false} />
@@ -151,7 +159,7 @@ export default function Productdetail({ description, uses }) {
                     exit={{ height: 0, opacity: 0 }}
                     className="p-4 text-sm text-gray-600 space-y-1"
                   >
-                    {product.ingredients?.map((ingredient, index) => (
+                    {product?.ingredients?.map((ingredient, index) => (
                       <p key={index}>• {ingredient}</p>
                     ))}
                   </motion.div>
@@ -201,7 +209,7 @@ export default function Productdetail({ description, uses }) {
                     exit={{ height: 0, opacity: 0 }}
                     className="p-4 text-sm text-gray-600 space-y-1"
                   >
-                    {product.benefits.map((benefit, index) => (
+                    {product?.benefits?.map((benefit, index) => (
                       <p key={index}>• {benefit}</p>
                     ))}
                   </motion.div>
