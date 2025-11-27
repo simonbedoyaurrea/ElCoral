@@ -8,7 +8,7 @@
             "price": 8000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -17,7 +17,7 @@
             "price": 8000,
             "image": "",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -26,7 +26,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124283/9d854d74-b97e-499c-8825-8a8b403cfec9.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -35,7 +35,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124146/e3eca5fa-0336-489a-bf88-51c3f9a66384.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -44,7 +44,7 @@
             "price": 8000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -53,7 +53,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111779/3fab8608-cb35-496d-b70c-638b878a8428.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -62,7 +62,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764255831/a5300915-e181-451a-b6f4-1d347ac8a9e3.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -71,7 +71,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764112956/39067aec-f1c0-4228-bbfb-e196e1de06ec.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -80,7 +80,7 @@
             "price": 9000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764107772/8fac1f3f-8af9-444f-934b-652827decd13.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -89,7 +89,7 @@
             "price": 9000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111130/d5a89fde-969f-4899-abd2-45f54f14e617.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -98,7 +98,7 @@
             "price": 8000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -107,7 +107,7 @@
             "price": 8000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -116,7 +116,7 @@
             "price": 8000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -125,7 +125,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176267/eb4c05f1-bca4-42a5-8ad9-fc808e60c359.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -134,7 +134,7 @@
             "price": 8000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -143,7 +143,7 @@
             "price": 9000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021177/7cc87173-d5c5-4f4f-b462-b3de350ad0f8.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -152,7 +152,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176372/ec6bf669-e5f9-45a4-8d07-bfeb9a474f0a.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -161,7 +161,7 @@
             "price": 9000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124768/9d159a04-733a-4e8e-94bb-51edb48db093.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         },
         {
@@ -170,7 +170,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764012686/6d368cfe-0940-4c08-ba0e-a278bcf4dd0d.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Glicerina vegetal organica"],
             "benefits": []
         }
     ]

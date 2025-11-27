@@ -9,7 +9,7 @@
             "price": 8500,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764177795/635a35eb-7871-4b59-ba55-92cc4983a358.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco","Aceite de Ricino","Oleo de Rosas","Vitamina e","Aceite de almendras","Aceite de argán"],
             "benefits": []
         },
         {
@@ -18,16 +18,16 @@
             "price": 15000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773694/0670a968-7ceb-4165-b52b-563e92f128b2.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Vitamina E 100%","Aceite de almendras","Oleo de Rosa Damacena"],
             "benefits": []
         },
         {
             "id": 68,
             "name": "Tratamiento cejas y pestañas 30ml",
             "price": 15000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765340/tratamientocejas_ee33od.png",
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764277042/cb0abdeb-977d-4149-b3c1-e9cd3f5a434e.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de Ricino","Aceite de coco","Macerado de romero","Vitamina E","Macerado de fenogreco","Aceite de almendras"],
             "benefits": []
         },
         {
@@ -36,7 +36,7 @@
             "price": 6000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763772466/06883cda-57fe-4cf8-a2d1-026d6bfc5f30.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de almendras","Macerado de Lavanda","Aceite esencial de Lavanda"],
             "benefits": []
         },
        {
@@ -58,7 +58,7 @@
       ]
 
     },
-        {
+    {
             "id": 70,
             "name": "Roll on facial de manzanilla 13ml",
             "price": 8000,
@@ -76,6 +76,6 @@
                 "Reduce bolsas y ojeras",
                 "Hidrata, suaviza y nutre la piel "
             ]
-        }
+    }
     ]
 }
