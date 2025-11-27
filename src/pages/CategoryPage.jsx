@@ -56,13 +56,13 @@ export default function CategoryPage() {
 
   return (
     <div className="flex flex-col min-h-screen">
-      <Navbar />
+      <Navbar enableColorChange={false} />
       <main className="flex flex-col gap-6 pt-6 min-h-screen mt-14 ">
 
         {/* Título */}
         <CategoryTitle
           // cambiar imagen a currentcategory.imagen
-          image={"//purity.nextsky.co/cdn/shop/files/collection-lv-1_1.jpg?v=1758855551"}
+          image={"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764203445/9fb32ab9-6158-4b6d-b3e1-4055dbfae6f7.png"}
           name={currentCategory?.name || currentCategory?.nombre}
           description={currentCategory?.description || currentCategory?.descripcion}
         />

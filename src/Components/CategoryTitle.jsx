@@ -12,7 +12,7 @@ export default function CategoryTitle({name,image,description}) {
             <h1 className="text-5xl font-bold">{name}</h1>
             <p className="text-lg">{description}</p>
         </div>
-        <div className="absolute inset-0 bg-black/20 z-5" /> 
+        <div className="absolute inset-0 bg-black/70 z-5" /> 
     </div>
 
   )

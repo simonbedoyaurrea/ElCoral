@@ -1,29 +1,54 @@
 {
     "name": "Bronceadores",
-    "description": "descripcion para cambiar",
+    "description": "Bronceadores naturales formulados con macerados y aceites (achiote, zanahoria, aceite de almendras) para un bronceado natural y cuidado de la piel.",
     "products": [
         {
             "id": 26,
             "name": "Bronceador natural 120 ml",
             "price": 15000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764115287/d824927d-4ed3-466c-9ec9-142f86e0e359.png",
-            "shortDescription": "",
+            "shortDescription": "Bronceado natural, uniforme e hidratado con una fórmula 100% vegetal.",
             "ingredients": [
-                "macerado de achiote",
-                "macerado de zanahoria",
-                "aceite de almendras",
-                "canela"
+                "Macerado de achiote",
+                "Macerado de zanahoria",
+                "Aceite de almendras",
+                "Canela",
+                "Aceite de Coco"
             ],
-            "benefits": []
+            "benefits": [
+                "Potencia un bronceado dorado y uniforme",
+                "Hidrata y nutre la piel en profundidad",
+                "Protege contra la resequedad causada por el sol",
+                "Mejora la elasticidad y suavidad de la piel",
+                "Fórmula 100% natural y libre de químicos agresivos",
+                "Ideal para piel seca o normal",
+                "De rápida absorción y textura ligera",
+                "Ayuda a mantener el bronceado por más tiempo"
+                ]
         },
         {
             "id": 27,
             "name": "Bronceador natural 240 ml",
             "price": 25000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764115326/5943bf04-2bad-4adf-86ad-c7ba0041a9ed.png",
-            "shortDescription": "",
-            "ingredients": [],
-            "benefits": []
+            "shortDescription": "Bronceado natural, uniforme e hidratado con una fórmula 100% vegetal.",
+            "ingredients": [
+                "Macerado de achiote",
+                "Macerado de zanahoria",
+                "Aceite de almendras",
+                "Canela",
+                "Aceite de Coco"
+            ],
+            "benefits": [
+                "Potencia un bronceado dorado y uniforme",
+                "Hidrata y nutre la piel en profundidad",
+                "Protege contra la resequedad causada por el sol",
+                "Mejora la elasticidad y suavidad de la piel",
+                "Fórmula 100% natural y libre de químicos agresivos",
+                "Ideal para piel seca o normal",
+                "De rápida absorción y textura ligera",
+                "Ayuda a mantener el bronceado por más tiempo"
+            ]
         }
     ]
 }

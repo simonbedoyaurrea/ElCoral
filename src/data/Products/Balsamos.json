@@ -1,6 +1,6 @@
 {
     "name": "Balsamos Labiales",
-    "description": "descripcion para cambiar",
+        "description":"Bálsamos labiales naturales formulados con  ceras y aceites en sabores como cacao, menta, vainilla, naranja, caléndula y cereza para humectar y proteger los labios.",
     "products": [
         {
             "id": 20,
@@ -17,7 +17,18 @@
                 "aceite de coco",
                 "aceite de almendras"
             ],
-            "benefits": []
+            "benefits": [
+                "Hidrata profundamente los labios secos",
+                "Previene y repara labios agrietados",
+                "Forma una capa protectora contra el sol y el viento",
+                "Aporta suavidad y textura sedosa",
+                "Reduce la resequedad causada por el clima",
+                "Nutre gracias a las mantecas y aceites naturales",
+                "Ayuda a regenerar la piel de los labios",
+                "Aporta brillo natural sin sentirse pesado",
+                "Aroma suave y agradable según el sabor",
+                "Fórmula libre de químicos agresivos"
+          ]   
         },
         {
             "id": 21,
@@ -34,7 +45,18 @@
                 "aceite de coco",
                 "Macerado de calendula"
             ],
-            "benefits": []
+            "benefits": [
+                "Hidrata profundamente los labios secos",
+                "Previene y repara labios agrietados",
+                "Forma una capa protectora contra el sol y el viento",
+                "Aporta suavidad y textura sedosa",
+                "Reduce la resequedad causada por el clima",
+                "Nutre gracias a las mantecas y aceites naturales",
+                "Ayuda a regenerar la piel de los labios",
+                "Aporta brillo natural sin sentirse pesado",
+                "Aroma suave y agradable según el sabor",
+                "Fórmula libre de químicos agresivos"
+            ]
         },
         {
             "id": 22,
@@ -50,7 +72,18 @@
                 "vitamina E",
                 "aceite de coco"
             ],
-            "benefits": []
+            "benefits": [
+                "Hidrata profundamente los labios secos",
+                "Previene y repara labios agrietados",
+                "Forma una capa protectora contra el sol y el viento",
+                "Aporta suavidad y textura sedosa",
+                "Reduce la resequedad causada por el clima",
+                "Nutre gracias a las mantecas y aceites naturales",
+                "Ayuda a regenerar la piel de los labios",
+                "Aporta brillo natural sin sentirse pesado",
+                "Aroma suave y agradable según el sabor",
+                "Fórmula libre de químicos agresivos"
+            ]
         },
         {
             "id": 23,
@@ -66,7 +99,18 @@
                 "vitamina E",
                 "aceite de coco"
             ],
-            "benefits": []
+            "benefits": [
+                "Hidrata profundamente los labios secos",
+                "Previene y repara labios agrietados",
+                "Forma una capa protectora contra el sol y el viento",
+                "Aporta suavidad y textura sedosa",
+                "Reduce la resequedad causada por el clima",
+                "Nutre gracias a las mantecas y aceites naturales",
+                "Ayuda a regenerar la piel de los labios",
+                "Aporta brillo natural sin sentirse pesado",
+                "Aroma suave y agradable según el sabor",
+                "Fórmula libre de químicos agresivos"
+            ]
         },
         {
             "id": 24,
@@ -83,7 +127,18 @@
                 "aceite de coco",
                 "Macerado de Menta"
             ],
-            "benefits": []
+            "benefits": [
+                "Hidrata profundamente los labios secos",
+                "Previene y repara labios agrietados",
+                "Forma una capa protectora contra el sol y el viento",
+                "Aporta suavidad y textura sedosa",
+                "Reduce la resequedad causada por el clima",
+                "Nutre gracias a las mantecas y aceites naturales",
+                "Ayuda a regenerar la piel de los labios",
+                "Aporta brillo natural sin sentirse pesado",
+                "Aroma suave y agradable según el sabor",
+                "Fórmula libre de químicos agresivos"
+            ]
         },
         {
             "id": 25,
@@ -92,14 +147,25 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765650/cereza_acfqmc.jpg",
             "shortDescription": "",
             "ingredients": [
-                "manteca de cacao",
-                "manteca de karite",
-                "cera de abejas",
-                "extracto de cereza",
-                "vitamina E",
-                "aceite de coco"
+                "Manteca de cacao",
+                "Manteca de karite",
+                "Cera de abejas",
+                "Extracto de cereza",
+                "Vitamina E",
+                "Aceite de coco"
             ],
-            "benefits": []
+            "benefits": [
+            "Hidrata profundamente los labios secos",
+            "Previene y repara labios agrietados",
+            "Forma una capa protectora contra el sol y el viento",
+            "Aporta suavidad y textura sedosa",
+            "Reduce la resequedad causada por el clima",
+            "Nutre gracias a las mantecas y aceites naturales",
+            "Ayuda a regenerar la piel de los labios",
+            "Aporta brillo natural sin sentirse pesado",
+            "Aroma suave y agradable según el sabor",
+            "Fórmula libre de químicos agresivos"
+            ]
         }
     ]
 }

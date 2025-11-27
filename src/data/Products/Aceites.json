@@ -1,6 +1,6 @@
 {
   "name": "Aceites",
-  "description": "descripcion para cambiar",
+  "description": "Aceites vegetales y mezclas para cuidado capilar y corporal:  incluyendo coco, ricino, argán, almendras y formulaciones combinadas.",
   "products": [
     {
       "id": 1,
@@ -11,7 +11,14 @@
       "ingredients": [
         "aceite vegetal de semilla de uva 100%"
       ],
-      "benefits": []
+       "benefits": [
+          "Hidrata profundamente sin dejar sensación grasa",
+          "Ayuda a equilibrar piel grasa o mixta",
+          "Previene líneas finas y signos de envejecimiento",
+          "Aporta suavidad y luminosidad a la piel",
+          "Fortalece y nutre el cabello",
+          "Ideal para masajes por su rápida absorción"
+        ]
     },
     {
       "id": 2,
@@ -22,7 +29,13 @@
       "ingredients": [
         "Aceite de ricino 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Estimula el crecimiento de pestañas, cejas y cabello",
+        "Fortalece raíces débiles y reduce la caída",
+        "Aporta brillo y grosor natural al cabello",
+        "Hidrata zonas resecas como codos y talones",
+        "Ayuda a mejorar la apariencia de estrías y cicatrices"
+      ]
     },
     {
       "id": 3,
@@ -33,7 +46,13 @@
       "ingredients": [
         "Aceite de ricino 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Estimula el crecimiento de pestañas, cejas y cabello",
+        "Fortalece raíces débiles y reduce la caída",
+        "Aporta brillo y grosor natural al cabello",
+        "Hidrata zonas resecas como codos y talones",
+        "Ayuda a mejorar la apariencia de estrías y cicatrices"
+      ]
     },
     {
       "id": 4,
@@ -44,7 +63,14 @@
       "ingredients": [
         "Aceite de argán 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata y suaviza la piel sin obstruir poros",
+        "Repara puntas abiertas y reduce el frizz",
+        "Aporta brillo y elasticidad al cabello",
+        "Previene el envejecimiento prematuro",
+        "Calma irritaciones y enrojecimiento",
+        "Ideal para piel seca o sensible"
+      ]
     },
     {
       "id": 5,
@@ -55,7 +81,14 @@
       "ingredients": [
         "aceite de almendras 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata profundamente la piel seca",
+        "Mejora la elasticidad y suavidad de la piel",
+        "Ayuda a prevenir estrías",
+        "Calma irritaciones y descamación",
+        "Aporta brillo y suavidad al cabello",
+        "Ideal para masajes corporales"
+      ]
     },
     {
       "id": 6,
@@ -66,7 +99,20 @@
       "ingredients": [
         "Aceite de Coco 100% puro"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata la piel seca y áspera",
+        "Aporta brillo y suavidad al cabello",
+        "Reduce el frizz de manera natural",
+        "Ayuda a reparar puntas abiertas",
+        "Sirve como desmaquillante natural",
+        "Calma irritaciones leves en la piel",
+        "Fórmula natural sin químicos",
+        "Aporta energía rápida al cuerpo",
+        "Apoya la digestión y salud intestinal",
+        "Fortalece el sistema inmunológico",
+        "Ayuda a aumentar el colesterol 'bueno' (HDL)",
+        "Contribuye a la saciedad y control del apetito"
+      ]
     },
     {
       "id": 7,
@@ -77,7 +123,20 @@
       "ingredients": [
         "Aceite de Coco 100% puro"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata la piel seca y áspera",
+        "Aporta brillo y suavidad al cabello",
+        "Reduce el frizz de manera natural",
+        "Ayuda a reparar puntas abiertas",
+        "Sirve como desmaquillante natural",
+        "Calma irritaciones leves en la piel",
+        "Fórmula natural sin químicos",
+        "Aporta energía rápida al cuerpo",
+        "Apoya la digestión y salud intestinal",
+        "Fortalece el sistema inmunológico",
+        "Ayuda a aumentar el colesterol 'bueno' (HDL)",
+        "Contribuye a la saciedad y control del apetito"
+      ]
     },
     {
       "id": 8,
@@ -88,7 +147,20 @@
       "ingredients": [
         "Aceite de Coco 100% puro"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata la piel seca y áspera",
+        "Aporta brillo y suavidad al cabello",
+        "Reduce el frizz de manera natural",
+        "Ayuda a reparar puntas abiertas",
+        "Sirve como desmaquillante natural",
+        "Calma irritaciones leves en la piel",
+        "Fórmula natural sin químicos",
+        "Aporta energía rápida al cuerpo",
+        "Apoya la digestión y salud intestinal",
+        "Fortalece el sistema inmunológico",
+        "Ayuda a aumentar el colesterol 'bueno' (HDL)",
+        "Contribuye a la saciedad y control del apetito"
+      ]
     },
     {
       "id": 9,
@@ -99,7 +171,20 @@
       "ingredients": [
         "Aceite de Coco 100% puro"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata la piel seca y áspera",
+        "Aporta brillo y suavidad al cabello",
+        "Reduce el frizz de manera natural",
+        "Ayuda a reparar puntas abiertas",
+        "Sirve como desmaquillante natural",
+        "Calma irritaciones leves en la piel",
+        "Fórmula natural sin químicos",
+        "Aporta energía rápida al cuerpo",
+        "Apoya la digestión y salud intestinal",
+        "Fortalece el sistema inmunológico",
+        "Ayuda a aumentar el colesterol 'bueno' (HDL)",
+        "Contribuye a la saciedad y control del apetito"
+      ]
     },
     {
       "id": 10,
@@ -110,7 +195,20 @@
       "ingredients": [
         "Aceite de Coco 100% puro"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata la piel seca y áspera",
+        "Aporta brillo y suavidad al cabello",
+        "Reduce el frizz de manera natural",
+        "Ayuda a reparar puntas abiertas",
+        "Sirve como desmaquillante natural",
+        "Calma irritaciones leves en la piel",
+        "Fórmula natural sin químicos",
+        "Aporta energía rápida al cuerpo",
+        "Apoya la digestión y salud intestinal",
+        "Fortalece el sistema inmunológico",
+        "Ayuda a aumentar el colesterol 'bueno' (HDL)",
+        "Contribuye a la saciedad y control del apetito"
+      ]
     },
     {
       "id": 11,
@@ -121,7 +219,14 @@
       "ingredients": [
         "aceite de mano de res 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Nutre profundamente el cabello",
+        "Ayuda a fortalecer y engrosar la fibra capilar",
+        "Reduce la caída por quiebre",
+        "Aporta brillo intenso",
+        "Ayuda a reparar cabello maltratado",
+        "Ideal para tratamientos capilares caseros"
+      ]
     },
     {
       "id": 12,
@@ -132,7 +237,14 @@
       "ingredients": [
         "Aceite de mano de res 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Nutre profundamente el cabello",
+        "Ayuda a fortalecer y engrosar la fibra capilar",
+        "Reduce la caída por quiebre",
+        "Aporta brillo intenso",
+        "Ayuda a reparar cabello maltratado",
+        "Ideal para tratamientos capilares caseros"
+      ]
     },
     {
       "id": 13,
@@ -143,7 +255,15 @@
       "ingredients": [
         "Vitamina E 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Ayuda a mejorar la apariencia de cicatrices",
+        "Previene el envejecimiento prematuro",
+        "Hidrata y suaviza piel seca",
+        "Protege contra radicales libres",
+        "Aporta brillo y salud al cabello",
+        "Regenera y fortalece uñas"
+      ]
+
     },
     {
       "id": 14,
@@ -158,7 +278,15 @@
         "Aceite de Ricino",
         "Aceite de argan"
       ],
-      "benefits": []
+      "benefits": [
+        "Estimula el crecimiento del cabello",
+        "Fortalece raíces débiles y reduce la caída",
+        "Repara puntas abiertas",
+        "Aporta brillo profundo",
+        "Nutre el cuero cabelludo",
+        "Hidrata y suaviza el cabello maltratado",
+        "Ideal para tratamientos capilares nutritivos"
+      ]
     },
     {
       "id": 15,
@@ -173,7 +301,15 @@
         "Aceite de Ricino",
         "Aceite de argan"
       ],
-      "benefits": []
+      "benefits": [
+        "Estimula el crecimiento del cabello",
+        "Fortalece raíces débiles y reduce la caída",
+        "Repara puntas abiertas",
+        "Aporta brillo profundo",
+        "Nutre el cuero cabelludo",
+        "Hidrata y suaviza el cabello maltratado",
+        "Ideal para tratamientos capilares nutritivos"
+      ]
     }
   ]
 }

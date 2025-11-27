@@ -13,7 +13,7 @@ export default function Tagline() {
           transition={{ duration: 0.7, ease: "easeOut" }}
           viewport={{ once: true }}  // Solo se anima la primera vez
         >
-          Your glow-up starts here
+          Tu bienestar empieza aquí
         </motion.h1>
 
         {/* Párrafo con retardo */}
@@ -24,12 +24,11 @@ export default function Tagline() {
           transition={{ duration: 0.7, ease: "easeOut", delay: 0.2 }}
           viewport={{ once: true }}
         >
-          Whether you're soothing sensitive skin, clearing breakouts, or chasing
-          that glass-skin glow,{" "}
-          <span className="font-semibold text-gray-900">Smuuti Skin</span>{" "}
-          products make skincare fun, effective, and easy to love. Playful yet
-          powerful skincare products that blend K-beauty innovation with fruity
-          goodness.
+          Ya sea que quieras cuidar tu piel, reducir irritaciones o disfrutar ingredientes naturales de verdad,{" "}
+          <span className="font-semibold text-gray-900">El Coral</span>{" "}
+          ofrece productos que son puros, efectivos y fáciles de amar.
+          Desde aceite de coco natural y jabones artesanales hasta aceites botánicos, arcillas, manteca de cacao y bálsamos labiales,
+          nuestros productos combinan lo mejor de la naturaleza con el cuidado que tu piel merece.
         </motion.p>
 
       </div>

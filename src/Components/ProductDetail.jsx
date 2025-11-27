@@ -101,7 +101,9 @@ export default function Productdetail({ imagenes, description, uses }) {
               </button>
               {openAccordion === "ingredients" && (
                 <div className="p-2 text-sm text-gray-600">
-                  {product.ingredients?.join("-")}
+                  {product.ingredients?.map((ingredient, index) => (
+                    <p key={index}>- {ingredient}</p>
+                  ))}
                 </div>
               )}
             </div>
@@ -129,9 +131,12 @@ export default function Productdetail({ imagenes, description, uses }) {
               </button>
               {openAccordion === "shipping" && (
                 <div className="p-2 text-sm text-gray-600">
-                  - No EU import duties. <br />
-                  - Ships within 1-2 business days. <br />
-                  - Fully recyclable packaging.
+                  <ul>
+                    {product.benefits.map((benefit, index) => (
+                      <li key={index}>- {benefit}</li>
+                    ))}
+                  </ul>
+                  
                 </div>
               )}
             </div>
