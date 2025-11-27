@@ -28,7 +28,7 @@ export default function ProductCard({ image,product}) {
       w-full max-w-[180px] sm:max-w-[230px] md:max-w-[350px] 
       md:min-h-[450px]  /* altura base solo en PC */
       transition-transform hover:scale-105">
-      <Link to={`/productos/${product.name}`} state={{ product }}>
+      <Link to={`/productos/${product.id}`} state={{ product }}>
          
             <div className="w-full aspect-square overflow-hidden max-w-[350px] mx-auto">
               <img
