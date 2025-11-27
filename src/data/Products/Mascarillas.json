@@ -10,7 +10,7 @@
             "price": 10000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111501/bf804c31-0d50-44cf-a09b-f0a82705b6d4.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Miel pura","Aceite de almendras puro","Aceite de coco puro"],
             "benefits": []
         },
         {
@@ -19,8 +19,14 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764113888/d31ceec9-437f-4e68-914b-9528fd5a3743.png",
             "shortDescription": "",
-            "ingredients": [],
-            "benefits": []
+            "ingredients": ["Harina de arroz","Cúrcuma en polvo"],
+            "benefits": [
+                "Desmancha la piel",
+                "Exfolia",
+                "Ilumina el rostro",
+                "Reduce inflamación y rojeces",
+                "Aporta suavidad y elasticidad"
+            ]
         },
         {
             "id": 19,

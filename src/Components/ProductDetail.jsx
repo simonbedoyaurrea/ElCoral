@@ -1,17 +1,20 @@
 import { useState, useEffect } from "react";
-import { useLocation, useParams } from "react-router-dom";
+import { useLocation, useParams, useNavigate } from "react-router-dom";
 import todosData from "../data/Products/Todos.json";
 import BuyButton from "./BuyButton";
 import useBoxStore from "../context/BoxContext";
 import Navbar from "./Navbar";
 import { toast } from "react-toastify";
 import useSeo from "../hooks/useSeo";
+import { motion, AnimatePresence } from "framer-motion";
+import ShareButton from "./ShareButton";
 
-export default function Productdetail({ imagenes, description, uses }) {
+export default function Productdetail({ description, uses }) {
   const location = useLocation();
   const params = useParams();
+  const navigate = useNavigate();
 
-  const productFromState = location.state && location.state.product;
+  const productFromState = location.state?.product;
   const productId = params.id ? Number(params.id) : null;
 
   const product =
@@ -22,7 +25,6 @@ export default function Productdetail({ imagenes, description, uses }) {
 
   const addToBox = (product) => {
     addToCart(product);
-
     toast.success("Producto agregado con exito", {
       position: "bottom-right",
       autoClose: 900,
@@ -36,7 +38,6 @@ export default function Productdetail({ imagenes, description, uses }) {
     });
   };
 
-  // Solo una imagen
   const [selectedImage, setSelectedImage] = useState("");
 
   useEffect(() => {
@@ -54,7 +55,8 @@ export default function Productdetail({ imagenes, description, uses }) {
     url: window.location.href,
   });
 
-  const [openAccordion, setOpenAccordion] = useState(null);
+  // ⭐ ABRIR BENEFICIOS POR DEFECTO
+  const [openAccordion, setOpenAccordion] = useState("shipping");
 
   const toggleAccordion = (section) => {
     setOpenAccordion(openAccordion === section ? null : section);
@@ -64,89 +66,152 @@ export default function Productdetail({ imagenes, description, uses }) {
     <div>
       <Navbar enableColorChange={false} />
 
-      <div className="h-16" aria-hidden="true" />
+      <button
+  onClick={() => navigate(-1)}
+  className="absolute left-4 top-24 md:left-20 md:top-32 
+             z-20 flex items-center gap-2 bg-white/80 backdrop-blur 
+             px-3 py-2 rounded-full shadow-md text-gray-700 
+             hover:bg-white transition"
+>
+  <span className="text-xl">←</span>
+  <span className="hidden sm:block font-medium">Volver</span>
+</button>
+      <div className="h-20" />
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-10 p-8 max-w-6xl mx-auto">
-        {/* Imagen única */}
-        <div>
-          <div className="w-full max-w-[650px] aspect-[4/4] rounded-lg overflow-hidden shadow-lg">
+       
+
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-14 p-6 max-w-6xl mx-auto">
+
+        {/* IMAGEN */}
+        <motion.div
+          initial={{ opacity: 0, scale: 0.92 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 0.4 }}
+          
+        >
+          <div className="w-full aspect-square rounded-2xl overflow-hidden shadow-xl bg-white">
             <img
               src={selectedImage}
-              alt="Product"
-              className="w-full h-full object-cover object-center"
+              alt={product?.name}
+              className="w-full h-full object-cover"
             />
           </div>
-        </div>
+        </motion.div>
 
-        {/* Info producto */}
-        <div className="space-y-6">
+        {/* INFORMACIÓN */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.4 }}
+          className="space-y-6"
+        >
+
+          {/* Título */}
           <div>
-            <h1 className="text-3xl font-bold">{product?.name}</h1>
-            <p className="text-xl font-semibold mt-2">
-              ${product?.price ?? "-"} COP
+            <h1 className="text-4xl font-bold text-gray-900">{product?.name}</h1>
+
+            {product?.shortDescription && (
+              <p className="text-gray-600 mt-2 text-lg">
+                {product.shortDescription}
+              </p>
+            )}
+
+            <p className="text-3xl font-extrabold mt-4 text-blue-600 tracking-tight">
+               ${product?.price} COP
             </p>
           </div>
 
-          <p className="text-gray-700 leading-relaxed">{description}</p>
+          {/* Descripción */}
+          <p className="text-gray-700 leading-relaxed text-lg">{description}</p>
 
-          {/* Acordeones */}
-          <div className="border-t border-b divide-y">
+          {/* BOTÓN AGREGAR */}
+          <div className="pt-4 flex gap-3">
+            <BuyButton addToBox={() => addToBox(product)} />
+            <ShareButton product={product} />
+          </div>
+
+          {/* ACCORDEONS */}
+          <div className="border border-gray-2 rounded-xl overflow-hidden bg-white shadow-sm">
+
+            {/* Ingredientes */}
             <div>
               <button
                 onClick={() => toggleAccordion("ingredients")}
-                className="w-full flex justify-between py-3 text-left font-medium"
+                className="w-full flex justify-between items-center p-4 text-left font-semibold"
               >
                 Ingredientes y Componentes
                 <span>{openAccordion === "ingredients" ? "-" : "+"}</span>
               </button>
-              {openAccordion === "ingredients" && (
-                <div className="p-2 text-sm text-gray-600">
-                  {product.ingredients?.map((ingredient, index) => (
-                    <p key={index}>- {ingredient}</p>
-                  ))}
-                </div>
-              )}
+
+              <AnimatePresence>
+                {openAccordion === "ingredients" && (
+                  <motion.div
+                    initial={{ height: 0, opacity: 0 }}
+                    animate={{ height: "auto", opacity: 1 }}
+                    exit={{ height: 0, opacity: 0 }}
+                    className="p-4 text-sm text-gray-600 space-y-1"
+                  >
+                    {product.ingredients?.map((ingredient, index) => (
+                      <p key={index}>• {ingredient}</p>
+                    ))}
+                  </motion.div>
+                )}
+              </AnimatePresence>
             </div>
 
+            {/* Usos */}
             <div>
               <button
                 onClick={() => toggleAccordion("how")}
-                className="w-full flex justify-between py-3 text-left font-medium"
+                className="w-full flex justify-between items-center p-4 text-left font-semibold"
               >
                 Usos
                 <span>{openAccordion === "how" ? "-" : "+"}</span>
               </button>
-              {openAccordion === "how" && (
-                <div className="p-2 text-sm text-gray-600">{uses}</div>
-              )}
+
+              <AnimatePresence>
+                {openAccordion === "how" && (
+                  <motion.div
+                    initial={{ height: 0, opacity: 0 }}
+                    animate={{ height: "auto", opacity: 1 }}
+                    exit={{ height: 0, opacity: 0 }}
+                    className="p-4 text-sm text-gray-600"
+                  >
+                    {uses}
+                  </motion.div>
+                )}
+              </AnimatePresence>
             </div>
 
+            {/* Beneficios — ABIERTO POR DEFECTO */}
             <div>
               <button
                 onClick={() => toggleAccordion("shipping")}
-                className="w-full flex justify-between py-3 text-left font-medium"
+                className="w-full flex justify-between items-center p-4 text-left font-semibold"
               >
                 Beneficios
                 <span>{openAccordion === "shipping" ? "-" : "+"}</span>
               </button>
-              {openAccordion === "shipping" && (
-                <div className="p-2 text-sm text-gray-600">
-                  <ul>
+
+              <AnimatePresence>
+                {openAccordion === "shipping" && (
+                  <motion.div
+                    initial={{ height: 0, opacity: 0 }}
+                    animate={{ height: "auto", opacity: 1 }}
+                    exit={{ height: 0, opacity: 0 }}
+                    className="p-4 text-sm text-gray-600 space-y-1"
+                  >
                     {product.benefits.map((benefit, index) => (
-                      <li key={index}>- {benefit}</li>
+                      <p key={index}>• {benefit}</p>
                     ))}
-                  </ul>
-                  
-                </div>
-              )}
+                  </motion.div>
+                )}
+              </AnimatePresence>
             </div>
           </div>
 
-          {/* Botón comprar */}
-          <div className="flex gap-4">
-            <BuyButton addToBox={() => addToBox(product)} />
-          </div>
-        </div>
+          
+        </motion.div>
       </div>
     </div>
   );

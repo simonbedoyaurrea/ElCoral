@@ -3,13 +3,16 @@ import ProductDetail from "./Components/ProductDetail"
 import Home from "./pages/Home"
 import CategoryPage from "./pages/CategoryPage"
 import { ToastContainer } from "react-toastify"
+import ScrollToTop from "./Components/ScrollToTop"
 
 function App() {
   
 
   return (
     <>
+    <ScrollToTop />
     <Routes>
+        
         <Route path="/" element={<Home />} />
         <Route path="/categorias/:categoryName" element={<CategoryPage />} />
         <Route path="/productos/:id" element={<ProductDetail />} />

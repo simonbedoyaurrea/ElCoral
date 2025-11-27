@@ -2,6 +2,7 @@ import React from "react";
 import balsamoAmarillo from '../assets/BalsamoAmarillo.png';
 import balsamoCafe from '../assets/BalsamoCafe.png';
 import mockupLabios from '../assets/mockupBalsamo.png';
+import { Link } from "react-router-dom";
 
 export default function BalsamosSeccion() {
   return (
@@ -16,9 +17,11 @@ export default function BalsamosSeccion() {
             Descubre la suavidad natural de nuestros bálsamos labiales, elaborados con cera de abejas, manteca de cacao, vitamina E y macerados naturales. 
             Una mezcla única que hidrata, protege y nutre tus labios, dejándolos irresistiblemente suaves y saludables.
           </p>
+          <Link to="/categorias/balsamos">
           <button className="cursor-pointer bg-[rgb(233,1,32)] hover:bg-red-900 text-white px-6 py-2 rounded-full font-semibold transition-colors duration-300">
             ¡Mira Ahora!
           </button>
+          </Link>
         </div>
 
         {/* Imagen inferior izquierda */}

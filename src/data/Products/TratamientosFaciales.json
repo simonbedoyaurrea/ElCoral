@@ -39,15 +39,25 @@
             "ingredients": [],
             "benefits": []
         },
-        {
-            "id": 13,
-            "name": "Vitamina E 30 ml",
-            "price": 15000,
-            "image": "/ruta",
-            "shortDescription": "",
-            "ingredients": [],
-            "benefits": []
-        },
+       {
+      "id": 13,
+      "name": "Vitamina E pura (30ml)",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764108608/7678ac03-658b-406e-87ef-a5c36f103156.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Vitamina E 100%"
+      ],
+      "benefits": [
+        "Ayuda a mejorar la apariencia de cicatrices",
+        "Previene el envejecimiento prematuro",
+        "Hidrata y suaviza piel seca",
+        "Protege contra radicales libres",
+        "Aporta brillo y salud al cabello",
+        "Regenera y fortalece uñas"
+      ]
+
+    },
         {
             "id": 70,
             "name": "Roll on facial de manzanilla 13ml",
@@ -60,7 +70,12 @@
                 "Aceite de almendras",
                 "vitamina E"
             ],
-            "benefits": []
+            "benefits": [
+                "Protección antioxidante que previene el envejecimiento prematuro",
+                "Efecto anti-inflamatorio",
+                "Reduce bolsas y ojeras",
+                "Hidrata, suaviza y nutre la piel "
+            ]
         }
     ]
 }

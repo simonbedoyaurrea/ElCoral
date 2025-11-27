@@ -8,7 +8,7 @@
             "price": 17000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773341/8cff73a6-a1e7-4d15-831b-dc53328be051.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Romero"],
             "benefits": []
         },
         {
@@ -17,7 +17,7 @@
             "price": 27000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Romero"],
             "benefits": []
         },
         {
@@ -26,7 +26,7 @@
             "price": 14000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Romero"],
             "benefits": []
         },
         {
@@ -35,7 +35,7 @@
             "price": 17000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Fenogreco"],
             "benefits": []
         },
         {
@@ -44,7 +44,7 @@
             "price": 27000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111242/90d44b4b-bb87-42a4-b81f-7e5cdeea7834.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Fenogreco"],
             "benefits": []
         },
         {
@@ -53,7 +53,7 @@
             "price": 14000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Fenogreco"],
             "benefits": []
         },
         {
@@ -62,7 +62,7 @@
             "price": 17000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763869056/236a2138-a658-44e0-8abe-86d249e14ac8.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Calendula"],
             "benefits": []
         },
         {
@@ -71,7 +71,7 @@
             "price": 27000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110637/8a1a1dd5-41fe-4365-a10d-46f824922acc.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Calendula"],
             "benefits": []
         },
         {
@@ -80,7 +80,7 @@
             "price": 14000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Calendula"],
             "benefits": []
         },
         {
@@ -89,7 +89,7 @@
             "price": 17000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110025/1ab40ecb-baf1-4535-abd4-a2c0d9796f6a.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Orégano"],
             "benefits": []
         },
         {
@@ -98,7 +98,7 @@
             "price": 27000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125548/915e6598-a49d-4166-9a87-1dbbefc4589c.png",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Orégano"],
             "benefits": []
         },
         {
@@ -107,7 +107,7 @@
             "price": 14000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": [],
+            "ingredients": ["Aceite de coco 100% puro","Orégano"],
             "benefits": []
         }
     ]

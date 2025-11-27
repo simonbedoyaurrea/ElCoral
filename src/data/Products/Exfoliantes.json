@@ -26,8 +26,14 @@
             "price": 10000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764109604/00465876-2c20-407f-9b70-c13517a7f251.png",
             "shortDescription": "",
-            "ingredients": [],
-            "benefits": []
+            "ingredients": ["Harina de arroz","miel","Aceite de coco","Fibra de coco","cacao","café"],
+            "benefits": [
+                "piel más luminosa y pareja",
+                "elimina células muertas",
+                "reducción de puntos secos y opacos",
+                "aspecto descansado y revitalizado",
+                "suave al tacto"
+            ]
         }
     ]
 }
