@@ -2,7 +2,7 @@ import CategoryTitle from "../Components/CategoryTitle";
 import Footer from "../Components/Footer";
 import Navbar from "../Components/Navbar";
 import ProductCard from "../Components/ProductCard";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { useState, useMemo } from "react";
 import Fuse from "fuse.js";
 import { motion, AnimatePresence } from 'framer-motion'
@@ -126,7 +126,11 @@ export default function CategoryPage() {
                       <h3 className="font-semibold text-gray-800 mb-3">Categorías</h3>
                       <div className="space-y-2 flex flex-col">
                         {categories.map((c) => (
-                          <CategoryBox key={c.name} name={c.name} link={c.link} />
+                         <Link to={c.link} className="w-11/12">
+                            <div onClick={()=>setMobileFiltersOpen(false)} className="text-white cursor-pointer rounded-2xl bg-red-700 py-3 px-2 text-center hover:bg-red-400 transition-colors duration-300">
+                                {c.name}
+                            </div>
+                        </Link>
                         ))}
                       </div>
                     </div>
