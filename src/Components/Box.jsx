@@ -37,6 +37,7 @@ export default function Box() {
       {/* Botón flotante */}
       <button
         onClick={() => setIsOpen(true)}
+        aria-label="Abrir caja de compras"
         className=" bg-cyan-600 cursor-pointer hover:bg-blue-700 text-white rounded-full p-4 shadow-xl flex items-center justify-center transition-all z-40"
       >
         <FaBox />

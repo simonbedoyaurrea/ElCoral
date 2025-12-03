@@ -10,6 +10,7 @@ export default function CategoryCard({category,image,link}) {
         src={image}
         alt={category}
         className="w-full h-full object-cover"
+        loading='lazy'
       />
 
       {/* Curva con texto */}

@@ -1,20 +1,20 @@
-import React from 'react'
 import RotatingImage from './RotatingImage'
 import { Link } from 'react-router-dom'
 
 
 export default function Banner() {
   return (
-     <section
-      className="relative w-full h-screen bg-cover bg-center flex items-center justify-center"
-      style={{
-        backgroundImage:
-          "url('https://res.cloudinary.com/dsobv0pj7/image/upload/v1764129220/a9146fa3-dfca-4afd-9037-006a6577b720.png')",
-      }}
-    >
-      
-      {/* Overlay oscuro */}
-      <div className="absolute inset-0 bg-black/50"></div>
+      <section className="relative w-full h-screen flex items-center justify-center">
+
+      {/* Imagen principal (LCP) */}
+      <img
+        src="https://res.cloudinary.com/dsobv0pj7/image/upload/v1764129220/a9146fa3-dfca-4afd-9037-006a6577b720.png"
+        alt="Belleza Natural Banner"
+        className="absolute inset-0 w-full h-full object-cover"
+        fetchpriority="high"
+        width={1920}
+        height={1080}
+      />
 
       <RotatingImage
        src={'https://res.cloudinary.com/dsobv0pj7/image/upload/v1764180293/6a6e75ee-3b5b-454f-885f-125b91307f9e.png'} 

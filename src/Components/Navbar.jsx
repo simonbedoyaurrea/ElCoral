@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import Logo from '../assets/ELCORALLOGO.jpeg'
-import { FaBox } from 'react-icons/fa'
 import Box from './Box'
 import { Link } from 'react-router-dom'
 

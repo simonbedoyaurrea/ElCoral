@@ -1,4 +1,3 @@
-import React from 'react'
 import Navbar from '../Components/Navbar'
 import Banner from '../Components/Banner'
 import Tagline from '../Components/Tagline'
@@ -7,7 +6,6 @@ import Categories from '../Components/Categories'
 import BalsamosSeccion from '../Components/BalsamosSeccion'
 import SocialSlideBar from '../Components/SocialSlideBar'
 import Footer from '../Components/Footer'
-import BeforeAndAfter from '../Components/BeforeAndAfter'
 import useSeo from '../hooks/useSeo'
 
 export default function Home() {

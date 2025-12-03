@@ -18,8 +18,9 @@ export default function RotatingImage({
 
   return (
     <motion.img
+      role="presentation"
       src={src}
-      alt="Floating Image"
+      alt=""
       className={`absolute ${className}`}
       style={{ 
         rotate, 

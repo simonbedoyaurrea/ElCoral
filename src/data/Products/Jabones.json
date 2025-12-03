@@ -6,7 +6,7 @@
             "id": 31,
             "name": "Jabon artesanal de Miel con aceite de almendras 100gr",
             "price": 8000,
-            "image": "/ruta",
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764797133/82617bb7-35f0-47fc-b01d-c85b85524231.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica"],
             "benefits": [
@@ -55,7 +55,7 @@
             "id": 35,
             "name": "Jabon artesanal de Avena y Miel 100gr",
             "price": 8000,
-            "image": "/ruta",
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764798781/02abb25c-63b4-4f33-9a79-1811cdc32309.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica"],
             "benefits": [
@@ -129,7 +129,7 @@
             "id": 41,
             "name": "Jabon artesanal de Naranja y miel 100gr",
             "price": 8000,
-            "image": "/ruta",
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764796394/dab24a82-9a84-4328-8057-5fd1e2c98dec.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica"],
             "benefits": [
@@ -153,7 +153,7 @@
             "id": 43,
             "name": "Jabon artesanal de Pétalos de rosa Damascena 100gr",
             "price": 8000,
-            "image": "/ruta",
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764798884/6928ca1d-e807-4994-b64a-0a032705f66a.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica"],
             "benefits": ["Hidrata y suaviza la piel","Calma la piel irritada","Rico en antioxidantes que protegen la piel","Mejora el tono de la piel"]

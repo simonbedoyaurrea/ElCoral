@@ -1,4 +1,3 @@
-import { link } from 'framer-motion/client';
 import CategoryCard from './CategoryCard';
 import categories from '../data/Categories.json'
 

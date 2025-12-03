@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF, FaInstagram, FaTiktok, FaYoutube } from 'react-icons/fa'
+import {  FaInstagram, FaTiktok} from 'react-icons/fa'
 
 
 export default function SocialSlideBar() {
@@ -8,6 +8,7 @@ export default function SocialSlideBar() {
       <a
         href="https://www.instagram.com/aceite_de_coco/"
         target="_blank"
+        aria-label="Abrir Instagram"
         rel="noopener noreferrer"
         className="text-pink-500 hover:text-pink-700 transition-transform transform hover:scale-110"
       >
@@ -16,6 +17,7 @@ export default function SocialSlideBar() {
       <a
         href="https://tiktok.com"
         target="_blank"
+        aria-label="Abrir Tik Tok"
         rel="noopener noreferrer"
         className="text-black hover:text-gray-700 transition-transform transform hover:scale-110"
       >

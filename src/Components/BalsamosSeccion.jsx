@@ -1,4 +1,3 @@
-import React from "react";
 import balsamoAmarillo from '../assets/BalsamoAmarillo.png';
 import balsamoCafe from '../assets/BalsamoCafe.png';
 import mockupLabios from '../assets/mockupBalsamo.png';
