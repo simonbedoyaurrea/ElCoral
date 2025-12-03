@@ -10,7 +10,12 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764177795/635a35eb-7871-4b59-ba55-92cc4983a358.png",
             "shortDescription": "",
             "ingredients": ["Aceite de coco","Aceite de Ricino","Oleo de Rosas","Vitamina e","Aceite de almendras","Aceite de argán"],
-            "benefits": []
+            "benefits": [
+            "Lubrica y humecta",
+            "Atenúa ojeras",
+            "Es antioxidante",
+            "Hidratación profunda"
+            ]
         },
         {
             "id": 67,
