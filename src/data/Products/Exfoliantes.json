@@ -7,25 +7,37 @@
             "name": "Exfoliante corporal 300 gr",
             "price": 12000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764109615/5839cc16-36cf-41a2-9ea6-137bb9e4bcd9.png",
-            "shortDescription": "",
+            "shortDescription": "Exfoliante natural a base de azúcar, café y aceites vegetales que renueva, suaviza e hidrata profundamente la piel",
             "ingredients": ["Azucar","café","Cacao","Macerado de Naranja","Aceite de coco","Fibra de coco"],
-            "benefits": []
+            "benefits": [
+            "Clave para desobstruir los poros, permitiendo la eliminación del exceso de sebo, suciedad y células muertas.",
+            "Estimular el flujo sanguíneo.",
+            "Elimina toxinas.",
+            "Aporta brillo y mejora el aspecto de la piel.",
+            "Potencia la renovación de la piel, haciéndola más luminosa y suave."
+            ]
         },
         {
             "id": 29,
             "name": "Exfoliante corporal 430 gr",
             "price": 16000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764127892/0fd8d0bb-9c4f-43e7-a2e4-3d971c2c9c06.png",
-            "shortDescription": "",
+            "shortDescription": "Exfoliante natural a base de azúcar, café y aceites vegetales que renueva, suaviza e hidrata profundamente la piel",
             "ingredients": ["Azucar","café","Cacao","Macerado de Naranja","Aceite de coco","Fibra de coco"],
-            "benefits": []
+            "benefits": [
+            "Clave para desobstruir los poros, permitiendo la eliminación del exceso de sebo, suciedad y células muertas.",
+            "Estimular el flujo sanguíneo.",
+            "Elimina toxinas.",
+            "Aporta brillo y mejora el aspecto de la piel.",
+            "Potencia la renovación de la piel, haciéndola más luminosa y suave."
+            ]
         },
         {
             "id": 30,
             "name": "Exfoliante facial 130 gr",
             "price": 10000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764109604/00465876-2c20-407f-9b70-c13517a7f251.png",
-            "shortDescription": "",
+            "shortDescription": "Exfoliante suave para rostro que ilumina, purifica y deja la piel más pareja gracias a sus ingredientes naturales",
             "ingredients": ["Harina de arroz","miel","Aceite de coco","Fibra de coco","cacao","café"],
             "benefits": [
                 "piel más luminosa y pareja",

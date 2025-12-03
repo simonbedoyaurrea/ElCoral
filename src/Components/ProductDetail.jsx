@@ -168,7 +168,7 @@ export default function Productdetail({ description, uses }) {
             </div>
 
             {/* Usos */}
-            <div>
+            {/* <div>
               <button
                 onClick={() => toggleAccordion("how")}
                 className="w-full flex justify-between items-center p-4 text-left font-semibold"
@@ -189,7 +189,7 @@ export default function Productdetail({ description, uses }) {
                   </motion.div>
                 )}
               </AnimatePresence>
-            </div>
+            </div> */}
 
             {/* Beneficios — ABIERTO POR DEFECTO */}
             <div>

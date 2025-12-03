@@ -11,7 +11,13 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111501/bf804c31-0d50-44cf-a09b-f0a82705b6d4.png",
             "shortDescription": "",
             "ingredients": ["Miel pura","Aceite de almendras puro","Aceite de coco puro"],
-            "benefits": []
+            "benefits": [
+            "Hidrata profundamente",
+            "Repara el cabello dañado",
+            "Fortalece desde la raíz",
+            "Aporta brillo y suavidad",
+            "Previene puntas abiertas"
+            ]
         },
         {
             "id": 65,
@@ -33,14 +39,19 @@
             "name": "Mascarilla Detox - arcilla blanca,carbón activado,arroz y té verde 60gr",
             "price": 15000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763764812/MascarillaDetox_nkhwnc.jpg",
-            "shortDescription": "",
+            "shortDescription": "Fórmula detox completa para limpiar, aclarar y revitalizar el rostro.",
             "ingredients": [
                 "Carbon activado",
                 "Arcilla blanca",
                 "hojas de té verde",
                 "harina de arroz"
             ],
-            "benefits": []
+            "benefits":  [
+        "Reduce grasa e impurezas",
+        "Calma e ilumina la piel",
+        "Mejora textura y suavidad",
+        "Efecto detox profundo"
+      ]
         }
     ]
 }

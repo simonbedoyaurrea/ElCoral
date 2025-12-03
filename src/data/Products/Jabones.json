@@ -9,7 +9,13 @@
             "image": "/ruta",
             "shortDescription": "",
             "ingredients": ["Glicerina vegetal organica"],
-            "benefits": []
+            "benefits": [
+            "Hidrata y suaviza la piel",
+            "Propiedades antibacterianas naturales",
+            "Ideal para pieles sensibles",
+            "Rico en antioxidantes",
+            "Promueve una piel luminosa"
+            ]
         },
         {
             "id": 32,
@@ -27,7 +33,14 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124283/9d854d74-b97e-499c-8825-8a8b403cfec9.png",
             "shortDescription": "",
             "ingredients": ["Glicerina vegetal organica"],
-            "benefits": []
+            "benefits": [
+            "Calma pieles sensibles e irritadas",
+            "Acelera la cicatrización",
+            "Hidrata y suaviza",
+            "Alivia la picazón",
+            "Combate el acné leve",
+            "Ideal para bebés y pieles delicadas"
+            ]
         },
         {
             "id": 34,
@@ -45,7 +58,14 @@
             "image": "/ruta",
             "shortDescription": "",
             "ingredients": ["Glicerina vegetal organica"],
-            "benefits": []
+            "benefits": [
+            "Hidratación profunda",
+            "Exfoliación suave",
+            "Alivio para piel sensible",
+            "Propiedades antibacterianas",
+            "Limpieza profunda",
+            "Efecto calmante"
+            ]
         },
         {
             "id": 36,
@@ -81,7 +101,13 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764107772/8fac1f3f-8af9-444f-934b-652827decd13.png",
             "shortDescription": "",
             "ingredients": ["Glicerina vegetal organica"],
-            "benefits": []
+            "benefits": [
+            "Purifica la piel",
+            "Reduce el acné",
+            "Controla el exceso de grasa",
+            "Refresca y calma",
+            "Recomendado para piel grasa y mixta"
+            ]
         },
         {
             "id": 40,
@@ -90,7 +116,14 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111130/d5a89fde-969f-4899-abd2-45f54f14e617.png",
             "shortDescription": "",
             "ingredients": ["Glicerina vegetal organica"],
-            "benefits": []
+            "benefits": [
+            "Limpieza profunda y natural",
+            "Ayuda a controlar el acné",
+            "Antibacteriano y antifúngico",
+            "Calma la piel irritada",
+            "Aporta antioxidantes y vitaminas",
+            "Ideal para pieles grasas"
+            ]
         },
         {
             "id": 41,
@@ -99,7 +132,13 @@
             "image": "/ruta",
             "shortDescription": "",
             "ingredients": ["Glicerina vegetal organica"],
-            "benefits": []
+            "benefits": [
+            "Hidrata y suaviza la piel",
+            "Aporta luminosidad natural",
+            "Ayuda a combatir la resequedad",
+            "Rico en antioxidantes que protegen la piel",
+            "Aroma relajante y revitalizante"
+            ]
         },
         {
             "id": 42,
@@ -112,12 +151,12 @@
         },
         {
             "id": 43,
-            "name": "Jabon artesanal de Pétalos de rosa 100gr",
+            "name": "Jabon artesanal de Pétalos de rosa Damascena 100gr",
             "price": 8000,
             "image": "/ruta",
             "shortDescription": "",
             "ingredients": ["Glicerina vegetal organica"],
-            "benefits": []
+            "benefits": ["Hidrata y suaviza la piel","Calma la piel irritada","Rico en antioxidantes que protegen la piel","Mejora el tono de la piel"]
         },
         {
             "id": 44,
@@ -144,7 +183,12 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021177/7cc87173-d5c5-4f4f-b462-b3de350ad0f8.png",
             "shortDescription": "",
             "ingredients": ["Glicerina vegetal organica"],
-            "benefits": []
+            "benefits": [
+            "Aclara y suaviza la piel",
+            "Rico en antioxidantes",
+            "Ayuda a reducir manchas",
+            "Hidrata y nutre profundamente"
+            ]
         },
         {
             "id": 47,

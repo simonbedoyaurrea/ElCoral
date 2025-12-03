@@ -8,8 +8,14 @@
             "price": 17000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773341/8cff73a6-a1e7-4d15-831b-dc53328be051.png",
             "shortDescription": "",
-            "ingredients": ["Aceite de coco 100% puro","Romero"],
-            "benefits": []
+            "ingredients": ["Aceite de coco 100% puro","Romero","Aceite de ricino"],
+            "benefits": [
+                "Restaura la fibra capilar",
+                "Estimula la irrigación sanguínea",
+                "Mejora la estructura de la hebra capilar",
+                "Reduce la caída del cabello",
+                "Estimula el crecimiento"
+                ]
         },
         {
             "id": 51,
@@ -17,8 +23,14 @@
             "price": 27000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": ["Aceite de coco 100% puro","Romero"],
-            "benefits": []
+            "ingredients": ["Aceite de coco 100% puro","Romero","Aceite de ricino"],
+            "benefits": [
+            "Restaura la fibra capilar",
+            "Estimula la irrigación sanguínea",
+            "Mejora la estructura de la hebra capilar",
+            "Reduce la caída del cabello",
+            "Estimula el crecimiento"
+            ]
         },
         {
             "id": 52,
@@ -26,8 +38,14 @@
             "price": 14000,
             "image": "/ruta",
             "shortDescription": "",
-            "ingredients": ["Aceite de coco 100% puro","Romero"],
-            "benefits": []
+            "ingredients": ["Aceite de coco 100% puro","Romero","Aceite de ricino"],
+            "benefits": [
+                "Restaura la fibra capilar",
+                "Estimula la irrigación sanguínea",
+                "Mejora la estructura de la hebra capilar",
+                "Reduce la caída del cabello",
+                "Estimula el crecimiento"
+                ]
         },
         {
             "id": 53,
@@ -36,7 +54,16 @@
             "image": "/ruta",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Fenogreco"],
-            "benefits": []
+            "benefits": [
+            "Aumenta la energía y la vitalidad",
+            "Estimula el apetito",
+            "Favorece el aumento de masa muscular",
+            "Regula los niveles de azúcar en sangre",
+            "Mejora la digestión",
+            "Apoya la salud hormonal",
+            "Favorece la producción de leche materna",
+            "Mejora el perfil lipídico"
+            ]
         },
         {
             "id": 54,
@@ -45,7 +72,16 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111242/90d44b4b-bb87-42a4-b81f-7e5cdeea7834.png",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Fenogreco"],
-            "benefits": []
+            "benefits": [
+            "Aumenta la energía y la vitalidad",
+            "Estimula el apetito",
+            "Favorece el aumento de masa muscular",
+            "Regula los niveles de azúcar en sangre",
+            "Mejora la digestión",
+            "Apoya la salud hormonal",
+            "Favorece la producción de leche materna",
+            "Mejora el perfil lipídico"
+            ]
         },
         {
             "id": 55,
@@ -54,7 +90,16 @@
             "image": "/ruta",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Fenogreco"],
-            "benefits": []
+            "benefits": [
+            "Aumenta la energía y la vitalidad",
+            "Estimula el apetito",
+            "Favorece el aumento de masa muscular",
+            "Regula los niveles de azúcar en sangre",
+            "Mejora la digestión",
+            "Apoya la salud hormonal",
+            "Favorece la producción de leche materna",
+            "Mejora el perfil lipídico"
+            ]
         },
         {
             "id": 56,
@@ -63,7 +108,14 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763869056/236a2138-a658-44e0-8abe-86d249e14ac8.png",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Calendula"],
-            "benefits": []
+            "benefits": [
+            "El macerado de caléndula es rico en vitamina C, minerales y betacarotenos",
+            "Es perfecta para el tratamiento de pieles sensibles",
+            "Ayuda a la piel de los bebés por la pañalitis",
+            "Disminuye la inflamación de la piel",
+            "Suaviza y mejora la textura de la cicatrices",
+            "Evita las infecciones al poseer propiedades antisépticas y antibacterianas"
+            ]
         },
         {
             "id": 57,
@@ -72,7 +124,14 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110637/8a1a1dd5-41fe-4365-a10d-46f824922acc.png",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Calendula"],
-            "benefits": []
+            "benefits": [
+            "El macerado de caléndula es rico en vitamina C, minerales y betacarotenos",
+            "Es perfecta para el tratamiento de pieles sensibles",
+            "Ayuda a la piel de los bebés por la pañalitis",
+            "Disminuye la inflamación de la piel",
+            "Suaviza y mejora la textura de la cicatrices",
+            "Evita las infecciones al poseer propiedades antisépticas y antibacterianas"
+            ]
         },
         {
             "id": 58,
@@ -81,7 +140,14 @@
             "image": "/ruta",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Calendula"],
-            "benefits": []
+            "benefits": [
+            "El macerado de caléndula es rico en vitamina C, minerales y betacarotenos",
+            "Es perfecta para el tratamiento de pieles sensibles",
+            "Ayuda a la piel de los bebés por la pañalitis",
+            "Disminuye la inflamación de la piel",
+            "Suaviza y mejora la textura de la cicatrices",
+            "Evita las infecciones al poseer propiedades antisépticas y antibacterianas"
+            ]
         },
         {
             "id": 59,
@@ -90,7 +156,20 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110025/1ab40ecb-baf1-4535-abd4-a2c0d9796f6a.png",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Orégano"],
-            "benefits": []
+            "benefits": [
+            "Combate las infecciones respiratorias",
+            "Ayuda con las infecciones urinarias",
+            "Antiespasmódico y antiséptico",
+            "Combate la candidiasis",
+            "Estimula el apetito",
+            "Facilita la digestión",
+            "Es colerético",
+            "Antiinflamatorio",
+            "Diurético",
+            "Mejora el colesterol",
+            "Es bucodental",
+            "Previene la formación de cálculos en vesícula"
+            ]
         },
         {
             "id": 60,
@@ -99,7 +178,20 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125548/915e6598-a49d-4166-9a87-1dbbefc4589c.png",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Orégano"],
-            "benefits": []
+            "benefits": [
+            "Combate las infecciones respiratorias",
+            "Ayuda con las infecciones urinarias",
+            "Antiespasmódico y antiséptico",
+            "Combate la candidiasis",
+            "Estimula el apetito",
+            "Facilita la digestión",
+            "Es colerético",
+            "Antiinflamatorio",
+            "Diurético",
+            "Mejora el colesterol",
+            "Es bucodental",
+            "Previene la formación de cálculos en vesícula"
+            ]
         },
         {
             "id": 61,
@@ -108,7 +200,20 @@
             "image": "/ruta",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Orégano"],
-            "benefits": []
+            "benefits": [
+            "Combate las infecciones respiratorias",
+            "Ayuda con las infecciones urinarias",
+            "Antiespasmódico y antiséptico",
+            "Combate la candidiasis",
+            "Estimula el apetito",
+            "Facilita la digestión",
+            "Es colerético",
+            "Antiinflamatorio",
+            "Diurético",
+            "Mejora el colesterol",
+            "Es bucodental",
+            "Previene la formación de cálculos en vesícula"
+            ]
         }
     ]
 }

@@ -19,7 +19,7 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773694/0670a968-7ceb-4165-b52b-563e92f128b2.png",
             "shortDescription": "",
             "ingredients": ["Vitamina E 100%","Aceite de almendras","Oleo de Rosa Damacena"],
-            "benefits": []
+            "benefits": ["Protección antioxidante que previene el envejecimiento prematuro","Regenerante","Hidratante"]
         },
         {
             "id": 68,
@@ -28,7 +28,7 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764277042/cb0abdeb-977d-4149-b3c1-e9cd3f5a434e.png",
             "shortDescription": "",
             "ingredients": ["Aceite de Ricino","Aceite de coco","Macerado de romero","Vitamina E","Macerado de fenogreco","Aceite de almendras"],
-            "benefits": []
+            "benefits": ["Fortalece cejas y pestañas","Ayuda al crecimiento de cejas y pestañas","Protege las cejas y pestañas del uso frecuente del maquillaje y contaminación"]
         },
         {
             "id": 69,
@@ -37,7 +37,12 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763772466/06883cda-57fe-4cf8-a2d1-026d6bfc5f30.png",
             "shortDescription": "",
             "ingredients": ["Aceite de almendras","Macerado de Lavanda","Aceite esencial de Lavanda"],
-            "benefits": []
+            "benefits": [
+            "Sus compuestos aromáticos (linalol y acetato de linalilo) actúan sobre el sistema nervioso central para un efecto calmante.",
+            "Se reduce la producción de cortisol, la hormona del estrés.",
+            "Se estimula la actividad del sistema parasimpático, que promueve la relajación.",
+            "Puede mejorar la calidad del sueño y disminuir la ansiedad leve."
+            ]
         },
        {
       "id": 13,

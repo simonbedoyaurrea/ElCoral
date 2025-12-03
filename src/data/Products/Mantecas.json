@@ -7,27 +7,54 @@
             "name": "Manteca de cacao sin refinar 50 gr",
             "price": 11000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763766925/6d56813e-2fbf-4d5e-a18d-0c634f9109d0.png",
-            "shortDescription": "",
+            "shortDescription": "Hidratación profunda y antioxidante para una piel suave y nutrida.",
             "ingredients": ["manteca de cacao pura"],
-            "benefits": []
+            "benefits": [
+                "Hidrata profundamente",
+                "Suaviza la piel",
+                "Mejora la elasticidad",
+                "Protege contra la resequedad",
+                "Rica en antioxidantes",
+                "Atenúa la apariencia de marcas",
+                "Apta para piel sensible"
+            ]
+
         },
         {
             "id": 63,
             "name": "Crema de sebo de res 75 gr",
             "price": 25000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764012023/5532f543-2090-4010-aba6-f4518e1323db.png",
-            "shortDescription": "",
-            "ingredients": ["sebo de res","eucalipto","Manzanilla","Calendula","esencia de Menta","esenica de Lavanda","Clavo de olor"],
-            "benefits": []
+            "shortDescription": "Crema nutritiva ideal para piel seca, ayuda a restaurar y suavizar.",
+            "ingredients": ["sebo de res","eucalipto","Manzanilla","Calendula","esencia de Menta","esencia de Lavanda","Clavo de olor"],
+            "benefits": [
+                "Hidrata profundamente",
+                "Restaura la barrera cutánea",
+                "Ideal para piel muy seca",
+                "Suaviza y mejora la textura",
+                "Aporta nutrientes naturales",
+                "Calma irritaciones leves",
+                "Compatible con piel sensible",
+                "Absorción rápida y no pegajosa"
+            ]
         },
         {
             "id": 71,
             "name": "Crema de sebo de res 20 gr",
             "price": 9000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764276480/112c0a15-3a8f-42a9-991b-a2b2df6dcd46.png",
-            "shortDescription": "",
-            "ingredients": ["sebo de res","eucalipto","Manzanilla","Calendula","esencia de Menta","esenica de Lavanda","Clavo de olor"],
-            "benefits": []
+            "shortDescription": "Crema nutritiva ideal para piel seca, ayuda a restaurar y suavizar.",
+            "ingredients": ["sebo de res","eucalipto","Manzanilla","Calendula","esencia de Menta","esencia de Lavanda","Clavo de olor"],
+            "benefits": [
+                "Hidrata profundamente",
+                "Restaura la barrera cutánea",
+                "Ideal para piel muy seca",
+                "Suaviza y mejora la textura",
+                "Aporta nutrientes naturales",
+                "Calma irritaciones leves",
+                "Compatible con piel sensible",
+                "Absorción rápida y no pegajosa"
+            ]
         }
     ]
 }
