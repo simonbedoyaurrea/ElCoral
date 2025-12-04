@@ -8,7 +8,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764797133/82617bb7-35f0-47fc-b01d-c85b85524231.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "aceite de alemendras","Miel","vitamina E"],
             "benefits": [
             "Hidrata y suaviza la piel",
             "Propiedades antibacterianas naturales",
@@ -21,9 +21,9 @@
             "id": 32,
             "name": "Jabon artesanal de Romero 100gr",
             "price": 8000,
-            "image": "",
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764807314/64a07d1e-c39e-441d-a42b-1b6f6a835e75.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales","Romero","vitamina E"],
             "benefits": []
         },
         {
@@ -32,7 +32,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124283/9d854d74-b97e-499c-8825-8a8b403cfec9.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Calendula","vitamina E"],
             "benefits": [
             "Calma pieles sensibles e irritadas",
             "Acelera la cicatrización",
@@ -48,7 +48,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124146/e3eca5fa-0336-489a-bf88-51c3f9a66384.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Manzanilla","vitamina E"],
             "benefits": []
         },
         {
@@ -57,7 +57,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764798781/02abb25c-63b4-4f33-9a79-1811cdc32309.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Avena","Miel","vitamina E"],
             "benefits": [
             "Hidratación profunda",
             "Exfoliación suave",
@@ -73,7 +73,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111779/3fab8608-cb35-496d-b70c-638b878a8428.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Café","Canela","vitamina E"],
             "benefits": []
         },
         {
@@ -82,7 +82,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764255831/a5300915-e181-451a-b6f4-1d347ac8a9e3.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Eucalipto","vitamina E"],
             "benefits": []
         },
         {
@@ -91,7 +91,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764112956/39067aec-f1c0-4228-bbfb-e196e1de06ec.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Cacao","vitamina E"],
             "benefits": []
         },
         {
@@ -100,7 +100,7 @@
             "price": 9000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764107772/8fac1f3f-8af9-444f-934b-652827decd13.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Carbon activado","Aceite de árbol de Té","vitamina E"],
             "benefits": [
             "Purifica la piel",
             "Reduce el acné",
@@ -115,7 +115,7 @@
             "price": 9000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111130/d5a89fde-969f-4899-abd2-45f54f14e617.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Aceite de árbol de Té","Moringa","vitamina E"],
             "benefits": [
             "Limpieza profunda y natural",
             "Ayuda a controlar el acné",
@@ -131,7 +131,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764796394/dab24a82-9a84-4328-8057-5fd1e2c98dec.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "aceite de Naranja","Miel","vitamina E"],
             "benefits": [
             "Hidrata y suaviza la piel",
             "Aporta luminosidad natural",
@@ -144,9 +144,9 @@
             "id": 42,
             "name": "Jabon artesanal de Zanahoria y canela 100gr",
             "price": 8000,
-            "image": "/ruta",
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764807367/c5d271c1-e38c-4f3a-a3e0-da01ca68a422.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients":["Glicerina vegetal organica","aceites naturales", "Canela","aceite de Zanahoria","vitamina E"],
             "benefits": []
         },
         {
@@ -155,7 +155,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764798884/6928ca1d-e807-4994-b64a-0a032705f66a.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "vitamina E","Petalos de rosa Damascena"],
             "benefits": ["Hidrata y suaviza la piel","Calma la piel irritada","Rico en antioxidantes que protegen la piel","Mejora el tono de la piel"]
         },
         {
@@ -164,16 +164,16 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176267/eb4c05f1-bca4-42a5-8ad9-fc808e60c359.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Lavanda","vitamina E"],
             "benefits": []
         },
         {
             "id": 45,
             "name": "Jabon artesanal de Té verde 100gr",
             "price": 8000,
-            "image": "/ruta",
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764859830/250baa69-d2b4-4335-8d03-c4305236c4d7.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Hojas de Té verde","vitamina E"],
             "benefits": []
         },
         {
@@ -182,7 +182,7 @@
             "price": 9000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021177/7cc87173-d5c5-4f4f-b462-b3de350ad0f8.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Harina de arroz","Aceite de semilla de uva","vitamina E"],
             "benefits": [
             "Aclara y suaviza la piel",
             "Rico en antioxidantes",
@@ -196,7 +196,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176372/ec6bf669-e5f9-45a4-8d07-bfeb9a474f0a.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "áloe vera","Miel","vitamina E"],
             "benefits": []
         },
         {
@@ -205,8 +205,8 @@
             "price": 9000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124768/9d159a04-733a-4e8e-94bb-51edb48db093.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
-            "benefits": []
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "vitamina E"],
+            "benefits": ["Elige los jabones que tu quieras"]
         },
         {
             "id": 49,
@@ -214,7 +214,7 @@
             "price": 8000,
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764012686/6d368cfe-0940-4c08-ba0e-a278bcf4dd0d.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
-            "ingredients": ["Glicerina vegetal organica"],
+            "ingredients": ["Glicerina vegetal organica","aceites naturales", "Harina de arroz","Cúrcuma","vitamina E"],
             "benefits": []
         }
     ]
