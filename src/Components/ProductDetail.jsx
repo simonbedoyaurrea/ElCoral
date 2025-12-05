@@ -125,7 +125,7 @@ export default function Productdetail({ description, uses }) {
             )}
 
             <p className="text-3xl font-extrabold mt-4 text-blue-600 tracking-tight">
-               ${product?.price} COP
+               $ {new Intl.NumberFormat('es-CO').format(product?.price)} COP
             </p>
           </div>
 
