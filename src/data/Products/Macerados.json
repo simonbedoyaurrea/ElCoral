@@ -36,7 +36,7 @@
             "id": 52,
             "name": "Macerado de romero 105ml",
             "price": 14000,
-            "image": "/ruta",
+            "image": null,
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Romero","Aceite de ricino"],
             "benefits": [
@@ -87,7 +87,7 @@
             "id": 55,
             "name": "Macerado de fenogreco 105ml",
             "price": 14000,
-            "image": "/ruta",
+            "image": null,
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Fenogreco"],
             "benefits": [
@@ -137,7 +137,7 @@
             "id": 58,
             "name": "Macerado de caléndula 105ml",
             "price": 14000,
-            "image": "/ruta",
+            "image": null,
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Calendula"],
             "benefits": [
@@ -197,7 +197,7 @@
             "id": 61,
             "name": "Macerado de oregano 105ml",
             "price": 14000,
-            "image": "/ruta",
+            "image": null,
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Orégano"],
             "benefits": [

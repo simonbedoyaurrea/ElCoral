@@ -269,7 +269,7 @@
       "id": 14,
       "name": "Mezcla de aceites (120ml)",
       "price": 12000,
-      "image": "",
+      "image": null,
       "shortDescription": "",
       "ingredients": [
         "Aceite de coco",

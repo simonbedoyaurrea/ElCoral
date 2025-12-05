@@ -3,7 +3,7 @@ import { toast } from "react-toastify";
 import useBoxStore from "../context/BoxContext";
 import { FaBox } from "react-icons/fa";
 
-export default function ProductCard({ image,product}) {
+export default function ProductCard({ product}) {
 
   const addToCart = useBoxStore((state) => state.addToCart);
 
@@ -32,7 +32,7 @@ export default function ProductCard({ image,product}) {
          
             <div className="w-full aspect-square overflow-hidden max-w-[350px] mx-auto">
               <img
-              src={image ?? product.image}
+              src={product.image ?product.image:"https://res.cloudinary.com/dsobv0pj7/image/upload/v1764893460/44dc0ffd-8642-4476-b1f8-b8fabcdb18f5.png"}
               alt={`Comprar ${product.name} al mejor precio`}
               loading="lazy"
               className="h-full w-full object-cover"

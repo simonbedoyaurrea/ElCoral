@@ -268,7 +268,7 @@
       "id": 14,
       "name": "Mezcla de aceites (120ml)",
       "price": 12000,
-      "image": "",
+      "image": null,
       "shortDescription": "",
       "ingredients": [
         "Aceite de coco",
@@ -1091,7 +1091,7 @@
       "id": 52,
       "name": "Macerado de romero 105ml",
       "price": 14000,
-      "image": "/ruta",
+      "image": null,
       "shortDescription": "",
       "ingredients": [
         "Aceite de coco 100% puro",
@@ -1152,7 +1152,7 @@
       "id": 55,
       "name": "Macerado de fenogreco 105ml",
       "price": 14000,
-      "image": "/ruta",
+      "image": null,
       "shortDescription": "",
       "ingredients": [
         "Aceite de coco 100% puro",
@@ -1211,7 +1211,7 @@
       "id": 58,
       "name": "Macerado de caléndula 105ml",
       "price": 14000,
-      "image": "/ruta",
+      "image": null,
       "shortDescription": "",
       "ingredients": [
         "Aceite de coco 100% puro",
@@ -1280,7 +1280,7 @@
       "id": 61,
       "name": "Macerado de oregano 105ml",
       "price": 14000,
-      "image": "/ruta",
+      "image": null,
       "shortDescription": "",
       "ingredients": [
         "Aceite de coco 100% puro",
@@ -1325,32 +1325,6 @@
       "name": "Crema de sebo de res 75 gr",
       "price": 25000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764012023/5532f543-2090-4010-aba6-f4518e1323db.png",
-      "shortDescription": "Crema nutritiva ideal para piel seca, ayuda a restaurar y suavizar.",
-      "ingredients": [
-        "sebo de res",
-        "eucalipto",
-        "Manzanilla",
-        "Calendula",
-        "esencia de Menta",
-        "esencia de Lavanda",
-        "Clavo de olor"
-      ],
-      "benefits": [
-        "Hidrata profundamente",
-        "Restaura la barrera cutánea",
-        "Ideal para piel muy seca",
-        "Suaviza y mejora la textura",
-        "Aporta nutrientes naturales",
-        "Calma irritaciones leves",
-        "Compatible con piel sensible",
-        "Absorción rápida y no pegajosa"
-      ]
-    },
-    {
-      "id": 71,
-      "name": "Crema de sebo de res 20 gr",
-      "price": 9000,
-      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764276480/112c0a15-3a8f-42a9-991b-a2b2df6dcd46.png",
       "shortDescription": "Crema nutritiva ideal para piel seca, ayuda a restaurar y suavizar.",
       "ingredients": [
         "sebo de res",
@@ -1504,6 +1478,32 @@
         "Efecto anti-inflamatorio",
         "Reduce bolsas y ojeras",
         "Hidrata, suaviza y nutre la piel "
+      ]
+    },
+     {
+      "id": 71,
+      "name": "Crema de sebo de res 20 gr",
+      "price": 9000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764276480/112c0a15-3a8f-42a9-991b-a2b2df6dcd46.png",
+      "shortDescription": "Crema nutritiva ideal para piel seca, ayuda a restaurar y suavizar.",
+      "ingredients": [
+        "sebo de res",
+        "eucalipto",
+        "Manzanilla",
+        "Calendula",
+        "esencia de Menta",
+        "esencia de Lavanda",
+        "Clavo de olor"
+      ],
+      "benefits": [
+        "Hidrata profundamente",
+        "Restaura la barrera cutánea",
+        "Ideal para piel muy seca",
+        "Suaviza y mejora la textura",
+        "Aporta nutrientes naturales",
+        "Calma irritaciones leves",
+        "Compatible con piel sensible",
+        "Absorción rápida y no pegajosa"
       ]
     }
   ]
