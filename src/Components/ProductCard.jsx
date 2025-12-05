@@ -42,7 +42,7 @@ export default function ProductCard({ product}) {
               {/* Info */}
               <div className="text-center p-2">
                 <h2 className="font-semibold text-gray-800 line-clamp-3">{product.name}</h2>
-                <p className="text-gray-600">${product.price} COP</p>
+                <p className="text-gray-600">${new Intl.NumberFormat('es-CO').format(product.price)} COP</p>
               </div>
       </Link>
         <button

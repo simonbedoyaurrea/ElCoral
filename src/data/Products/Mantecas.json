@@ -55,6 +55,21 @@
                 "Compatible con piel sensible",
                 "Absorción rápida y no pegajosa"
             ]
+        },
+        {
+            "id": 72,
+            "name": "Crema Sólida 10 gr",
+            "price": 2000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764895049/136553b1-091f-446a-a491-fa8a40916b76.png",
+            "shortDescription": "",
+            "ingredients": ["manteca de cacao pura","Aceite de almendras","Macerado de caléndula"],
+            "benefits": [
+                "Hidrata profundamente",
+                "Nutrición de la piel",
+                "Acción calmante",
+                "Acción Antiinflamatoria",
+                "Rica en antioxidantes"
+            ]
         }
     ]
 }
