@@ -21,7 +21,7 @@
             "id": 51,
             "name": "Macerado de romero 250ml",
             "price": 27000,
-            "image": "/ruta",
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764889451/5452f2aa-459d-4986-95f0-faffb943fc20.png",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Romero","Aceite de ricino"],
             "benefits": [
@@ -51,7 +51,7 @@
             "id": 53,
             "name": "Macerado de fenogreco 130ml",
             "price": 17000,
-            "image": "/ruta",
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764889603/b201dbe3-a256-4883-854a-60069e423b28.png",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Fenogreco"],
             "benefits": [

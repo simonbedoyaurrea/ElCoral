@@ -24,7 +24,13 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764807314/64a07d1e-c39e-441d-a42b-1b6f6a835e75.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica","aceites naturales","Romero","vitamina E"],
-            "benefits": []
+            "benefits": [
+                "Beneficios para la barba",
+                "Hidrata y nutre la piel",
+                "Limpieza profunda y natural",
+                "propiedades anticaspa",
+                "Fortalece el vello"
+            ]
         },
         {
             "id": 33,
@@ -49,7 +55,12 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124146/e3eca5fa-0336-489a-bf88-51c3f9a66384.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica","aceites naturales", "Manzanilla","vitamina E"],
-            "benefits": []
+            "benefits": [
+                "Antiinflamatorio",
+                "Hidrata y nutre la piel",
+                "Ideal para pieles sensibles",
+                "Aclara la piel"
+            ]
         },
         {
             "id": 35,
@@ -74,7 +85,13 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111779/3fab8608-cb35-496d-b70c-638b878a8428.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica","aceites naturales", "Café","Canela","vitamina E"],
-            "benefits": []
+            "benefits": [
+                "Exfolia  y elimina células muertas",
+                "Estimula la circulación",
+                "Ayuda a mejorar la apariencia de la celulitis",
+                "Deja la piel suave , tonificada y con un aroma increible",
+                "Activa la piel cansada y opaca"
+            ]
         },
         {
             "id": 37,
@@ -83,7 +100,12 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764255831/a5300915-e181-451a-b6f4-1d347ac8a9e3.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica","aceites naturales", "Eucalipto","vitamina E"],
-            "benefits": []
+            "benefits": [
+                "Purifica y desinfecta",
+                "Descongestiona",
+                "Regresca y tonifica",
+                "Alivia irritaciones"
+            ]
         },
         {
             "id": 38,
@@ -92,7 +114,13 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764112956/39067aec-f1c0-4228-bbfb-e196e1de06ec.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica","aceites naturales", "Cacao","vitamina E"],
-            "benefits": []
+            "benefits": [
+                "Hidrata y nutre profundamente",
+                "Calma la piel irritada",
+                "Aporta luminosidad natural",
+                "Aroma relajante y revitalizante",
+                "Suaviza la piel"
+            ]
         },
         {
             "id": 39,
@@ -147,7 +175,13 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764807367/c5d271c1-e38c-4f3a-a3e0-da01ca68a422.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients":["Glicerina vegetal organica","aceites naturales", "Canela","aceite de Zanahoria","vitamina E"],
-            "benefits": []
+            "benefits": [
+                "Ilumina el tono de la piel",
+                "Ayuda a combatir el acné",
+                "Exfoliación suave",
+                "Rico en antioxidantes y vitamina A"
+
+            ]
         },
         {
             "id": 43,
@@ -165,7 +199,12 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176267/eb4c05f1-bca4-42a5-8ad9-fc808e60c359.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica","aceites naturales", "Lavanda","vitamina E"],
-            "benefits": []
+            "benefits": [
+                "Relajante",
+                "Hidrata y nutre la piel",
+                "Antioxidante",
+                "Calma la piel irritada"
+            ]
         },
         {
             "id": 45,
@@ -174,7 +213,12 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764859830/250baa69-d2b4-4335-8d03-c4305236c4d7.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica","aceites naturales", "Hojas de Té verde","vitamina E"],
-            "benefits": []
+            "benefits": [
+            "Beneficios antioxidantes",
+            "Reduce el exceso de grasa y celulas muertas",
+            "Ayuda al tratamiento del acné",
+            "Alivia irritaciones"
+            ]
         },
         {
             "id": 46,
@@ -197,7 +241,13 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176372/ec6bf669-e5f9-45a4-8d07-bfeb9a474f0a.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica","aceites naturales", "áloe vera","Miel","vitamina E"],
-            "benefits": []
+            "benefits": [
+                "Hidrata y nutre profundamente",
+                "Estimula la regeneración celular",
+                "Combate el acné leve",
+                "Efecto calmante",
+                "Previene el envejecimiento"
+            ]
         },
         {
             "id": 48,
@@ -215,7 +265,14 @@
             "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764012686/6d368cfe-0940-4c08-ba0e-a278bcf4dd0d.png",
             "shortDescription": "Jabon artesanal a base de glicerina vegetal",
             "ingredients": ["Glicerina vegetal organica","aceites naturales", "Harina de arroz","Cúrcuma","vitamina E"],
-            "benefits": []
+            "benefits": [
+                "Ilumina el tono de la piel",
+                "Reduce manchas y marcas",
+                "Efecto calmante",
+                "Antiinflamatorio",
+                "Aporta antioxidantes y vitaminas",
+                "Suaviza y nutre la piel"
+            ]
         }
     ]
 }

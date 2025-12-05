@@ -1,90 +1,321 @@
 {
   "name": "todos",
-  "description": "",
+  "description": "todos los productos disponibles: aceites, arcillas, bálsamos, bronceadores, exfoliantes, jabones, macerados, mantecas, mascarillas y tratamientos faciales.",
   "products": [
     {
       "id": 1,
-      "name": "Aceite de semilla de uva 30 ml",
-      "price": 15000,
-      "image": "/ruta",
+      "name": "Aceite de semilla de uva (30ml)",
+      "price": 23000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764113609/822bac74-875b-4453-afbb-47c3008a5553.png",
       "shortDescription": "",
       "ingredients": [
         "aceite vegetal de semilla de uva 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata profundamente sin dejar sensación grasa",
+        "Ayuda a equilibrar piel grasa o mixta",
+        "Previene líneas finas y signos de envejecimiento",
+        "Aporta suavidad y luminosidad a la piel",
+        "Fortalece y nutre el cabello",
+        "Ideal para masajes por su rápida absorción"
+      ]
     },
     {
       "id": 2,
-      "name": "Aceite de ricino 30 ml",
-      "price": 10000,
-      "image": "/ruta",
+      "name": "Aceite de ricino (100ml)",
+      "price": 24000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763870506/acb4187b-6c13-44ac-8f66-1b64507e8ec9.png",
       "shortDescription": "",
       "ingredients": [
-        "aceite de ricino 100%"
+        "Aceite de ricino 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Estimula el crecimiento de pestañas, cejas y cabello",
+        "Fortalece raíces débiles y reduce la caída",
+        "Aporta brillo y grosor natural al cabello",
+        "Hidrata zonas resecas como codos y talones",
+        "Ayuda a mejorar la apariencia de estrías y cicatrices"
+      ]
     },
     {
       "id": 3,
-      "name": "Aceite de ricino 10 ml",
-      "price": 5000,
-      "image": "/ruta",
+      "name": "Aceite de ricino (30ml)",
+      "price": 10000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764168179/ad786f70-2c08-4997-aae8-8d8554122b13.png",
       "shortDescription": "",
       "ingredients": [
-        "aceite de ricino 100%"
+        "Aceite de ricino 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Estimula el crecimiento de pestañas, cejas y cabello",
+        "Fortalece raíces débiles y reduce la caída",
+        "Aporta brillo y grosor natural al cabello",
+        "Hidrata zonas resecas como codos y talones",
+        "Ayuda a mejorar la apariencia de estrías y cicatrices"
+      ]
     },
     {
       "id": 4,
-      "name": "Aceite de almendras 30 ml",
-      "price": 12000,
-      "image": "/ruta",
+      "name": "Aceite de argán (30ml)",
+      "price": 17000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764263177/900711f2-f8a3-4bda-bd23-2e981ac9f1c5.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de argán 100%"
+      ],
+      "benefits": [
+        "Hidrata y suaviza la piel sin obstruir poros",
+        "Repara puntas abiertas y reduce el frizz",
+        "Aporta brillo y elasticidad al cabello",
+        "Previene el envejecimiento prematuro",
+        "Calma irritaciones y enrojecimiento",
+        "Ideal para piel seca o sensible"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Aceite de almendras (30ml)",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764116155/51647150-7b03-46ce-8f12-d970a28f790b.png",
       "shortDescription": "",
       "ingredients": [
         "aceite de almendras 100%"
       ],
-      "benefits": []
-    },
-    {
-      "id": 5,
-      "name": "Aceite de coco",
-      "price": 10000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [
-        "aceite de Coco 100% puro"
-      ],
-      "benefits": []
+      "benefits": [
+        "Hidrata profundamente la piel seca",
+        "Mejora la elasticidad y suavidad de la piel",
+        "Ayuda a prevenir estrías",
+        "Calma irritaciones y descamación",
+        "Aporta brillo y suavidad al cabello",
+        "Ideal para masajes corporales"
+      ]
     },
     {
       "id": 6,
-      "name": "Aceite de mano de res 120 ml",
-      "price": 18000,
-      "image": "/ruta",
+      "name": "Aceite de coco virgen 100% puro (130ml)",
+      "price": 16000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021380/c20e78f8-ff6e-4454-9194-0c4ebb69eea1.png",
       "shortDescription": "",
       "ingredients": [
-        "aceite de mano de res 100%"
+        "Aceite de Coco 100% puro"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata la piel seca y áspera",
+        "Aporta brillo y suavidad al cabello",
+        "Reduce el frizz de manera natural",
+        "Ayuda a reparar puntas abiertas",
+        "Sirve como desmaquillante natural",
+        "Calma irritaciones leves en la piel",
+        "Fórmula natural sin químicos",
+        "Aporta energía rápida al cuerpo",
+        "Apoya la digestión y salud intestinal",
+        "Fortalece el sistema inmunológico",
+        "Ayuda a aumentar el colesterol 'bueno' (HDL)",
+        "Contribuye a la saciedad y control del apetito"
+      ]
     },
     {
       "id": 7,
-      "name": "Aceite de mano de res 240 ml",
-      "price": 30000,
-      "image": "/ruta",
+      "name": "Aceite de coco virgen 100% puro (105ml)",
+      "price": 12000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764120384/edc31d0e-4e70-4036-9959-36aeb5dfe49a.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Coco 100% puro"
+      ],
+      "benefits": [
+        "Hidrata la piel seca y áspera",
+        "Aporta brillo y suavidad al cabello",
+        "Reduce el frizz de manera natural",
+        "Ayuda a reparar puntas abiertas",
+        "Sirve como desmaquillante natural",
+        "Calma irritaciones leves en la piel",
+        "Fórmula natural sin químicos",
+        "Aporta energía rápida al cuerpo",
+        "Apoya la digestión y salud intestinal",
+        "Fortalece el sistema inmunológico",
+        "Ayuda a aumentar el colesterol 'bueno' (HDL)",
+        "Contribuye a la saciedad y control del apetito"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Aceite de coco virgen 100% puro (250ml)",
+      "price": 26000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764167337/74c23dac-a1d8-49e0-ab6b-cf0e94ba782a.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Coco 100% puro"
+      ],
+      "benefits": [
+        "Hidrata la piel seca y áspera",
+        "Aporta brillo y suavidad al cabello",
+        "Reduce el frizz de manera natural",
+        "Ayuda a reparar puntas abiertas",
+        "Sirve como desmaquillante natural",
+        "Calma irritaciones leves en la piel",
+        "Fórmula natural sin químicos",
+        "Aporta energía rápida al cuerpo",
+        "Apoya la digestión y salud intestinal",
+        "Fortalece el sistema inmunológico",
+        "Ayuda a aumentar el colesterol 'bueno' (HDL)",
+        "Contribuye a la saciedad y control del apetito"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Aceite de coco virgen 100% puro (500ml)",
+      "price": 40000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176621/f6bd6506-e714-4391-a1f5-64e3ac4569e0.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Coco 100% puro"
+      ],
+      "benefits": [
+        "Hidrata la piel seca y áspera",
+        "Aporta brillo y suavidad al cabello",
+        "Reduce el frizz de manera natural",
+        "Ayuda a reparar puntas abiertas",
+        "Sirve como desmaquillante natural",
+        "Calma irritaciones leves en la piel",
+        "Fórmula natural sin químicos",
+        "Aporta energía rápida al cuerpo",
+        "Apoya la digestión y salud intestinal",
+        "Fortalece el sistema inmunológico",
+        "Ayuda a aumentar el colesterol 'bueno' (HDL)",
+        "Contribuye a la saciedad y control del apetito"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Aceite de coco virgen 100% puro (750ml)",
+      "price": 58000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764120318/ab6d2296-8ed4-4496-a6e4-08864c4f7827.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Coco 100% puro"
+      ],
+      "benefits": [
+        "Hidrata la piel seca y áspera",
+        "Aporta brillo y suavidad al cabello",
+        "Reduce el frizz de manera natural",
+        "Ayuda a reparar puntas abiertas",
+        "Sirve como desmaquillante natural",
+        "Calma irritaciones leves en la piel",
+        "Fórmula natural sin químicos",
+        "Aporta energía rápida al cuerpo",
+        "Apoya la digestión y salud intestinal",
+        "Fortalece el sistema inmunológico",
+        "Ayuda a aumentar el colesterol 'bueno' (HDL)",
+        "Contribuye a la saciedad y control del apetito"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Aceite de mano de res (120ml)",
+      "price": 9000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125966/0140129a-4e3a-4479-9d91-1a200e148303.png",
       "shortDescription": "",
       "ingredients": [
         "aceite de mano de res 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Nutre profundamente el cabello",
+        "Ayuda a fortalecer y engrosar la fibra capilar",
+        "Reduce la caída por quiebre",
+        "Aporta brillo intenso",
+        "Ayuda a reparar cabello maltratado",
+        "Ideal para tratamientos capilares caseros"
+      ]
     },
     {
-      "id": 8,
-      "name": "Arcilla Verde",
-      "price": 15000,
-      "image": "/ruta",
+      "id": 12,
+      "name": "Aceite de mano de res (240ml)",
+      "price": 14000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764011206/536d3238-1ca6-4df6-bcd1-c8c1ae6ef88d.png",
       "shortDescription": "",
+      "ingredients": [
+        "Aceite de mano de res 100%"
+      ],
+      "benefits": [
+        "Nutre profundamente el cabello",
+        "Ayuda a fortalecer y engrosar la fibra capilar",
+        "Reduce la caída por quiebre",
+        "Aporta brillo intenso",
+        "Ayuda a reparar cabello maltratado",
+        "Ideal para tratamientos capilares caseros"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Vitamina E pura (30ml)",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764108608/7678ac03-658b-406e-87ef-a5c36f103156.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Vitamina E 100%"
+      ],
+      "benefits": [
+        "Ayuda a mejorar la apariencia de cicatrices",
+        "Previene el envejecimiento prematuro",
+        "Hidrata y suaviza piel seca",
+        "Protege contra radicales libres",
+        "Aporta brillo y salud al cabello",
+        "Regenera y fortalece uñas"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Mezcla de aceites (120ml)",
+      "price": 12000,
+      "image": "",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco",
+        "Aceite de mano de res",
+        "Fenogreco",
+        "Aceite de Ricino",
+        "Aceite de argan"
+      ],
+      "benefits": [
+        "Estimula el crecimiento del cabello",
+        "Fortalece raíces débiles y reduce la caída",
+        "Repara puntas abiertas",
+        "Aporta brillo profundo",
+        "Nutre el cuero cabelludo",
+        "Hidrata y suaviza el cabello maltratado",
+        "Ideal para tratamientos capilares nutritivos"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Mezcla de aceites (240ml)",
+      "price": 21000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764127186/ba568486-5ed7-40b0-bf84-6dc16af5f2a7.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco",
+        "Aceite de mano de res",
+        "Fenogreco",
+        "Aceite de Ricino",
+        "Aceite de argan"
+      ],
+      "benefits": [
+        "Estimula el crecimiento del cabello",
+        "Fortalece raíces débiles y reduce la caída",
+        "Repara puntas abiertas",
+        "Aporta brillo profundo",
+        "Nutre el cuero cabelludo",
+        "Hidrata y suaviza el cabello maltratado",
+        "Ideal para tratamientos capilares nutritivos"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Arcilla Verde Natural",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763771767/b29b26c9-6aae-40d5-a662-c67a6091d040.png",
+      "shortDescription": "Purificante y desintoxicante. Ideal para piel grasa o con acné.",
       "ingredients": [
         "Silicato de aluminio",
         "Óxidos de hierro",
@@ -95,14 +326,19 @@
         "Zinc",
         "Cobre"
       ],
-      "benefits": []
+      "benefits": [
+        "Regula el exceso de grasa",
+        "Ayuda a limpiar puntos negros",
+        "Reduce impurezas y toxinas",
+        "Mejora el tono de la piel"
+      ]
     },
     {
-      "id": 9,
-      "name": "Arcilla Blanca",
+      "id": 17,
+      "name": "Arcilla Blanca (Caolín) Natural",
       "price": 15000,
-      "image": "/ruta",
-      "shortDescription": "",
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763771572/ff567419-3242-4b99-8d89-435909229dad.png",
+      "shortDescription": "Ideal para pieles sensibles. Limpia sin resecar.",
       "ingredients": [
         "Silicato de aluminio hidratado (caolinita)",
         "Sílice",
@@ -111,25 +347,54 @@
         "Sodio",
         "Calcio"
       ],
-      "benefits": []
+      "benefits": [
+        "Absorbe impurezas suavemente",
+        "Aclara y unifica el tono",
+        "No reseca la piel",
+        "Reduce irritación"
+      ]
     },
     {
-      "id": 10,
-      "name": "Carbón activado",
-      "price": null,
-      "image": "/ruta",
-      "shortDescription": "",
+      "id": 18,
+      "name": "Carbón Activado en Polvo (33gr)",
+      "price": 10000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764115983/bcf6b8e3-d83f-43de-9c65-1cb15f038acd.png",
+      "shortDescription": "Poderosa limpieza profunda. Ideal para mascarillas detox.",
       "ingredients": [
-        "Carbon activado 100%"
+        "Carbón activado 100%"
       ],
-      "benefits": []
+      "benefits": [
+        "Desintoxica profundamente",
+        "Reduce puntos negros",
+        "Aclara la piel",
+        "Elimina impurezas y exceso de grasa"
+      ]
     },
     {
-      "id": 11,
+      "id": 19,
+      "name": "Mascarilla Detox - Arcilla Blanca, Carbón Activado, Arroz y Té Verde (60g)",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763764812/MascarillaDetox_nkhwnc.jpg",
+      "shortDescription": "Fórmula detox completa para limpiar, aclarar y revitalizar el rostro.",
+      "ingredients": [
+        "Carbón activado",
+        "Arcilla blanca",
+        "Hojas de té verde",
+        "Harina de arroz"
+      ],
+      "benefits": [
+        "Reduce grasa e impurezas",
+        "Calma e ilumina la piel",
+        "Mejora textura y suavidad",
+        "Efecto detox profundo"
+      ]
+    },
+    {
+      "id": 20,
       "name": "Balsamo labial Cacao 4gr",
       "price": 4000,
-      "image": "/ruta",
-      "shortDescription": "",
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765725/6817f5a0-4f4d-4fc8-ba73-e11a46de77b1.png",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
         "manteca de cacao",
         "manteca de karite",
@@ -139,14 +404,25 @@
         "aceite de coco",
         "aceite de almendras"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
     },
     {
-      "id": 12,
+      "id": 21,
       "name": "Balsamo labial Caléncula con Manzanilla 4gr",
       "price": 4000,
-      "image": "/ruta",
-      "shortDescription": "",
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768846/8ecd9829-f008-49d0-aea1-51cd2f1195da.png",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
         "manteca de cacao",
         "manteca de karite",
@@ -156,14 +432,25 @@
         "aceite de coco",
         "Macerado de calendula"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
     },
     {
-      "id": 13,
+      "id": 22,
       "name": "Balsamo labial Naranja 4gr",
       "price": 4000,
-      "image": "/ruta",
-      "shortDescription": "",
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768969/3c352b42-8ea0-4b04-aec7-6cbe1231937c.png",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
         "manteca de cacao",
         "manteca de karite",
@@ -172,14 +459,25 @@
         "vitamina E",
         "aceite de coco"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
     },
     {
-      "id": 14,
+      "id": 23,
       "name": "Balsamo labial Vainilla 4gr",
       "price": 4000,
-      "image": "/ruta",
-      "shortDescription": "",
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765915/d1f90866-4b21-4772-b3da-7cb534d343d9.png",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
         "manteca de cacao",
         "manteca de karite",
@@ -188,14 +486,25 @@
         "vitamina E",
         "aceite de coco"
       ],
-      "benefits": []
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
     },
     {
-      "id": 15,
+      "id": 24,
       "name": "Balsamo labial Menta 4gr",
       "price": 4000,
-      "image": "/ruta",
-      "shortDescription": "",
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765879/31b29a9f-3992-4386-8577-3ed6525fee94.png",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
         "manteca de cacao",
         "manteca de karite",
@@ -205,375 +514,997 @@
         "aceite de coco",
         "Macerado de Menta"
       ],
-      "benefits": []
-    },
-    {
-      "id": 16,
-      "name": "Bronceador natural 120 ml",
-      "price": 25000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [
-        "macerado de achiote",
-        "macerado de zanahoria",
-        "aceite de almendras",
-        "canela"
-      ],
-      "benefits": []
-    },
-    {
-      "id": 17,
-      "name": "Bronceador natural 250 ml",
-      "price": 40000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 18,
-      "name": "Exfoliante corporal 300 gr",
-      "price": 28000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 19,
-      "name": "Exfoliante corporal 430 gr",
-      "price": 35000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 20,
-      "name": "Exfoliante facial 130 gr",
-      "price": 20000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 21,
-      "name": "Macerado de romero",
-      "price": 15000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 22,
-      "name": "Macerado de fenogreco",
-      "price": 16000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 23,
-      "name": "Macerado de caléndula",
-      "price": 15000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 24,
-      "name": "Macerado de oregano",
-      "price": 15000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
     },
     {
       "id": 25,
-      "name": "Manteca de cacao 50 gr",
-      "price": 20000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 26,
-      "name": "Crema de sebo de res 75 gr",
-      "price": 25000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 27,
-      "name": "Mascarilla de aceite de almendras y miel",
-      "price": 22000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 28,
-      "name": "Mascarilla de cúrcuma y arroz 110 gr",
-      "price": 18000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 29,
-      "name": "Contorno de ojos 13 ml",
-      "price": 30000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 30,
-      "name": "Serum facial 30 ml",
-      "price": 40000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 31,
-      "name": "Roll on facial",
-      "price": 15000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 32,
-      "name": "Roll on de lavanda 13 ml",
-      "price": 18000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 33,
-      "name": "Vitamina E 30 ml",
-      "price": 25000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 34,
-      "name": "Miel con aceite de almendras 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 35,
-      "name": "Romero 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 36,
-      "name": "Caléndula 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 37,
-      "name": "Manzanilla 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 38,
-      "name": "Avena y Miel 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 39,
-      "name": "Canela y Café 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 40,
-      "name": "Eucalipto 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 41,
-      "name": "Cacao 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 42,
-      "name": "Carbon Activado-aceite de árbol de Té 100gr",
-      "price": 9000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 43,
-      "name": "Moringa-Aceite de árbol de Té 100gr",
-      "price": 9000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 44,
-      "name": "Naranja y miel 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 45,
-      "name": "Zanahoria y canela 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 46,
-      "name": "Pétalos de rosa 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 47,
-      "name": "Lavanda 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 48,
-      "name": "Té verde 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 49,
-      "name": "Arroz y aceite de semilla de uva 100gr",
-      "price": 9000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 50,
-      "name": "Áloe vera y miel 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 51,
-      "name": "Kit 4 jabones de 25gr",
-      "price": 9000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 52,
-      "name": "Arroz y Cúrcuma 100gr",
-      "price": 8000,
-      "image": "/ruta",
-      "shortDescription": "",
-      "ingredients": [],
-      "benefits": []
-    },
-    {
-      "id": 53,
       "name": "Balsamo labial Cereza 4gr",
       "price": 4000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765650/cereza_acfqmc.jpg",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
+      "ingredients": [
+        "Manteca de cacao",
+        "Manteca de karite",
+        "Cera de abejas",
+        "Extracto de cereza",
+        "Vitamina E",
+        "Aceite de coco"
+      ],
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Bronceador natural 120 ml",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764115287/d824927d-4ed3-466c-9ec9-142f86e0e359.png",
+      "shortDescription": "Bronceado natural, uniforme e hidratado con una fórmula 100% vegetal.",
+      "ingredients": [
+        "Macerado de achiote",
+        "Macerado de zanahoria",
+        "Aceite de almendras",
+        "Canela",
+        "Aceite de Coco"
+      ],
+      "benefits": [
+        "Potencia un bronceado dorado y uniforme",
+        "Hidrata y nutre la piel en profundidad",
+        "Protege contra la resequedad causada por el sol",
+        "Mejora la elasticidad y suavidad de la piel",
+        "Fórmula 100% natural y libre de químicos agresivos",
+        "Ideal para piel seca o normal",
+        "De rápida absorción y textura ligera",
+        "Ayuda a mantener el bronceado por más tiempo"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Bronceador natural 240 ml",
+      "price": 25000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764115326/5943bf04-2bad-4adf-86ad-c7ba0041a9ed.png",
+      "shortDescription": "Bronceado natural, uniforme e hidratado con una fórmula 100% vegetal.",
+      "ingredients": [
+        "Macerado de achiote",
+        "Macerado de zanahoria",
+        "Aceite de almendras",
+        "Canela",
+        "Aceite de Coco"
+      ],
+      "benefits": [
+        "Potencia un bronceado dorado y uniforme",
+        "Hidrata y nutre la piel en profundidad",
+        "Protege contra la resequedad causada por el sol",
+        "Mejora la elasticidad y suavidad de la piel",
+        "Fórmula 100% natural y libre de químicos agresivos",
+        "Ideal para piel seca o normal",
+        "De rápida absorción y textura ligera",
+        "Ayuda a mantener el bronceado por más tiempo"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Exfoliante corporal 300 gr",
+      "price": 12000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764109615/5839cc16-36cf-41a2-9ea6-137bb9e4bcd9.png",
+      "shortDescription": "Exfoliante natural a base de azúcar, café y aceites vegetales que renueva, suaviza e hidrata profundamente la piel",
+      "ingredients": [
+        "Azucar",
+        "café",
+        "Cacao",
+        "Macerado de Naranja",
+        "Aceite de coco",
+        "Fibra de coco"
+      ],
+      "benefits": [
+        "Clave para desobstruir los poros, permitiendo la eliminación del exceso de sebo, suciedad y células muertas.",
+        "Estimular el flujo sanguíneo.",
+        "Elimina toxinas.",
+        "Aporta brillo y mejora el aspecto de la piel.",
+        "Potencia la renovación de la piel, haciéndola más luminosa y suave."
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Exfoliante corporal 430 gr",
+      "price": 16000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764127892/0fd8d0bb-9c4f-43e7-a2e4-3d971c2c9c06.png",
+      "shortDescription": "Exfoliante natural a base de azúcar, café y aceites vegetales que renueva, suaviza e hidrata profundamente la piel",
+      "ingredients": [
+        "Azucar",
+        "café",
+        "Cacao",
+        "Macerado de Naranja",
+        "Aceite de coco",
+        "Fibra de coco"
+      ],
+      "benefits": [
+        "Clave para desobstruir los poros, permitiendo la eliminación del exceso de sebo, suciedad y células muertas.",
+        "Estimular el flujo sanguíneo.",
+        "Elimina toxinas.",
+        "Aporta brillo y mejora el aspecto de la piel.",
+        "Potencia la renovación de la piel, haciéndola más luminosa y suave."
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Exfoliante facial 130 gr",
+      "price": 10000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764109604/00465876-2c20-407f-9b70-c13517a7f251.png",
+      "shortDescription": "Exfoliante suave para rostro que ilumina, purifica y deja la piel más pareja gracias a sus ingredientes naturales",
+      "ingredients": [
+        "Harina de arroz",
+        "miel",
+        "Aceite de coco",
+        "Fibra de coco",
+        "cacao",
+        "café"
+      ],
+      "benefits": [
+        "piel más luminosa y pareja",
+        "elimina células muertas",
+        "reducción de puntos secos y opacos",
+        "aspecto descansado y revitalizado",
+        "suave al tacto"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Jabon artesanal de Miel con aceite de almendras 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764797133/82617bb7-35f0-47fc-b01d-c85b85524231.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "aceite de alemendras",
+        "Miel",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Hidrata y suaviza la piel",
+        "Propiedades antibacterianas naturales",
+        "Ideal para pieles sensibles",
+        "Rico en antioxidantes",
+        "Promueve una piel luminosa"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Jabon artesanal de Romero 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764807314/64a07d1e-c39e-441d-a42b-1b6f6a835e75.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Romero",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Beneficios para la barba",
+        "Hidrata y nutre la piel",
+        "Limpieza profunda y natural",
+        "propiedades anticaspa",
+        "Fortalece el vello"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Jabon artesanal de Caléndula 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124283/9d854d74-b97e-499c-8825-8a8b403cfec9.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Calendula",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Calma pieles sensibles e irritadas",
+        "Acelera la cicatrización",
+        "Hidrata y suaviza",
+        "Alivia la picazón",
+        "Combate el acné leve",
+        "Ideal para bebés y pieles delicadas"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Jabon artesanal de Manzanilla 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124146/e3eca5fa-0336-489a-bf88-51c3f9a66384.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Manzanilla",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Antiinflamatorio",
+        "Hidrata y nutre la piel",
+        "Ideal para pieles sensibles",
+        "Aclara la piel"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Jabon artesanal de Avena y Miel 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764798781/02abb25c-63b4-4f33-9a79-1811cdc32309.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Avena",
+        "Miel",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Hidración profunda",
+        "Exfoliación suave",
+        "Alivio para piel sensible",
+        "Propiedades antibacterianas",
+        "Limpieza profunda",
+        "Efecto calmante"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Jabon artesanal de Canela y Café 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111779/3fab8608-cb35-496d-b70c-638b878a8428.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Café",
+        "Canela",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Exfolia  y elimina células muertas",
+        "Estimula la circulación",
+        "Ayuda a mejorar la apariencia de la celulitis",
+        "Deja la piel suave , tonificada y con un aroma increible",
+        "Activa la piel cansada y opaca"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Jabon artesanal de Eucalipto 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764255831/a5300915-e181-451a-b6f4-1d347ac8a9e3.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Eucalipto",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Purifica y desinfecta",
+        "Descongestiona",
+        "Regresca y tonifica",
+        "Alivia irritaciones"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Jabon artesanal de Cacao 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764112956/39067aec-f1c0-4228-bbfb-e196e1de06ec.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Cacao",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Hidrata y nutre profundamente",
+        "Calma la piel irritada",
+        "Aporta luminosidad natural",
+        "Aroma relajante y revitalizante",
+        "Suaviza la piel"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Jabon artesanal de Carbon Activado-aceite de árbol de Té 100gr",
+      "price": 9000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764107772/8fac1f3f-8af9-444f-934b-652827decd13.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Carbon activado",
+        "Aceite de árbol de Té",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Purifica la piel",
+        "Reduce el acné",
+        "Controla el exceso de grasa",
+        "Refresca y calma",
+        "Recomendado para piel grasa y mixta"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Jabon artesanal de Moringa-Aceite de árbol de Té 100gr",
+      "price": 9000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111130/d5a89fde-969f-4899-abd2-45f54f14e617.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Aceite de árbol de Té",
+        "Moringa",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Limpieza profunda y natural",
+        "Ayuda a controlar el acné",
+        "Antibacteriano y antifúngico",
+        "Calma la piel irritada",
+        "Aporta antioxidantes y vitaminas",
+        "Ideal para pieles grasas"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Jabon artesanal de Naranja y miel 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764796394/dab24a82-9a84-4328-8057-5fd1e2c98dec.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "aceite de Naranja",
+        "Miel",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Hidrata y suaviza la piel",
+        "Aporta luminosidad natural",
+        "Ayuda a combatir la resequedad",
+        "Rico en antioxidantes que protegen la piel",
+        "Aroma relajante y revitalizante"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Jabon artesanal de Zanahoria y canela 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764807367/c5d271c1-e38c-4f3a-a3e0-da01ca68a422.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Canela",
+        "aceite de Zanahoria",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Ilumina el tono de la piel",
+        "Ayuda a combatir el acné",
+        "Exfoliación suave",
+        "Rico en antioxidantes y vitamina A"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Jabon artesanal de Pétalos de rosa Damascena 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764798884/6928ca1d-e807-4994-b64a-0a032705f66a.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "vitamina E",
+        "Petalos de rosa Damascena"
+      ],
+      "benefits": [
+        "Hidrata y suaviza la piel",
+        "Calma la piel irritada",
+        "Rico en antioxidantes que protegen la piel",
+        "Mejora el tono de la piel"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Jabon artesanal de Lavanda 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176267/eb4c05f1-bca4-42a5-8ad9-fc808e60c359.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Lavanda",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Relajante",
+        "Hidrata y nutre la piel",
+        "Antioxidante",
+        "Calma la piel irritada"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Jabon artesanal de Té verde 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764859830/250baa69-d2b4-4335-8d03-c4305236c4d7.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Hojas de Té verde",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Beneficios antioxidantes",
+        "Reduce el exceso de grasa y celulas muertas",
+        "Ayuda al tratamiento del acné",
+        "Alivia irritaciones"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Jabon artesanal de Arroz y aceite de semilla de uva 100gr",
+      "price": 9000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021177/7cc87173-d5c5-4f4f-b462-b3de350ad0f8.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Harina de arroz",
+        "Aceite de semilla de uva",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Aclara y suaviza la piel",
+        "Rico en antioxidantes",
+        "Ayuda a reducir manchas",
+        "Hidrata y nutre profundamente"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Jabon artesanal de Áloe vera y miel 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176372/ec6bf669-e5f9-45a4-8d07-bfeb9a474f0a.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "áloe vera",
+        "Miel",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Hidrata y nutre profundamente",
+        "Estimula la regeneración celular",
+        "Combate el acné leve",
+        "Efecto calmante",
+        "Previene el envejecimiento"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Kit 4 jabones de 25gr por unidad",
+      "price": 9000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764124768/9d159a04-733a-4e8e-94bb-51edb48db093.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Elige los jabones que tu quieras"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Jabon artesanal de Arroz y Cúrcuma 100gr",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764012686/6d368cfe-0940-4c08-ba0e-a278bcf4dd0d.png",
+      "shortDescription": "Jabon artesanal a base de glicerina vegetal",
+      "ingredients": [
+        "Glicerina vegetal organica",
+        "aceites naturales",
+        "Harina de arroz",
+        "Cúrcuma",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Ilumina el tono de la piel",
+        "Reduce manchas y marcas",
+        "Efecto calmante",
+        "Antiinflamatorio",
+        "Aporta suavidad y elasticidad"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Macerado de romero 130ml",
+      "price": 17000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773341/8cff73a6-a1e7-4d15-831b-dc53328be051.png",
       "shortDescription": "",
       "ingredients": [
-        "manteca de cacao",
-        "manteca de karite",
-        "cera de abejas",
-        "extracto de cereza",
-        "vitamina E",
-        "aceite de coco"
+        "Aceite de coco 100% puro",
+        "Romero",
+        "Aceite de ricino"
       ],
-      "benefits": []
+      "benefits": [
+        "Restaura la fibra capilar",
+        "Estimula la irrigación sanguínea",
+        "Mejora la estructura de la hebra capilar",
+        "Reduce la caída del cabello",
+        "Estimula el crecimiento"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Macerado de romero 250ml",
+      "price": 27000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764889451/5452f2aa-459d-4986-95f0-faffb943fc20.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco 100% puro",
+        "Romero",
+        "Aceite de ricino"
+      ],
+      "benefits": [
+        "Restaura la fibra capilar",
+        "Estimula la irrigación sanguínea",
+        "Mejora la estructura de la hebra capilar",
+        "Reduce la caída del cabello",
+        "Estimula el crecimiento"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Macerado de romero 105ml",
+      "price": 14000,
+      "image": "/ruta",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco 100% puro",
+        "Romero",
+        "Aceite de ricino"
+      ],
+      "benefits": [
+        "Restaura la fibra capilar",
+        "Estimula la irrigación sanguínea",
+        "Mejora la estructura de la hebra capilar",
+        "Reduce la caída del cabello",
+        "Estimula el crecimiento"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Macerado de fenogreco 130ml",
+      "price": 17000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764889603/b201dbe3-a256-4883-854a-60069e423b28.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco 100% puro",
+        "Fenogreco"
+      ],
+      "benefits": [
+        "Aumenta la energía y la vitalidad",
+        "Estimula el apetito",
+        "Favorece el aumento de masa muscular",
+        "Regula los niveles de azúcar en sangre",
+        "Mejora la digestión",
+        "Apoya la salud hormonal",
+        "Favorece la producción de leche materna",
+        "Mejora el perfil lipídico"
+      ]
     },
     {
       "id": 54,
-      "name": "Mascarilla Detox - arcilla blanca,carbón activado,arroz y té verde 60gr",
-      "price": 15000,
-      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763764812/MascarillaDetox_nkhwnc.jpg",
+      "name": "Macerado de fenogreco 250ml",
+      "price": 27000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111242/90d44b4b-bb87-42a4-b81f-7e5cdeea7834.png",
       "shortDescription": "",
       "ingredients": [
-        "Carbon activado",
-        "Arcilla blanca",
-        "hojas de té verde",
-        "harina de arroz"
+        "Aceite de coco 100% puro",
+        "Fenogreco"
       ],
-      "benefits": []
+      "benefits": [
+        "Aumenta la energía y la vitalidad",
+        "Estimula el apetito",
+        "Favorece el aumento de masa muscular",
+        "Regula los niveles de azúcar en sangre",
+        "Mejora la digestión",
+        "Apoya la salud hormonal",
+        "Favorece la producción de leche materna",
+        "Mejora el perfil lipídico"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Macerado de fenogreco 105ml",
+      "price": 14000,
+      "image": "/ruta",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco 100% puro",
+        "Fenogreco"
+      ],
+      "benefits": [
+        "Aumenta la energía y la vitalidad",
+        "Estimula el apetito",
+        "Favorece el aumento de masa muscular",
+        "Regula los niveles de azúcar en sangre",
+        "Mejora la digestión",
+        "Apoya la salud hormonal",
+        "Favorece la producción de leche materna",
+        "Mejora el perfil lipídico"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Macerado de caléndula 130ml",
+      "price": 17000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763869056/236a2138-a658-44e0-8abe-86d249e14ac8.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco 100% puro",
+        "Calendula"
+      ],
+      "benefits": [
+        "El macerado de caléndula es rico en vitamina C, minerales y betacarotenos",
+        "Es perfecta para el tratamiento de pieles sensibles",
+        "Ayuda a la piel de los bebés por la pañalitis",
+        "Disminuye la inflamación de la piel",
+        "Suaviza y mejora la textura de la cicatrices",
+        "Evita las infecciones al poseer propiedades antisépticas y antibacterianas"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Macerado de caléndula 250ml",
+      "price": 27000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110637/8a1a1dd5-41fe-4365-a10d-46f824922acc.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco 100% puro",
+        "Calendula"
+      ],
+      "benefits": [
+        "El macerado de caléndula es rico en vitamina C, minerales y betacarotenos",
+        "Es perfecta para el tratamiento de pieles sensibles",
+        "Ayuda a la piel de los bebés por la pañalitis",
+        "Disminuye la inflamación de la piel",
+        "Suaviza y mejora la textura de la cicatrices",
+        "Evita las infecciones al poseer propiedades antisépticas y antibacterianas"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Macerado de caléndula 105ml",
+      "price": 14000,
+      "image": "/ruta",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco 100% puro",
+        "Calendula"
+      ],
+      "benefits": [
+        "El macerado de caléndula es rico en vitamina C, minerales y betacarotenos",
+        "Es perfecta para el tratamiento de pieles sensibles",
+        "Ayuda a la piel de los bebés por la pañalitis",
+        "Disminuye la inflamación de la piel",
+        "Suaviza y mejora la textura de la cicatrices",
+        "Evita las infecciones al poseer propiedades antisépticas y antibacterianas"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Macerado de oregano 130ml",
+      "price": 17000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110025/1ab40ecb-baf1-4535-abd4-a2c0d9796f6a.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco 100% puro",
+        "Orégano"
+      ],
+      "benefits": [
+        "Combate las infecciones respiratorias",
+        "Ayuda con las infecciones urinarias",
+        "Antiespasmódico y antiséptico",
+        "Combate la candidiasis",
+        "Estimula el apetito",
+        "Facilita la digestión",
+        "Es colerético",
+        "Antiinflamatorio",
+        "Diurético",
+        "Mejora el colesterol",
+        "Es bucodental",
+        "Previene la formación de cálculos en vesícula"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Macerado de oregano 250ml",
+      "price": 27000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125548/915e6598-a49d-4166-9a87-1dbbefc4589c.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco 100% puro",
+        "Orégano"
+      ],
+      "benefits": [
+        "Combate las infecciones respiratorias",
+        "Ayuda con las infecciones urinarias",
+        "Antiespasmódico y antiséptico",
+        "Combate la candidiasis",
+        "Estimula el apetito",
+        "Facilita la digestión",
+        "Es colerético",
+        "Antiinflamatorio",
+        "Diurético",
+        "Mejora el colesterol",
+        "Es bucodental",
+        "Previene la formación de cálculos en vesícula"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Macerado de oregano 105ml",
+      "price": 14000,
+      "image": "/ruta",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco 100% puro",
+        "Orégano"
+      ],
+      "benefits": [
+        "Combate las infecciones respiratorias",
+        "Ayuda con las infecciones urinarias",
+        "Antiespasmódico y antiséptico",
+        "Combate la candidiasis",
+        "Estimula el apetito",
+        "Facilita la digestión",
+        "Es colerético",
+        "Antiinflamatorio",
+        "Diurético",
+        "Mejora el colesterol",
+        "Es bucodental",
+        "Previene la formación de cálculos en vesícula"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Manteca de cacao sin refinar 50 gr",
+      "price": 11000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763766925/6d56813e-2fbf-4d5e-a18d-0c634f9109d0.png",
+      "shortDescription": "Hidratación profunda y antioxidante para una piel suave y nutrida.",
+      "ingredients": [
+        "manteca de cacao pura"
+      ],
+      "benefits": [
+        "Hidrata profundamente",
+        "Suaviza la piel",
+        "Mejora la elasticidad",
+        "Protege contra la resequedad",
+        "Rica en antioxidantes",
+        "Atenúa la apariencia de marcas",
+        "Apta para piel sensible"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Crema de sebo de res 75 gr",
+      "price": 25000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764012023/5532f543-2090-4010-aba6-f4518e1323db.png",
+      "shortDescription": "Crema nutritiva ideal para piel seca, ayuda a restaurar y suavizar.",
+      "ingredients": [
+        "sebo de res",
+        "eucalipto",
+        "Manzanilla",
+        "Calendula",
+        "esencia de Menta",
+        "esencia de Lavanda",
+        "Clavo de olor"
+      ],
+      "benefits": [
+        "Hidrata profundamente",
+        "Restaura la barrera cutánea",
+        "Ideal para piel muy seca",
+        "Suaviza y mejora la textura",
+        "Aporta nutrientes naturales",
+        "Calma irritaciones leves",
+        "Compatible con piel sensible",
+        "Absorción rápida y no pegajosa"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Crema de sebo de res 20 gr",
+      "price": 9000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764276480/112c0a15-3a8f-42a9-991b-a2b2df6dcd46.png",
+      "shortDescription": "Crema nutritiva ideal para piel seca, ayuda a restaurar y suavizar.",
+      "ingredients": [
+        "sebo de res",
+        "eucalipto",
+        "Manzanilla",
+        "Calendula",
+        "esencia de Menta",
+        "esencia de Lavanda",
+        "Clavo de olor"
+      ],
+      "benefits": [
+        "Hidrata profundamente",
+        "Restaura la barrera cutánea",
+        "Ideal para piel muy seca",
+        "Suaviza y mejora la textura",
+        "Aporta nutrientes naturales",
+        "Calma irritaciones leves",
+        "Compatible con piel sensible",
+        "Absorción rápida y no pegajosa"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Mascarilla preshampoo de aceite de almendras y miel (130 gr)",
+      "price": 10000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111501/bf804c31-0d50-44cf-a09b-f0a82705b6d4.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Miel pura",
+        "Aceite de almendras puro",
+        "Aceite de coco puro"
+      ],
+      "benefits": [
+        "Hidrata profundamente",
+        "Repara el cabello dañado",
+        "Fortalece desde la raíz",
+        "Aporta brillo y suavidad",
+        "Previene puntas abiertas"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Mascarilla de cúrcuma y arroz (110 gr)",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764113888/d31ceec9-437f-4e68-914b-9528fd5a3743.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Harina de arroz",
+        "Cúrcuma en polvo",
+        "Fibra de coco",
+        "Aceite de coco"
+      ],
+      "benefits": [
+        "Desmancha la piel",
+        "Exfolia",
+        "Ilumina el rostro",
+        "Reduce inflamación y rojeces",
+        "Aporta suavidad y elasticidad"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Contorno de ojos 13 ml",
+      "price": 8500,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764177795/635a35eb-7871-4b59-ba55-92cc4983a358.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de coco",
+        "Aceite de Ricino",
+        "Oleo de Rosas",
+        "Vitamina e",
+        "Aceite de almendras",
+        "Aceite de argán"
+      ],
+      "benefits": [
+        "Lubrica y humecta",
+        "Atenúa ojeras",
+        "Es antioxidante",
+        "Hidratación profunda"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Serum facial 30 ml",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773694/0670a968-7ceb-4165-b52b-563e92f128b2.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Vitamina E 100%",
+        "Aceite de almendras",
+        "Oleo de Rosa Damacena"
+      ],
+      "benefits": [
+        "Protección antioxidante que previene el envejecimiento prematuro",
+        "Regenerante",
+        "Hidratante"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Tratamiento cejas y pestañas 30ml",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764277042/cb0abdeb-977d-4149-b3c1-e9cd3f5a434e.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Ricino",
+        "Aceite de coco",
+        "Macerado de romero",
+        "Vitamina E",
+        "Macerado de fenogreco",
+        "Aceite de almendras"
+      ],
+      "benefits": [
+        "Fortalece cejas y pestañas",
+        "Ayuda al crecimiento de cejas y pestañas",
+        "Protege las cejas y pestañas del uso frecuente del maquillaje y contaminación"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Roll on relajante de lavanda 13 ml",
+      "price": 6000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763772466/06883cda-57fe-4cf8-a2d1-026d6bfc5f30.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de almendras",
+        "Macerado de Lavanda",
+        "Aceite esencial de Lavanda"
+      ],
+      "benefits": [
+        "Sus compuestos aromáticos (linalol y acetato de linalilo) actúan sobre el sistema nervioso central para un efecto calmante.",
+        "Se reduce la producción de cortisol, la hormona del estrés.",
+        "Se estimula la actividad del sistema parasimpático, que promueve la relajación.",
+        "Puede mejorar la calidad del sueño y disminuir la ansiedad leve."
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Roll on facial de manzanilla 13ml",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764114404/4c0ee121-1569-44cb-a5db-757f0d0e4a8b.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Manzanilla",
+        "Té verde",
+        "Aceite de almendras",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Protección antioxidante que previene el envejecimiento prematuro",
+        "Efecto anti-inflamatorio",
+        "Reduce bolsas y ojeras",
+        "Hidrata, suaviza y nutre la piel "
+      ]
     }
   ]
 }
