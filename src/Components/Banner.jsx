@@ -8,7 +8,7 @@ export default function Banner() {
 
       {/* Imagen principal (LCP) */}
       <img
-        src="https://res.cloudinary.com/dsobv0pj7/image/upload/v1764129220/a9146fa3-dfca-4afd-9037-006a6577b720.png"
+        src="https://res.cloudinary.com/dsobv0pj7/image/upload/f_auto,q_auto/a9146fa3-dfca-4afd-9037-006a6577b720.png"
         alt="Belleza Natural Banner"
         className="absolute inset-0 w-full h-full object-cover"
         fetchpriority="high"
@@ -17,7 +17,7 @@ export default function Banner() {
       />
 
       <RotatingImage
-       src={'https://res.cloudinary.com/dsobv0pj7/image/upload/v1764180293/6a6e75ee-3b5b-454f-885f-125b91307f9e.png'} 
+       src={'https://res.cloudinary.com/dsobv0pj7/image/upload/w_200,h_200,c_limit,f_auto,q_auto/6a6e75ee-3b5b-454f-885f-125b91307f9e.png'} 
        className="right-20 bottom-8 z-10"
        size={200}
       />
