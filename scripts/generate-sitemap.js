@@ -5,8 +5,8 @@ import slugify from '../src/utils/slugify.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
-const publicDir = path.join(__dirname, '..', 'public');
+const publicDir = path.join(__dirname, '..', 'dist');
+// const publicDir = path.join(__dirname, '..', 'public');
 const dataDir = path.join(__dirname, '..', 'src', 'data');
 const productsDir = path.join(dataDir, 'Products');
 
