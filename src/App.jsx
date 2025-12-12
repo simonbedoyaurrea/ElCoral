@@ -15,6 +15,7 @@ function App() {
         
         <Route path="/" element={<Home />} />
         <Route path="/categorias/:categoryName" element={<CategoryPage />} />
+        <Route path="/productos/:nombreProducto" element={<ProductDetail />} />
         <Route path="/productos/:id" element={<ProductDetail />} />
         {/* Ruta por defecto si no existe */}
         <Route path="*" element={<h1>Página no encontrada</h1>} />

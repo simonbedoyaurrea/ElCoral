@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import slugify from "../utils/slugify";
 import { toast } from "react-toastify";
 import useBoxStore from "../context/BoxContext";
 import { FaBox } from "react-icons/fa";
@@ -28,7 +29,7 @@ export default function ProductCard({ product}) {
       w-full max-w-[180px] sm:max-w-[230px] md:max-w-[350px] 
       md:min-h-[450px]  /* altura base solo en PC */
       transition-transform hover:scale-105">
-      <Link to={`/productos/${product.id}`} state={{ product }}>
+      <Link to={`/productos/${slugify(product.name)}`} state={{ product }}>
          
             <div className="w-full aspect-square overflow-hidden max-w-[350px] mx-auto">
               <img

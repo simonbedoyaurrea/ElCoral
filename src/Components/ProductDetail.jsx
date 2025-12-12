@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { useLocation, useParams, useNavigate } from "react-router-dom";
 import todosData from "../data/Products/Todos.json";
+import slugify from "../utils/slugify";
 import BuyButton from "./BuyButton";
 import useBoxStore from "../context/BoxContext";
 import Navbar from "./Navbar";
@@ -15,11 +16,18 @@ export default function Productdetail({ description, uses }) {
   const navigate = useNavigate();
 
   const productFromState = location.state?.product;
-  const productId = params.id ? Number(params.id) : null;
+  const productSlug = params.nombreProducto || params.id || null;
 
   const product =
     productFromState ||
-    (productId ? todosData.products.find((p) => p.id === productId) : null);
+    (productSlug
+      ? todosData.products.find((p) => {
+          // If the param is numeric, try to match by id
+          if (!Number.isNaN(Number(productSlug))) return p.id === Number(productSlug);
+          // Otherwise, match by slugified name
+          return slugify(p.name) === productSlug;
+        })
+      : null);
 
   const addToCart = useBoxStore((state) => state.addToCart);
 
