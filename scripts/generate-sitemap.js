@@ -20,7 +20,7 @@ function readJSON(filePath) {
 }
 
 async function generateSitemap() {
-  let SITE_URL = process.env.SITE_URL || 'https://el-coral.vercel.app';
+ const SITE_URL = "https://el-coral.vercel.app";
 
 
 // Asegurar protocolo HTTPS
