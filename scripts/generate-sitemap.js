@@ -52,18 +52,11 @@ async function generateSitemap() {
     const filePath = path.join(productsDir, file);
     const data = readJSON(filePath);
     const products = data?.products || data?.productos || [];
-    products.forEach((p) => {
-      let slug = p.slug || slugify(p.name || '');
-      if (!slug) return;
-      // ensure unique
-      if (slugCounts[slug]) {
-        slugCounts[slug] += 1;
-        slug = `${slug}-${p.id || slugCounts[slug]}`;
-      } else {
-        slugCounts[slug] = 1;
-      }
-      urls.add(`${SITE_URL}/productos/${slug}`);
-    });
+   products.forEach((p) => {
+  const slug = p.slug || slugify(p.name || '');
+  if (!slug) return;
+  urls.add(`${SITE_URL}/productos/${slug}`);
+});
   });
 
   const lastmod = new Date().toISOString().split('T')[0];
