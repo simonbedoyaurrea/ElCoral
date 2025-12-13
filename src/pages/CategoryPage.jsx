@@ -165,7 +165,6 @@ export default function CategoryPage() {
                 <ProductCard
                   key={product.id}
                   product={product}
-                  image={product.image}
                 />
               ))}
             </div>

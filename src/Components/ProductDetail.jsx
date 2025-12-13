@@ -83,7 +83,7 @@ export default function Productdetail({ description, uses }) {
       <Navbar enableColorChange={false} />
 
       <button
-  onClick={() => navigate(-1)}
+  onClick={() => navigate("/categorias/" + ("todos"))}
   className="absolute left-4 top-24 md:left-20 md:top-32 
              z-20 flex items-center gap-2 bg-white/80 backdrop-blur 
              px-3 py-2 rounded-full shadow-md text-gray-700 
