@@ -1520,6 +1520,22 @@
                 "Acción Antiinflamatoria",
                 "Rica en antioxidantes"
             ]
+        },
+        {
+            "id": 73,
+            "name": "Exfoliante corporal de Menta y Vainilla 130 gr",
+            "price": 10000,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1765583822/25ff5328-69af-4cfc-ace0-a36685e85201.png",
+            "shortDescription": "Exfoliante refrescante corporal",
+            "ingredients": ["Azucar","Aceite esencial de menta","Aceite de almendras","Aceite de coco","Extracto de Vainilla"],
+            "benefits": [
+            "Suaviza la piel eliminando células muertas",
+            "Refresca gracias al aceite esencial de menta",
+            "Hidrata ligeramente con aceites naturales",
+            "Mejora la circulación al masajear la piel",
+            "Deja la piel sedosa y revitalizada",
+            "Aporta una experiencia relajante y aromática"
+          ]
         }
   ]
 }
