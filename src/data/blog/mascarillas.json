@@ -1,0 +1,76 @@
+{
+    "posts":[
+       {
+            "id":1,
+            "type":"Mascarillas",
+            "title": "Mascarilla purificante de Aloe Vera y Arcilla Verde",
+            "date": "2025-12-18",
+            "products": [16],
+            "ingredients": [
+                "2 cucharadas de gel de aloe vera",
+                "1 cucharada de arcilla verde",
+                "1 a 2 cucharadas de agua (opcional, para ajustar textura)"
+            ],
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1765983918/f340fb87-bc9f-4f6d-8a4a-c91526e72b88.png",
+            "content": "Esta mascarilla combina el poder purificante de la arcilla verde con las propiedades calmantes e hidratantes del aloe vera. Es ideal para pieles mixtas a grasas, ayudando a absorber el exceso de sebo, limpiar los poros y refrescar la piel sin resecarla.\n\n**Modo de uso:** Mezcla la arcilla verde con el gel de aloe vera hasta obtener una pasta homogénea. Si la mezcla está muy espesa, añade un poco de agua. Aplica sobre el rostro limpio evitando el contorno de ojos. Deja actuar entre 10 y 15 minutos (no esperes a que se seque completamente) y retira con agua tibia. Finaliza con tu hidratante habitual.\n\n**Frecuencia:** 1 a 2 veces por semana."
+        },
+        {
+        "id": 2,
+        "type": "Mascarillas",
+        "title": "Gel de Linaza Casero para hidratar y tratar el frizz",
+        "date": "2025-12-18",
+        "products": [6,12,14],
+        "ingredients": [
+            "1 cucharada de semillas de linaza",
+            "1 pocillo de agua",
+            "1 cucharadita de aceite de coco, mezcla de aceites, aceite de mano de res o el de tu preferencia",
+            "Gel de aloe vera (opcional)"
+        ],
+        "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1766013317/cbb0f0f4-b767-49b6-ac64-00ce8cd696d8.png",
+        "content": "Este gel de linaza es ideal para hidratar profundamente el cabello, definir rizos y controlar el frizz de forma natural. Aporta suavidad, brillo y elasticidad sin dejar sensación pesada.\n\n**Preparación:**\nColoca las semillas de linaza y el agua en una olla. Hierve a fuego medio durante 10 a 15 minutos, removiendo constantemente. Verás cómo el agua se espesa formando un gel. Cuando tenga la consistencia deseada, retira del fuego y cuela inmediatamente para separar las semillas.\n\nAgrega el aceite de tu preferencia y, si lo deseas, un poco de gel de aloe vera. Licúa para integrar bien todos los ingredientes.\n\n**Modo de uso:**\nAplica el gel desde la raíz hasta las puntas sobre el cabello limpio o ligeramente húmedo. Deja actuar mínimo 30 minutos y retira con tu lavado habitual. Usa agua tibia para facilitar la eliminación del gel.\n\n**Frecuencia:** 1 a 2 veces por semana."
+        },
+        {
+        "id": 3,
+        "type": "Mascarillas",
+        "title": "Mascarilla para el cabello con aceite de coco y huevo",
+        "date": "2025-12-18",
+        "products": [6,5],
+        "ingredients": [
+            "2 cucharadas de aceite de coco",
+            "1 cucharada de aceite de almendras",
+            "1 yema de huevo"
+        ],
+        "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1766014370/14603ef8-9a6e-4bdd-8487-ff7ead0b235d.png",
+        "content": "Esta mascarilla natural ayuda a mejorar la suavidad, el brillo y la fuerza del cabello. Es ideal para nutrir profundamente, reducir el frizz y mejorar el aspecto general del cabello seco o maltratado.\n\n**Preparación:**\nColoca la yema de huevo en un recipiente y bátela ligeramente. Agrega el aceite de coco y el aceite de almendras. Mezcla muy bien hasta obtener una preparación homogénea.\n\n**Modo de uso:**\nAplica la mascarilla sobre el cabello seco o ligeramente húmedo, desde medios hasta puntas. Si tu cabello es muy seco, puedes aplicarla desde la raíz. Deja actuar aproximadamente 30 minutos.\n\nRetira con agua tibia y lava el cabello con shampoo y acondicionador para eliminar cualquier residuo.\n\n**Frecuencia:** 1 vez por semana."
+        },
+        {
+        "id": 4,
+        "type": "Mascarillas",
+        "title": "Gel hidratante de aloe vera y aceite de almendras",
+        "date": "2025-12-17",
+        "products": [5],
+        "ingredients": [
+            "2 cucharadas de gel de aloe vera",
+            "1 cucharadita de aceite de almendras",
+            "2 gotas de aceite esencial de lavanda o rosa (opcional)"
+        ],
+        "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1766014890/46e68138-4815-4e8c-a127-f8aa48b902f1.png",
+        "content": "La combinación de aloe vera con aceite de almendras es ideal para hidratar, calmar y nutrir la piel. Este gel hidratante natural ayuda a mejorar la elasticidad, suavizar la piel y aportar una sensación fresca y calmante.\n\n**Preparación:**\nEn un recipiente limpio, mezcla el gel de aloe vera con el aceite de almendras. Revuelve bien hasta obtener una textura uniforme; puedes ayudarte con una cucharita o un mini batidor. Si lo deseas, añade las gotas de aceite esencial y mezcla nuevamente.\n\n**Modo de uso:**\nAplica una pequeña cantidad sobre la piel limpia del rostro o del cuerpo. Masajea suavemente con movimientos circulares hasta que el producto se absorba por completo. No es necesario enjuagar.\n\nPuedes usarlo por la mañana y en la noche como hidratante natural."
+        },
+        {
+        "id": 5,
+        "type": "Mascarillas",
+        "title": "Mascarilla de aceite de coco y cerveza para brillo y fuerza",
+        "date": "2025-12-17",
+        "products": [6,7,8],
+        "ingredients": [
+            "1 cucharada de aceite de coco",
+            "1/2 taza de cerveza sin alcohol",
+            "1 cucharada de miel (opcional)"
+        ],
+        "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1766015640/a0ee4684-8332-40d4-be0d-544ed1bf1da8.png",
+        "content": "Esta mascarilla natural de aceite de coco y cerveza es ideal para devolver el brillo, la suavidad y la fuerza al cabello opaco, seco o sin vida. Sus nutrientes ayudan a mejorar la textura del cabello y aportan vitalidad desde la primera aplicación.\n\n**Preparación:**\nColoca la cerveza en un recipiente y mézclala con el aceite de coco hasta obtener una textura homogénea. Si deseas una nutrición extra, añade la miel y mezcla bien.\n\n**Modo de uso:**\nAplica la mezcla desde medios hasta puntas sobre el cabello ligeramente húmedo. Masajea suavemente para que el producto penetre mejor. Cubre el cabello con un gorro de baño o una toalla caliente y deja actuar entre 20 y 30 minutos.\n\nCinco minutos antes de lavar el cabello, aplica acondicionador. Retira con shampoo y acondicionador usando agua tibia.\n\n**Frecuencia:** 1 vez por semana."
+        }
+
+    ]
+}

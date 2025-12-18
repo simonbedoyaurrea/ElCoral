@@ -1,10 +1,18 @@
 import { FiShare2 } from "react-icons/fi";
 
-export default function ShareButton({ product }) {
+export default function ShareButton({ product, post }) {
   const handleShare = async () => {
+    // Support both product and post objects
+    const title = post?.title || product?.name || document.title;
+    const text = post
+      ? `Mira esta idea: ${post.title}`
+      : product
+      ? `Mira este producto: ${product.name}`
+      : "Échale un vistazo";
+
     const shareData = {
-      title: product.name,
-      text: `Mira este producto: ${product.name}`,
+      title,
+      text,
       url: window.location.href,
     };
 
@@ -49,4 +57,4 @@ export default function ShareButton({ product }) {
       <span className="hidden sm:block text-sm font-medium">Compartir</span>
     </button>
   );
-}
+} 

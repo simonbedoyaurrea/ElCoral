@@ -83,7 +83,19 @@ export default function Productdetail({ description, uses }) {
       <Navbar enableColorChange={false} />
 
       <button
-  onClick={() => navigate("/categorias/" + ("todos"))}
+  onClick={() => {
+    const from = location.state?.from;
+    // If we have an explicit origin, go there
+    if (from) return navigate(from);
+
+    // If the document referrer is internal, prefer going back in history
+    if (document.referrer && document.referrer.startsWith(window.location.origin)) {
+      return navigate(-1);
+    }
+
+    // Otherwise fallback to the products listing (categorias/todos)
+    navigate("/categorias/todos");
+  }}
   className="absolute left-4 top-24 md:left-20 md:top-32 
              z-20 flex items-center gap-2 bg-white/80 backdrop-blur 
              px-3 py-2 rounded-full shadow-md text-gray-700 

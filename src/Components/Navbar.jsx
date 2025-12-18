@@ -24,23 +24,26 @@ export default function Navbar({ enableColorChange = true }) {
   return (
     <header
       className={`p-4 ease-in w-full fixed z-50 transition-colors duration-300   ${
-        (scrolled) ? 'bg-[#e90120] bg-[url("https://www.transparenttextures.com/patterns/arabesque.png")] text-white shadow-lg' :enableColorChange?'': ' border-b-1 bg-[#e90120] text-white bg-[url("https://www.transparenttextures.com/patterns/arabesque.png")]'
+        (scrolled) ? 'bg-[#e90120] bg-[url("https://www.transparenttextures.com/patterns/arabesque.png")] text-white shadow-lg' :enableColorChange?'bg-black/20': ' border-b-1 bg-[#e90120] text-white bg-[url("https://www.transparenttextures.com/patterns/arabesque.png")]'
       }`}
     >
       <nav className="flex items-center justify-between max-w-6xl mx-auto relative">
 
         {/* Logo */}
-        <Link to={"/"}>
-        <div className="flex items-center gap-2">
-          <img src={Logo} alt="logo" className="h-8 w-auto" />
-        </div>
-        </Link>
-
+        
+          <Link to={"/"}>
+          <div className="flex items-center gap-2">
+            <img src={Logo} alt="logo" className="h-8 w-auto" />
+          </div>
+          </Link>
         {/* Links */}
+
+
         <div className='flex gap-4'>
-        <div className="hidden md:flex gap-6 items-center ">
-          <Link to={"/"} className="hover:text-gray-300 text-white transition">Inicio</Link>
-          <Link to={"/categorias/todos"} className="hover:text-gray-300 transition text-white">Productos</Link>
+        <div className=" flex sm:gap-6 gap-1 items-center ">
+          <Link to={"/blog"}  className='font-bold bg-gradient-to-r from-yellow-200 to-yellow-400 bg-clip-text text-transparent transition'>Blog</Link>
+          <Link to={"/"} className="hover:text-gray-300 text-white transition hidden sm:inline-block">Inicio</Link>
+          <Link to={"/categorias/todos"} className="hover:text-gray-300 transition text-white hidden sm:inline-block">Productos</Link>
           
           {/* <a href="#sobre-nosotros" className="hover:text-gray-300 transition">Sobre Nosotros</a> */}
           {/* <a href="#contacto" className="hover:text-gray-300 transition">Contacto</a> */}

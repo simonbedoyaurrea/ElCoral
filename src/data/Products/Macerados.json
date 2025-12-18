@@ -137,7 +137,7 @@
             "id": 58,
             "name": "Macerado de caléndula 105ml",
             "price": 14000,
-            "image": null,
+            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1765895354/29f17033-bd08-4170-a65f-778861ab08f5.png",
             "shortDescription": "",
             "ingredients": ["Aceite de coco 100% puro","Calendula"],
             "benefits": [

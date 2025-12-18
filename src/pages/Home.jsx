@@ -8,6 +8,7 @@ import SocialSlideBar from '../Components/SocialSlideBar'
 import Footer from '../Components/Footer'
 import useSeo from '../hooks/useSeo'
 import NewProductBanner from '../Components/NewProductBanner'
+import HeroParallax from '../Components/HeroParallax'
 
 export default function Home() {
   useSeo({
@@ -31,6 +32,7 @@ export default function Home() {
           link="/productos/exfoliante-corporal-de-menta-y-vainilla-130-gr"
         />
           <Categories />
+          {/* <HeroParallax /> */}
           <BalsamosSeccion />
           <SocialSlideBar />           
           {/* <FAQSection />     */}
