@@ -4,16 +4,18 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",
-  "lint": "eslint .",
-  "generate-sitemap": "node scripts/generate-sitemap.js",
-  "build": "vite build",
-  "postbuild": "npm run generate-sitemap",
-  "preview": "vite preview"
-},
+    "dev": "vite",
+    "lint": "eslint .",
+    "generate-sitemap": "node scripts/generate-sitemap.js",
+    "build": "vite build",
+    "postbuild": "npm run generate-sitemap",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
     "framer-motion": "^12.23.22",
+    "fuse.js": "^6.6.2",
+    "gsap": "^3.14.2",
     "lucide-react": "^0.545.0",
     "react": "^19.1.1",
     "react-compare-image": "^3.5.10",
@@ -23,8 +25,7 @@
     "react-router-dom": "^7.9.3",
     "react-toastify": "^11.0.5",
     "tailwindcss": "^4.1.13",
-    "zustand": "^5.0.8",
-    "fuse.js": "^6.6.2"
+    "zustand": "^5.0.8"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",

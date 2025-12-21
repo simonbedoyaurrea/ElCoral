@@ -23,7 +23,8 @@ export default function Productdetail({ description, uses }) {
     (productSlug
       ? todosData.products.find((p) => {
           // If the param is numeric, try to match by id
-          if (!Number.isNaN(Number(productSlug))) return p.id === Number(productSlug);
+          if (!Number.isNaN(Number(productSlug)))
+            return p.id === Number(productSlug);
           // Otherwise, match by slugified name
           return slugify(p.name) === productSlug;
         })
@@ -71,51 +72,50 @@ export default function Productdetail({ description, uses }) {
   };
 
   if (!product) {
-  return (
-    <div className="w-full h-screen flex items-center justify-center">
-      <p className="text-gray-500">Cargando producto...</p>
-    </div>
-  );
-}
+    return (
+      <div className="w-full h-screen flex items-center justify-center">
+        <p className="text-gray-500">Cargando producto...</p>
+      </div>
+    );
+  }
 
   return (
     <div>
       <Navbar enableColorChange={false} />
 
       <button
-  onClick={() => {
-    const from = location.state?.from;
-    // If we have an explicit origin, go there
-    if (from) return navigate(from);
+        onClick={() => {
+          const from = location.state?.from;
+          // If we have an explicit origin, go there
+          if (from) return navigate(from);
 
-    // If the document referrer is internal, prefer going back in history
-    if (document.referrer && document.referrer.startsWith(window.location.origin)) {
-      return navigate(-1);
-    }
+          // If the document referrer is internal, prefer going back in history
+          if (
+            document.referrer &&
+            document.referrer.startsWith(window.location.origin)
+          ) {
+            return navigate(-1);
+          }
 
-    // Otherwise fallback to the products listing (categorias/todos)
-    navigate("/categorias/todos");
-  }}
-  className="absolute left-4 top-24 md:left-20 md:top-32 
+          // Otherwise fallback to the products listing (categorias/todos)
+          navigate("/categorias/todos");
+        }}
+        className="absolute left-4 top-24 md:left-20 md:top-32 
              z-20 flex items-center gap-2 bg-white/80 backdrop-blur 
              px-3 py-2 rounded-full shadow-md text-gray-700 
              hover:bg-white transition"
->
-  <span className="text-xl">←</span>
-  <span className="hidden sm:block font-medium">Volver</span>
-</button>
+      >
+        <span className="text-xl">←</span>
+        <span className="hidden sm:block font-medium">Volver</span>
+      </button>
       <div className="h-20" />
 
-       
-
       <div className="grid grid-cols-1 md:grid-cols-2 gap-14 p-6 max-w-6xl mx-auto">
-
         {/* IMAGEN */}
         <motion.div
           initial={{ opacity: 0, scale: 0.92 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.4 }}
-          
         >
           <div className="w-full aspect-square rounded-2xl overflow-hidden shadow-xl bg-white">
             <img
@@ -133,10 +133,11 @@ export default function Productdetail({ description, uses }) {
           transition={{ duration: 0.4 }}
           className="space-y-6"
         >
-
           {/* Título */}
           <div>
-            <h1 className="text-4xl font-bold text-gray-900">{product?.name}</h1>
+            <h1 className="text-4xl font-bold text-gray-900">
+              {product?.name}
+            </h1>
 
             {product?.shortDescription && (
               <p className="text-gray-600 mt-2 text-lg">
@@ -145,7 +146,7 @@ export default function Productdetail({ description, uses }) {
             )}
 
             <p className="text-3xl font-extrabold mt-4 text-blue-600 tracking-tight">
-               $ {new Intl.NumberFormat('es-CO').format(product?.price)} COP
+              $ {new Intl.NumberFormat("es-CO").format(product?.price)} COP
             </p>
           </div>
 
@@ -160,7 +161,6 @@ export default function Productdetail({ description, uses }) {
 
           {/* ACCORDEONS */}
           <div className="border border-gray-2 rounded-xl overflow-hidden bg-white shadow-sm">
-
             {/* Ingredientes */}
             <div>
               <button
@@ -237,8 +237,6 @@ export default function Productdetail({ description, uses }) {
               </AnimatePresence>
             </div>
           </div>
-
-          
         </motion.div>
       </div>
     </div>
