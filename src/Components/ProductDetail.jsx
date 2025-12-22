@@ -64,6 +64,28 @@ export default function Productdetail({ description, uses }) {
     url: window.location.href,
   });
 
+  const productJsonLd = product
+    ? {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        name: product.name,
+        image: product.image ? [product.image] : [],
+        description:
+          product.description ||
+          product.shortDescription ||
+          (product.ingredients || []).slice(0, 4).join(", "),
+        sku: product.id ? String(product.id) : undefined,
+        brand: { "@type": "Brand", name: "EL CORAL" },
+        offers: {
+          "@type": "Offer",
+          url: window.location.href,
+          priceCurrency: "COP",
+          price: product.price ? String(product.price) : undefined,
+          availability: "https://schema.org/InStock",
+        },
+      }
+    : null;
+
   // ⭐ ABRIR BENEFICIOS POR DEFECTO
   const [openAccordion, setOpenAccordion] = useState("shipping");
 
@@ -81,6 +103,12 @@ export default function Productdetail({ description, uses }) {
 
   return (
     <div>
+      {productJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(productJsonLd) }}
+        />
+      )}
       <Navbar enableColorChange={false} />
 
       <button

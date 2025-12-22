@@ -5,10 +5,20 @@ import Navbar from "../Components/Navbar";
 import BlogCard from "../Components/BlogCard";
 import Footer from "../Components/Footer";
 import SocialSlideBar from "../Components/SocialSlideBar";
+import useSeo from "../hooks/useSeo";
 import posts from "../data/blog/mascarillas.json";
 
 export default function Blog() {
   const [currentPosts, setCurrentPosts] = useState(posts.posts);
+
+  // SEO
+  useSeo({
+    title: "Blog — EL CORAL — Productos naturales y artesanales",
+    description:
+      "¿Sabías que nuestros productos tienen mil usos? Aquí encontrarás recetas, mascarillas, tips y mezclas exclusivas para aprovecharlos al máximo.",
+    image: "/ELCORALLOGO-BiizK0FI.jpeg",
+    url: window.location.href,
+  });
 
   const handlePosts = (type) => {
     setCurrentPosts(
@@ -33,9 +43,9 @@ export default function Blog() {
         <div className="max-w-7xl mx-auto px-4 text-center flex flex-col gap-4">
           <h1 className="text-4xl md:text-5xl font-bold">Blog</h1>
           <p className="max-w-3xl mx-auto text-gray-700 text-base md:text-lg">
-            ¿Sabías que nuestros productos tienen mil usos? Aquí encontrarás recetas,
-            mascarillas, tips y mezclas exclusivas para aprovecharlos al máximo.
-            Inspírate, aprende y crea nuevas ideas para tu día a día.
+            ¿Sabías que nuestros productos tienen mil usos? Aquí encontrarás
+            recetas, mascarillas, tips y mezclas exclusivas para aprovecharlos
+            al máximo. Inspírate, aprende y crea nuevas ideas para tu día a día.
           </p>
         </div>
       </motion.header>
