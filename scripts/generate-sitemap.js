@@ -6,7 +6,7 @@ import slugify from "../src/utils/slugify.js";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 // Escribimos en public por defecto para que esté disponible en dev y en deploys estáticos
-const publicDir = path.join(__dirname, "..", "public");
+const publicDir = path.join(__dirname, "..", "dist");
 const dataDir = path.join(__dirname, "..", "src", "data");
 const productsDir = path.join(dataDir, "Products");
 const blogDir = path.join(dataDir, "blog");
