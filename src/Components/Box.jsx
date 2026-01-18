@@ -36,6 +36,11 @@ export default function Box() {
     window.open(url, "_blank");
   };
 
+  // Texto para el slider
+  const sliderText = " 🇨🇴 ENVÍOS A TODA COLOMBIA 📦 • ";
+  // Repetimos el texto varias veces para asegurar que cubra el ancho y el loop sea fluido
+  const content = Array(10).fill(sliderText).join("");
+
   return (
     <>
       {/* Botón flotante */}
@@ -69,14 +74,14 @@ export default function Box() {
       <AnimatePresence>
         {isOpen && (
           <motion.div
-            className="fixed top-0 right-0 h-full w-full sm:w-[400px] bg-white shadow-2xl z-40 flex flex-col"
+            className="fixed top-0 right-0 h-full w-full sm:w-100 bg-white shadow-2xl z-40 flex flex-col"
             initial={{ x: "100%" }}
             animate={{ x: 0 }}
             exit={{ x: "100%" }}
             transition={{ type: "spring", damping: 25, stiffness: 300 }}
           >
             {/* Encabezado */}
-            <div className="flex items-center justify-between px-5 py-4 border-b">
+            <div className="flex items-center justify-between px-5 py-4 border-b bg-white z-10">
               <h2 className="text-xl font-semibold text-black">
                 Tu caja ({cart.length})
               </h2>
@@ -88,6 +93,23 @@ export default function Box() {
               </button>
             </div>
 
+            {/* --- SLIDER INFINITO --- */}
+            <div className="bg-yellow-300 text-black py-2 overflow-hidden border-b border-yellow-400">
+              <motion.div
+                className="whitespace-nowrap font-bold text-sm tracking-wider"
+                animate={{ x: ["0%", "-50%"] }}
+                transition={{
+                  repeat: Infinity,
+                  ease: "linear",
+                  duration: 10, // Ajusta la velocidad aquí (más alto = más lento)
+                }}
+              >
+                {/* Renderizamos el contenido dos veces para crear el loop perfecto */}
+                {content} {content}
+              </motion.div>
+            </div>
+            {/* ----------------------- */}
+
             {/* Contenido */}
             <div className="flex-1 overflow-y-auto p-5 space-y-4">
               {!cart || cart.length === 0 ? (
@@ -95,7 +117,7 @@ export default function Box() {
                   Tu caja está vacía
                 </div>
               ) : (
-                [...cart].reverse().map((item) => (
+                cart.map((item) => (
                   <div
                     key={item.id}
                     className="flex items-center gap-3 border rounded-xl p-3 hover:shadow-md transition"

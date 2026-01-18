@@ -8,9 +8,7 @@
       "price": 23000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764113609/822bac74-875b-4453-afbb-47c3008a5553.png",
       "shortDescription": "",
-      "ingredients": [
-        "aceite vegetal de semilla de uva 100%"
-      ],
+      "ingredients": ["aceite vegetal de semilla de uva 100%"],
       "benefits": [
         "Hidrata profundamente sin dejar sensación grasa",
         "Ayuda a equilibrar piel grasa o mixta",
@@ -26,9 +24,7 @@
       "price": 24000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763870506/acb4187b-6c13-44ac-8f66-1b64507e8ec9.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de ricino 100%"
-      ],
+      "ingredients": ["Aceite de ricino 100%"],
       "benefits": [
         "Estimula el crecimiento de pestañas, cejas y cabello",
         "Fortalece raíces débiles y reduce la caída",
@@ -43,9 +39,7 @@
       "price": 10000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764168179/ad786f70-2c08-4997-aae8-8d8554122b13.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de ricino 100%"
-      ],
+      "ingredients": ["Aceite de ricino 100%"],
       "benefits": [
         "Estimula el crecimiento de pestañas, cejas y cabello",
         "Fortalece raíces débiles y reduce la caída",
@@ -57,12 +51,10 @@
     {
       "id": 4,
       "name": "Aceite de argán (30ml)",
-      "price": 17000,
+      "price": 18000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764263177/900711f2-f8a3-4bda-bd23-2e981ac9f1c5.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de argán 100%"
-      ],
+      "ingredients": ["Aceite de argán 100%"],
       "benefits": [
         "Hidrata y suaviza la piel sin obstruir poros",
         "Repara puntas abiertas y reduce el frizz",
@@ -78,9 +70,7 @@
       "price": 15000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764116155/51647150-7b03-46ce-8f12-d970a28f790b.png",
       "shortDescription": "",
-      "ingredients": [
-        "aceite de almendras 100%"
-      ],
+      "ingredients": ["aceite de almendras 100%"],
       "benefits": [
         "Hidrata profundamente la piel seca",
         "Mejora la elasticidad y suavidad de la piel",
@@ -96,9 +86,7 @@
       "price": 16000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021380/c20e78f8-ff6e-4454-9194-0c4ebb69eea1.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de Coco 100% puro"
-      ],
+      "ingredients": ["Aceite de Coco 100% puro"],
       "benefits": [
         "Hidrata la piel seca y áspera",
         "Aporta brillo y suavidad al cabello",
@@ -120,9 +108,7 @@
       "price": 12000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764120384/edc31d0e-4e70-4036-9959-36aeb5dfe49a.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de Coco 100% puro"
-      ],
+      "ingredients": ["Aceite de Coco 100% puro"],
       "benefits": [
         "Hidrata la piel seca y áspera",
         "Aporta brillo y suavidad al cabello",
@@ -144,9 +130,7 @@
       "price": 26000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764167337/74c23dac-a1d8-49e0-ab6b-cf0e94ba782a.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de Coco 100% puro"
-      ],
+      "ingredients": ["Aceite de Coco 100% puro"],
       "benefits": [
         "Hidrata la piel seca y áspera",
         "Aporta brillo y suavidad al cabello",
@@ -168,9 +152,7 @@
       "price": 40000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176621/f6bd6506-e714-4391-a1f5-64e3ac4569e0.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de Coco 100% puro"
-      ],
+      "ingredients": ["Aceite de Coco 100% puro"],
       "benefits": [
         "Hidrata la piel seca y áspera",
         "Aporta brillo y suavidad al cabello",
@@ -192,9 +174,7 @@
       "price": 58000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764120318/ab6d2296-8ed4-4496-a6e4-08864c4f7827.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de Coco 100% puro"
-      ],
+      "ingredients": ["Aceite de Coco 100% puro"],
       "benefits": [
         "Hidrata la piel seca y áspera",
         "Aporta brillo y suavidad al cabello",
@@ -216,9 +196,7 @@
       "price": 9000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125966/0140129a-4e3a-4479-9d91-1a200e148303.png",
       "shortDescription": "",
-      "ingredients": [
-        "aceite de mano de res 100%"
-      ],
+      "ingredients": ["aceite de mano de res 100%"],
       "benefits": [
         "Nutre profundamente el cabello",
         "Ayuda a fortalecer y engrosar la fibra capilar",
@@ -234,9 +212,7 @@
       "price": 14000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764011206/536d3238-1ca6-4df6-bcd1-c8c1ae6ef88d.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de mano de res 100%"
-      ],
+      "ingredients": ["Aceite de mano de res 100%"],
       "benefits": [
         "Nutre profundamente el cabello",
         "Ayuda a fortalecer y engrosar la fibra capilar",
@@ -252,9 +228,7 @@
       "price": 15000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764108608/7678ac03-658b-406e-87ef-a5c36f103156.png",
       "shortDescription": "",
-      "ingredients": [
-        "Vitamina E 100%"
-      ],
+      "ingredients": ["Vitamina E 100%"],
       "benefits": [
         "Ayuda a mejorar la apariencia de cicatrices",
         "Previene el envejecimiento prematuro",
@@ -360,9 +334,7 @@
       "price": 10000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764115983/bcf6b8e3-d83f-43de-9c65-1cb15f038acd.png",
       "shortDescription": "Poderosa limpieza profunda. Ideal para mascarillas detox.",
-      "ingredients": [
-        "Carbón activado 100%"
-      ],
+      "ingredients": ["Carbón activado 100%"],
       "benefits": [
         "Desintoxica profundamente",
         "Reduce puntos negros",
@@ -1024,9 +996,7 @@
         "aceites naturales",
         "vitamina E"
       ],
-      "benefits": [
-        "Elige los jabones que tu quieras"
-      ]
+      "benefits": ["Elige los jabones que tu quieras"]
     },
     {
       "id": 49,
@@ -1055,11 +1025,7 @@
       "price": 17000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773341/8cff73a6-a1e7-4d15-831b-dc53328be051.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Romero",
-        "Aceite de ricino"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Romero", "Aceite de ricino"],
       "benefits": [
         "Restaura la fibra capilar",
         "Estimula la irrigación sanguínea",
@@ -1074,11 +1040,7 @@
       "price": 27000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764889451/5452f2aa-459d-4986-95f0-faffb943fc20.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Romero",
-        "Aceite de ricino"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Romero", "Aceite de ricino"],
       "benefits": [
         "Restaura la fibra capilar",
         "Estimula la irrigación sanguínea",
@@ -1093,11 +1055,7 @@
       "price": 14000,
       "image": null,
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Romero",
-        "Aceite de ricino"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Romero", "Aceite de ricino"],
       "benefits": [
         "Restaura la fibra capilar",
         "Estimula la irrigación sanguínea",
@@ -1112,10 +1070,7 @@
       "price": 17000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764889603/b201dbe3-a256-4883-854a-60069e423b28.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Fenogreco"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Fenogreco"],
       "benefits": [
         "Aumenta la energía y la vitalidad",
         "Estimula el apetito",
@@ -1133,10 +1088,7 @@
       "price": 27000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111242/90d44b4b-bb87-42a4-b81f-7e5cdeea7834.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Fenogreco"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Fenogreco"],
       "benefits": [
         "Aumenta la energía y la vitalidad",
         "Estimula el apetito",
@@ -1154,10 +1106,7 @@
       "price": 14000,
       "image": null,
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Fenogreco"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Fenogreco"],
       "benefits": [
         "Aumenta la energía y la vitalidad",
         "Estimula el apetito",
@@ -1175,10 +1124,7 @@
       "price": 17000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763869056/236a2138-a658-44e0-8abe-86d249e14ac8.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Calendula"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Calendula"],
       "benefits": [
         "El macerado de caléndula es rico en vitamina C, minerales y betacarotenos",
         "Es perfecta para el tratamiento de pieles sensibles",
@@ -1194,10 +1140,7 @@
       "price": 27000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110637/8a1a1dd5-41fe-4365-a10d-46f824922acc.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Calendula"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Calendula"],
       "benefits": [
         "El macerado de caléndula es rico en vitamina C, minerales y betacarotenos",
         "Es perfecta para el tratamiento de pieles sensibles",
@@ -1213,10 +1156,7 @@
       "price": 14000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1765895354/29f17033-bd08-4170-a65f-778861ab08f5.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Calendula"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Calendula"],
       "benefits": [
         "El macerado de caléndula es rico en vitamina C, minerales y betacarotenos",
         "Es perfecta para el tratamiento de pieles sensibles",
@@ -1232,10 +1172,7 @@
       "price": 17000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110025/1ab40ecb-baf1-4535-abd4-a2c0d9796f6a.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Orégano"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Orégano"],
       "benefits": [
         "Combate las infecciones respiratorias",
         "Ayuda con las infecciones urinarias",
@@ -1257,10 +1194,7 @@
       "price": 27000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125548/915e6598-a49d-4166-9a87-1dbbefc4589c.png",
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Orégano"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Orégano"],
       "benefits": [
         "Combate las infecciones respiratorias",
         "Ayuda con las infecciones urinarias",
@@ -1282,10 +1216,7 @@
       "price": 14000,
       "image": null,
       "shortDescription": "",
-      "ingredients": [
-        "Aceite de coco 100% puro",
-        "Orégano"
-      ],
+      "ingredients": ["Aceite de coco 100% puro", "Orégano"],
       "benefits": [
         "Combate las infecciones respiratorias",
         "Ayuda con las infecciones urinarias",
@@ -1307,9 +1238,7 @@
       "price": 11000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763766925/6d56813e-2fbf-4d5e-a18d-0c634f9109d0.png",
       "shortDescription": "Hidratación profunda y antioxidante para una piel suave y nutrida.",
-      "ingredients": [
-        "manteca de cacao pura"
-      ],
+      "ingredients": ["manteca de cacao pura"],
       "benefits": [
         "Hidrata profundamente",
         "Suaviza la piel",
@@ -1480,7 +1409,7 @@
         "Hidrata, suaviza y nutre la piel "
       ]
     },
-     {
+    {
       "id": 71,
       "name": "Crema de sebo de res 20 gr",
       "price": 9000,
@@ -1507,35 +1436,45 @@
       ]
     },
     {
-            "id": 72,
-            "name": "Crema Sólida 10 gr",
-            "price": 2000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764895049/136553b1-091f-446a-a491-fa8a40916b76.png",
-            "shortDescription": "",
-            "ingredients": ["manteca de cacao pura","Aceite de almendras","Macerado de caléndula"],
-            "benefits": [
-                "Hidrata profundamente",
-                "Nutrición de la piel",
-                "Acción calmante",
-                "Acción Antiinflamatoria",
-                "Rica en antioxidantes"
-            ]
-        },
-        {
-            "id": 73,
-            "name": "Exfoliante corporal de Menta y Vainilla 130 gr",
-            "price": 10000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1765583822/25ff5328-69af-4cfc-ace0-a36685e85201.png",
-            "shortDescription": "Exfoliante refrescante corporal",
-            "ingredients": ["Azucar","Aceite esencial de menta","Aceite de almendras","Aceite de coco","Extracto de Vainilla"],
-            "benefits": [
-            "Suaviza la piel eliminando células muertas",
-            "Refresca gracias al aceite esencial de menta",
-            "Hidrata ligeramente con aceites naturales",
-            "Mejora la circulación al masajear la piel",
-            "Deja la piel sedosa y revitalizada",
-            "Aporta una experiencia relajante y aromática"
-          ]
-        }
+      "id": 72,
+      "name": "Crema Sólida 10 gr",
+      "price": 2000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764895049/136553b1-091f-446a-a491-fa8a40916b76.png",
+      "shortDescription": "",
+      "ingredients": [
+        "manteca de cacao pura",
+        "Aceite de almendras",
+        "Macerado de caléndula"
+      ],
+      "benefits": [
+        "Hidrata profundamente",
+        "Nutrición de la piel",
+        "Acción calmante",
+        "Acción Antiinflamatoria",
+        "Rica en antioxidantes"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Exfoliante corporal de Menta y Vainilla 130 gr",
+      "price": 10000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1765583822/25ff5328-69af-4cfc-ace0-a36685e85201.png",
+      "shortDescription": "Exfoliante refrescante corporal",
+      "ingredients": [
+        "Azucar",
+        "Aceite esencial de menta",
+        "Aceite de almendras",
+        "Aceite de coco",
+        "Extracto de Vainilla"
+      ],
+      "benefits": [
+        "Suaviza la piel eliminando células muertas",
+        "Refresca gracias al aceite esencial de menta",
+        "Hidrata ligeramente con aceites naturales",
+        "Mejora la circulación al masajear la piel",
+        "Deja la piel sedosa y revitalizada",
+        "Aporta una experiencia relajante y aromática"
+      ]
+    }
   ]
 }
