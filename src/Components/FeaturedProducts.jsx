@@ -8,40 +8,42 @@ gsap.registerPlugin(ScrollTrigger);
 
 const products = [
   {
-    id: 3,
-    name: "Aceite de ricino (30ml)",
-    price: 10000,
-    themeColor: "#5d4037", // Marrón tierra/semilla
+    id: 17,
+    name: "Arcilla Blanca (Caolín) Natural",
+    price: 15000,
+    themeColor: "#5d4037",
     image:
-      "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764168179/ad786f70-2c08-4997-aae8-8d8554122b13.png",
-    description: "Estimula el crecimiento y fortalece desde la raíz.",
+      "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763771572/ff567419-3242-4b99-8d89-435909229dad.png",
+    description:
+      "Purificante y desintoxicante. Ideal para piel grasa o con acné.",
     benefits: [
-      "Estimula pestañas y cejas",
-      "Reduce la caída",
-      "Aporta brillo y grosor",
-      "Hidrata codos y talones",
+      "Regula el exceso de grasa",
+      "Ayuda a limpiar puntos negros",
+      "Reduce impurezas y toxinas",
+      "Mejora el tono de la piel",
     ],
   },
   {
-    id: 14,
-    name: "Mezcla de aceites (120ml)",
-    price: 12000,
-    themeColor: "#2d6a4f", // Verde bosque profundo
+    id: 19,
+    name: "Mascarilla Detox - Arcilla Blanca, Carbón Activado, Arroz y Té Verde (60g)",
+    price: 15000,
+    themeColor: "#2d6a4f",
     image:
-      "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764895505/6dcd9aac-8625-4b32-b1de-b75f09df271e.png",
-    description: "Poderosa combinación nutritiva para tu cabello.",
+      "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763764812/MascarillaDetox_nkhwnc.jpg",
+    description:
+      "Fórmula detox completa para limpiar, aclarar y revitalizar el rostro.",
     benefits: [
-      "Repara puntas abiertas",
-      "Brillo profundo",
-      "Nutre el cuero cabelludo",
-      "Hidrata cabello maltratado",
+      "Reduce grasa e impurezas",
+      "Calma e ilumina la piel",
+      "Mejora textura y suavidad",
+      "Efecto detox profundo",
     ],
   },
   {
     id: 6,
     name: "Aceite de coco virgen (130ml)",
     price: 16000,
-    themeColor: "#fc0345", // Gris neutro/blanco coco
+    themeColor: "#fc0345",
     image:
       "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764021380/c20e78f8-ff6e-4454-9194-0c4ebb69eea1.png",
     description: "100% puro para hidratación total piel y cabello.",
@@ -53,33 +55,38 @@ const products = [
     ],
   },
   {
-    id: 27,
-    name: "Bronceador natural 240 ml",
-    price: 25000,
-    themeColor: "#b5651d", // Bronce/Canela
+    id: 39,
+    name: "Jabon artesanal de Carbon Activado-aceite de árbol de Té 100gr",
+    price: 9000,
+    themeColor: "#b5651d",
     image:
-      "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764115326/5943bf04-2bad-4adf-86ad-c7ba0041a9ed.png",
-    description: "Bronceado dorado y uniforme 100% vegetal.",
+      "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764107772/8fac1f3f-8af9-444f-934b-652827decd13.png",
+    description: "Jabon artesanal a base de glicerina vegetal",
     benefits: [
-      "Potencia el tono dorado",
-      "Macerado de zanahoria",
-      "Rápida absorción",
-      "Mantiene el color más tiempo",
+      "Purifica la piel",
+      "Reduce el acné",
+      "Controla el exceso de grasa",
+      "Refresca y calma",
+      "Recomendado para piel grasa y mixta",
     ],
   },
   {
-    id: 35,
-    name: "Jabón de Avena y Miel",
-    price: 8000,
-    themeColor: "#d6ccc2", // Arena/Miel
+    id: 24,
+    name: "Balsamo labial Menta 4gr",
+    price: 4000,
+    themeColor: "#d6ccc2",
     image:
-      "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764798781/02abb25c-63b4-4f33-9a79-1811cdc32309.png",
-    description: "Exfoliación suave para renovar tu piel.",
+      "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765879/31b29a9f-3992-4386-8577-3ed6525fee94.png",
+    description:
+      "Hidratación profunda y protección natural para labios resecos",
     benefits: [
-      "Exfoliante suave",
-      "Calmante natural",
-      "Hidratante",
-      "Piel renovada",
+      "Hidrata profundamente los labios secos",
+      "Previene y repara labios agrietados",
+      "Forma una capa protectora contra el sol y el viento",
+      "Aporta suavidad y textura sedosa",
+      "Reduce la resequedad causada por el clima",
+      "Nutre gracias a las mantecas y aceites naturales",
+      "Ayuda a regenerar la piel de los labios",
     ],
   },
 ];
@@ -124,7 +131,7 @@ export default function FeaturedProducts() {
     tl.fromTo(
       containerRef.current,
       { opacity: 0 },
-      { opacity: 1, duration: 0.8 }
+      { opacity: 1, duration: 0.8 },
     ).fromTo(
       titleRef.current,
       { y: -50, opacity: 0, scale: 0.8 },
@@ -135,7 +142,7 @@ export default function FeaturedProducts() {
         duration: 0.8,
         ease: "elastic.out(1, 0.5)",
       },
-      "-=0.4"
+      "-=0.4",
     );
 
     // Animación de burbujas de fondo (Loop infinito)
@@ -174,7 +181,7 @@ export default function FeaturedProducts() {
         y: 0,
         duration: 0.8,
         ease: "back.out(1.7)",
-      }
+      },
     );
 
     // Imagen: Flotación continua
@@ -193,14 +200,14 @@ export default function FeaturedProducts() {
       textElements,
       { y: 20, opacity: 0 },
       { y: 0, opacity: 1, duration: 0.5, stagger: 0.08, ease: "power2.out" },
-      "-=0.6"
+      "-=0.6",
     );
 
     // Fondo círculo
     gsap.fromTo(
       bgCircleRef.current,
       { scale: 0.5, opacity: 0 },
-      { scale: 1.2, opacity: 0.2, duration: 1, ease: "expo.out" }
+      { scale: 1.2, opacity: 0.2, duration: 1, ease: "expo.out" },
     );
   }, [active]);
 
