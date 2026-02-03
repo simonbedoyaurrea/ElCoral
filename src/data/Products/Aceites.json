@@ -149,7 +149,7 @@
     {
       "id": 9,
       "name": "Aceite de coco virgen 100% puro (500ml)",
-      "price": 40000,
+      "price": 43000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764176621/f6bd6506-e714-4391-a1f5-64e3ac4569e0.png",
       "shortDescription": "",
       "ingredients": ["Aceite de Coco 100% puro"],
@@ -171,7 +171,7 @@
     {
       "id": 10,
       "name": "Aceite de coco virgen 100% puro (750ml)",
-      "price": 58000,
+      "price": 63000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764120318/ab6d2296-8ed4-4496-a6e4-08864c4f7827.png",
       "shortDescription": "",
       "ingredients": ["Aceite de Coco 100% puro"],
