@@ -67,7 +67,7 @@
     {
       "id": 5,
       "name": "Aceite de almendras (30ml)",
-      "price": 15000,
+      "price": 16000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764116155/51647150-7b03-46ce-8f12-d970a28f790b.png",
       "shortDescription": "",
       "ingredients": ["aceite de almendras 100%"],
@@ -193,7 +193,7 @@
     {
       "id": 11,
       "name": "Aceite de mano de res (120ml)",
-      "price": 9000,
+      "price": 10000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125966/0140129a-4e3a-4479-9d91-1a200e148303.png",
       "shortDescription": "",
       "ingredients": ["aceite de mano de res 100%"],
@@ -209,7 +209,7 @@
     {
       "id": 12,
       "name": "Aceite de mano de res (240ml)",
-      "price": 14000,
+      "price": 15000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764011206/536d3238-1ca6-4df6-bcd1-c8c1ae6ef88d.png",
       "shortDescription": "",
       "ingredients": ["Aceite de mano de res 100%"],
@@ -225,7 +225,7 @@
     {
       "id": 13,
       "name": "Vitamina E pura (30ml)",
-      "price": 15000,
+      "price": 16000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764108608/7678ac03-658b-406e-87ef-a5c36f103156.png",
       "shortDescription": "",
       "ingredients": ["Vitamina E 100%"],
@@ -241,7 +241,7 @@
     {
       "id": 14,
       "name": "Mezcla de aceites (120ml)",
-      "price": 12000,
+      "price": 13000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764895505/6dcd9aac-8625-4b32-b1de-b75f09df271e.png",
       "shortDescription": "",
       "ingredients": [
@@ -264,7 +264,7 @@
     {
       "id": 15,
       "name": "Mezcla de aceites (240ml)",
-      "price": 21000,
+      "price": 22000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764127186/ba568486-5ed7-40b0-bf84-6dc16af5f2a7.png",
       "shortDescription": "",
       "ingredients": [
@@ -364,7 +364,7 @@
     {
       "id": 20,
       "name": "Balsamo labial Cacao 4gr",
-      "price": 4000,
+      "price": 5000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765725/6817f5a0-4f4d-4fc8-ba73-e11a46de77b1.png",
       "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
@@ -392,7 +392,7 @@
     {
       "id": 21,
       "name": "Balsamo labial Caléncula con Manzanilla 4gr",
-      "price": 4000,
+      "price": 5000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768846/8ecd9829-f008-49d0-aea1-51cd2f1195da.png",
       "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
@@ -420,7 +420,7 @@
     {
       "id": 22,
       "name": "Balsamo labial Naranja 4gr",
-      "price": 4000,
+      "price": 5000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768969/3c352b42-8ea0-4b04-aec7-6cbe1231937c.png",
       "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
@@ -447,7 +447,7 @@
     {
       "id": 23,
       "name": "Balsamo labial Vainilla 4gr",
-      "price": 4000,
+      "price": 5000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765915/d1f90866-4b21-4772-b3da-7cb534d343d9.png",
       "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
@@ -474,7 +474,7 @@
     {
       "id": 24,
       "name": "Balsamo labial Menta 4gr",
-      "price": 4000,
+      "price": 5000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765879/31b29a9f-3992-4386-8577-3ed6525fee94.png",
       "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
@@ -502,7 +502,7 @@
     {
       "id": 25,
       "name": "Balsamo labial Cereza 4gr",
-      "price": 4000,
+      "price": 5000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765650/cereza_acfqmc.jpg",
       "shortDescription": "Hidratación profunda y protección natural para labios resecos",
       "ingredients": [
@@ -1338,7 +1338,7 @@
     {
       "id": 67,
       "name": "Serum facial 30 ml",
-      "price": 15000,
+      "price": 16000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773694/0670a968-7ceb-4165-b52b-563e92f128b2.png",
       "shortDescription": "",
       "ingredients": [

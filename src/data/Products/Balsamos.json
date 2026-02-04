@@ -1,172 +1,171 @@
 {
-    "name": "Balsamos Labiales",
-        "description":"Bálsamos labiales naturales formulados con  ceras y aceites en sabores como cacao, menta, vainilla, naranja, caléndula y cereza para humectar y proteger los labios.",
-    "products": [
-        {
-            "id": 20,
-            "name": "Balsamo labial Cacao 4gr",
-            "price": 4000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765725/6817f5a0-4f4d-4fc8-ba73-e11a46de77b1.png",
-            "shortDescription": "Hidratación profunda y protección natural para labios resecos",
-            "ingredients": [
-                "manteca de cacao",
-                "manteca de karite",
-                "cera de abejas",
-                "cacao",
-                "vitamina E",
-                "aceite de coco",
-                "aceite de almendras"
-            ],
-            "benefits": [
-                "Hidrata profundamente los labios secos",
-                "Previene y repara labios agrietados",
-                "Forma una capa protectora contra el sol y el viento",
-                "Aporta suavidad y textura sedosa",
-                "Reduce la resequedad causada por el clima",
-                "Nutre gracias a las mantecas y aceites naturales",
-                "Ayuda a regenerar la piel de los labios",
-                "Aporta brillo natural sin sentirse pesado",
-                "Aroma suave y agradable según el sabor",
-                "Fórmula libre de químicos agresivos"
-          ]   
-        },
-        {
-            "id": 21,
-            "name": "Balsamo labial Caléncula con Manzanilla 4gr",
-            "price": 4000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768846/8ecd9829-f008-49d0-aea1-51cd2f1195da.png",
-            "shortDescription": "Hidratación profunda y protección natural para labios resecos",
-            "ingredients": [
-                "manteca de cacao",
-                "manteca de karite",
-                "cera de abejas",
-                "Macerado de Manzanilla",
-                "vitamina E",
-                "aceite de coco",
-                "Macerado de calendula"
-            ],
-            "benefits": [
-                "Hidrata profundamente los labios secos",
-                "Previene y repara labios agrietados",
-                "Forma una capa protectora contra el sol y el viento",
-                "Aporta suavidad y textura sedosa",
-                "Reduce la resequedad causada por el clima",
-                "Nutre gracias a las mantecas y aceites naturales",
-                "Ayuda a regenerar la piel de los labios",
-                "Aporta brillo natural sin sentirse pesado",
-                "Aroma suave y agradable según el sabor",
-                "Fórmula libre de químicos agresivos"
-            ]
-        },
-        {
-            "id": 22,
-            "name": "Balsamo labial Naranja 4gr",
-            "price": 4000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768969/3c352b42-8ea0-4b04-aec7-6cbe1231937c.png",
-            "shortDescription": "Hidratación profunda y protección natural para labios resecos",
-            "ingredients": [
-                "manteca de cacao",
-                "manteca de karite",
-                "cera de abejas",
-                "Extracto de Naranja",
-                "vitamina E",
-                "aceite de coco"
-            ],
-            "benefits": [
-                "Hidrata profundamente los labios secos",
-                "Previene y repara labios agrietados",
-                "Forma una capa protectora contra el sol y el viento",
-                "Aporta suavidad y textura sedosa",
-                "Reduce la resequedad causada por el clima",
-                "Nutre gracias a las mantecas y aceites naturales",
-                "Ayuda a regenerar la piel de los labios",
-                "Aporta brillo natural sin sentirse pesado",
-                "Aroma suave y agradable según el sabor",
-                "Fórmula libre de químicos agresivos"
-            ]
-        },
-        {
-            "id": 23,
-            "name": "Balsamo labial Vainilla 4gr",
-            "price": 4000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765915/d1f90866-4b21-4772-b3da-7cb534d343d9.png",
-            "shortDescription": "Hidratación profunda y protección natural para labios resecos",
-            "ingredients": [
-                "manteca de cacao",
-                "manteca de karite",
-                "cera de abejas",
-                "Extracto de Vainilla",
-                "vitamina E",
-                "aceite de coco"
-            ],
-            "benefits": [
-                "Hidrata profundamente los labios secos",
-                "Previene y repara labios agrietados",
-                "Forma una capa protectora contra el sol y el viento",
-                "Aporta suavidad y textura sedosa",
-                "Reduce la resequedad causada por el clima",
-                "Nutre gracias a las mantecas y aceites naturales",
-                "Ayuda a regenerar la piel de los labios",
-                "Aporta brillo natural sin sentirse pesado",
-                "Aroma suave y agradable según el sabor",
-                "Fórmula libre de químicos agresivos"
-            ]
-        },
-        {
-            "id": 24,
-            "name": "Balsamo labial Menta 4gr",
-            "price": 4000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765879/31b29a9f-3992-4386-8577-3ed6525fee94.png",
-            "shortDescription": "Hidratación profunda y protección natural para labios resecos",
-            "ingredients": [
-                "manteca de cacao",
-                "manteca de karite",
-                "cera de abejas",
-                "aceite esencial de menta",
-                "vitamina E",
-                "aceite de coco",
-                "Macerado de Menta"
-            ],
-            "benefits": [
-                "Hidrata profundamente los labios secos",
-                "Previene y repara labios agrietados",
-                "Forma una capa protectora contra el sol y el viento",
-                "Aporta suavidad y textura sedosa",
-                "Reduce la resequedad causada por el clima",
-                "Nutre gracias a las mantecas y aceites naturales",
-                "Ayuda a regenerar la piel de los labios",
-                "Aporta brillo natural sin sentirse pesado",
-                "Aroma suave y agradable según el sabor",
-                "Fórmula libre de químicos agresivos"
-            ]
-        },
-        {
-            "id": 25,
-            "name": "Balsamo labial Cereza 4gr",
-            "price": 4000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765650/cereza_acfqmc.jpg",
-            "shortDescription": "Hidratación profunda y protección natural para labios resecos",
-            "ingredients": [
-                "Manteca de cacao",
-                "Manteca de karite",
-                "Cera de abejas",
-                "Extracto de cereza",
-                "Vitamina E",
-                "Aceite de coco"
-            ],
-            "benefits": [
-            "Hidrata profundamente los labios secos",
-            "Previene y repara labios agrietados",
-            "Forma una capa protectora contra el sol y el viento",
-            "Aporta suavidad y textura sedosa",
-            "Reduce la resequedad causada por el clima",
-            "Nutre gracias a las mantecas y aceites naturales",
-            "Ayuda a regenerar la piel de los labios",
-            "Aporta brillo natural sin sentirse pesado",
-            "Aroma suave y agradable según el sabor",
-            "Fórmula libre de químicos agresivos"
-            ]
-        }
-    ]
+  "name": "Balsamos Labiales",
+  "description": "Bálsamos labiales naturales formulados con  ceras y aceites en sabores como cacao, menta, vainilla, naranja, caléndula y cereza para humectar y proteger los labios.",
+  "products": [
+    {
+      "id": 20,
+      "name": "Balsamo labial Cacao 4gr",
+      "price": 5000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765725/6817f5a0-4f4d-4fc8-ba73-e11a46de77b1.png",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
+      "ingredients": [
+        "manteca de cacao",
+        "manteca de karite",
+        "cera de abejas",
+        "cacao",
+        "vitamina E",
+        "aceite de coco",
+        "aceite de almendras"
+      ],
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Balsamo labial Caléncula con Manzanilla 4gr",
+      "price": 5000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768846/8ecd9829-f008-49d0-aea1-51cd2f1195da.png",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
+      "ingredients": [
+        "manteca de cacao",
+        "manteca de karite",
+        "cera de abejas",
+        "Macerado de Manzanilla",
+        "vitamina E",
+        "aceite de coco",
+        "Macerado de calendula"
+      ],
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Balsamo labial Naranja 4gr",
+      "price": 5000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763768969/3c352b42-8ea0-4b04-aec7-6cbe1231937c.png",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
+      "ingredients": [
+        "manteca de cacao",
+        "manteca de karite",
+        "cera de abejas",
+        "Extracto de Naranja",
+        "vitamina E",
+        "aceite de coco"
+      ],
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Balsamo labial Vainilla 4gr",
+      "price": 5000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765915/d1f90866-4b21-4772-b3da-7cb534d343d9.png",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
+      "ingredients": [
+        "manteca de cacao",
+        "manteca de karite",
+        "cera de abejas",
+        "Extracto de Vainilla",
+        "vitamina E",
+        "aceite de coco"
+      ],
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Balsamo labial Menta 4gr",
+      "price": 5000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765879/31b29a9f-3992-4386-8577-3ed6525fee94.png",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
+      "ingredients": [
+        "manteca de cacao",
+        "manteca de karite",
+        "cera de abejas",
+        "aceite esencial de menta",
+        "vitamina E",
+        "aceite de coco",
+        "Macerado de Menta"
+      ],
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Balsamo labial Cereza 4gr",
+      "price": 5000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763765650/cereza_acfqmc.jpg",
+      "shortDescription": "Hidratación profunda y protección natural para labios resecos",
+      "ingredients": [
+        "Manteca de cacao",
+        "Manteca de karite",
+        "Cera de abejas",
+        "Extracto de cereza",
+        "Vitamina E",
+        "Aceite de coco"
+      ],
+      "benefits": [
+        "Hidrata profundamente los labios secos",
+        "Previene y repara labios agrietados",
+        "Forma una capa protectora contra el sol y el viento",
+        "Aporta suavidad y textura sedosa",
+        "Reduce la resequedad causada por el clima",
+        "Nutre gracias a las mantecas y aceites naturales",
+        "Ayuda a regenerar la piel de los labios",
+        "Aporta brillo natural sin sentirse pesado",
+        "Aroma suave y agradable según el sabor",
+        "Fórmula libre de químicos agresivos"
+      ]
+    }
+  ]
 }
-

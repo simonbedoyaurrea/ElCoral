@@ -1,63 +1,90 @@
-
 {
-    "name": "Tratamientos faciales",
-        "description":"Tratamientos faciales concentrados perfectos para hidratación,antienvejecimiento y regeneración.",
-    "products": [
-        {
-            "id": 66,
-            "name": "Contorno de ojos 13 ml",
-            "price": 8500,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764177795/635a35eb-7871-4b59-ba55-92cc4983a358.png",
-            "shortDescription": "",
-            "ingredients": ["Aceite de coco","Aceite de Ricino","Oleo de Rosas","Vitamina e","Aceite de almendras","Aceite de argán"],
-            "benefits": [
-            "Lubrica y humecta",
-            "Atenúa ojeras",
-            "Es antioxidante",
-            "Hidratación profunda"
-            ]
-        },
-        {
-            "id": 67,
-            "name": "Serum facial 30 ml",
-            "price": 15000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773694/0670a968-7ceb-4165-b52b-563e92f128b2.png",
-            "shortDescription": "",
-            "ingredients": ["Vitamina E 100%","Aceite de almendras","Oleo de Rosa Damacena"],
-            "benefits": ["Protección antioxidante que previene el envejecimiento prematuro","Regenerante","Hidratante"]
-        },
-        {
-            "id": 68,
-            "name": "Tratamiento cejas y pestañas 30ml",
-            "price": 15000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764277042/cb0abdeb-977d-4149-b3c1-e9cd3f5a434e.png",
-            "shortDescription": "",
-            "ingredients": ["Aceite de Ricino","Aceite de coco","Macerado de romero","Vitamina E","Macerado de fenogreco","Aceite de almendras"],
-            "benefits": ["Fortalece cejas y pestañas","Ayuda al crecimiento de cejas y pestañas","Protege las cejas y pestañas del uso frecuente del maquillaje y contaminación"]
-        },
-        {
-            "id": 69,
-            "name": "Roll on relajante de lavanda 13 ml",
-            "price": 6000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763772466/06883cda-57fe-4cf8-a2d1-026d6bfc5f30.png",
-            "shortDescription": "",
-            "ingredients": ["Aceite de almendras","Macerado de Lavanda","Aceite esencial de Lavanda"],
-            "benefits": [
-            "Sus compuestos aromáticos (linalol y acetato de linalilo) actúan sobre el sistema nervioso central para un efecto calmante.",
-            "Se reduce la producción de cortisol, la hormona del estrés.",
-            "Se estimula la actividad del sistema parasimpático, que promueve la relajación.",
-            "Puede mejorar la calidad del sueño y disminuir la ansiedad leve."
-            ]
-        },
-       {
-      "id": 13,
-      "name": "Vitamina E pura (30ml)",
-      "price": 15000,
-      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764108608/7678ac03-658b-406e-87ef-a5c36f103156.png",
+  "name": "Tratamientos faciales",
+  "description": "Tratamientos faciales concentrados perfectos para hidratación,antienvejecimiento y regeneración.",
+  "products": [
+    {
+      "id": 66,
+      "name": "Contorno de ojos 13 ml",
+      "price": 8500,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764177795/635a35eb-7871-4b59-ba55-92cc4983a358.png",
       "shortDescription": "",
       "ingredients": [
-        "Vitamina E 100%"
+        "Aceite de coco",
+        "Aceite de Ricino",
+        "Oleo de Rosas",
+        "Vitamina e",
+        "Aceite de almendras",
+        "Aceite de argán"
       ],
+      "benefits": [
+        "Lubrica y humecta",
+        "Atenúa ojeras",
+        "Es antioxidante",
+        "Hidratación profunda"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Serum facial 30 ml",
+      "price": 16000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773694/0670a968-7ceb-4165-b52b-563e92f128b2.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Vitamina E 100%",
+        "Aceite de almendras",
+        "Oleo de Rosa Damacena"
+      ],
+      "benefits": [
+        "Protección antioxidante que previene el envejecimiento prematuro",
+        "Regenerante",
+        "Hidratante"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Tratamiento cejas y pestañas 30ml",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764277042/cb0abdeb-977d-4149-b3c1-e9cd3f5a434e.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de Ricino",
+        "Aceite de coco",
+        "Macerado de romero",
+        "Vitamina E",
+        "Macerado de fenogreco",
+        "Aceite de almendras"
+      ],
+      "benefits": [
+        "Fortalece cejas y pestañas",
+        "Ayuda al crecimiento de cejas y pestañas",
+        "Protege las cejas y pestañas del uso frecuente del maquillaje y contaminación"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Roll on relajante de lavanda 13 ml",
+      "price": 6000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763772466/06883cda-57fe-4cf8-a2d1-026d6bfc5f30.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Aceite de almendras",
+        "Macerado de Lavanda",
+        "Aceite esencial de Lavanda"
+      ],
+      "benefits": [
+        "Sus compuestos aromáticos (linalol y acetato de linalilo) actúan sobre el sistema nervioso central para un efecto calmante.",
+        "Se reduce la producción de cortisol, la hormona del estrés.",
+        "Se estimula la actividad del sistema parasimpático, que promueve la relajación.",
+        "Puede mejorar la calidad del sueño y disminuir la ansiedad leve."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Vitamina E pura (30ml)",
+      "price": 16000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764108608/7678ac03-658b-406e-87ef-a5c36f103156.png",
+      "shortDescription": "",
+      "ingredients": ["Vitamina E 100%"],
       "benefits": [
         "Ayuda a mejorar la apariencia de cicatrices",
         "Previene el envejecimiento prematuro",
@@ -66,26 +93,25 @@
         "Aporta brillo y salud al cabello",
         "Regenera y fortalece uñas"
       ]
-
     },
     {
-            "id": 70,
-            "name": "Roll on facial de manzanilla 13ml",
-            "price": 8000,
-            "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764114404/4c0ee121-1569-44cb-a5db-757f0d0e4a8b.png",
-            "shortDescription": "",
-            "ingredients": [
-                "Manzanilla",
-                "Té verde",
-                "Aceite de almendras",
-                "vitamina E"
-            ],
-            "benefits": [
-                "Protección antioxidante que previene el envejecimiento prematuro",
-                "Efecto anti-inflamatorio",
-                "Reduce bolsas y ojeras",
-                "Hidrata, suaviza y nutre la piel "
-            ]
+      "id": 70,
+      "name": "Roll on facial de manzanilla 13ml",
+      "price": 8000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764114404/4c0ee121-1569-44cb-a5db-757f0d0e4a8b.png",
+      "shortDescription": "",
+      "ingredients": [
+        "Manzanilla",
+        "Té verde",
+        "Aceite de almendras",
+        "vitamina E"
+      ],
+      "benefits": [
+        "Protección antioxidante que previene el envejecimiento prematuro",
+        "Efecto anti-inflamatorio",
+        "Reduce bolsas y ojeras",
+        "Hidrata, suaviza y nutre la piel "
+      ]
     }
-    ]
+  ]
 }
