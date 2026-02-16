@@ -1022,7 +1022,7 @@
     {
       "id": 50,
       "name": "Macerado de romero 130ml",
-      "price": 17000,
+      "price": 18000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763773341/8cff73a6-a1e7-4d15-831b-dc53328be051.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Romero", "Aceite de ricino"],
@@ -1037,7 +1037,7 @@
     {
       "id": 51,
       "name": "Macerado de romero 250ml",
-      "price": 27000,
+      "price": 28000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764889451/5452f2aa-459d-4986-95f0-faffb943fc20.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Romero", "Aceite de ricino"],
@@ -1052,8 +1052,8 @@
     {
       "id": 52,
       "name": "Macerado de romero 105ml",
-      "price": 14000,
-      "image": null,
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1771030626/87e17124-5f9e-499f-8065-d82394fc7399.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Romero", "Aceite de ricino"],
       "benefits": [
@@ -1067,7 +1067,7 @@
     {
       "id": 53,
       "name": "Macerado de fenogreco 130ml",
-      "price": 17000,
+      "price": 18000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764889603/b201dbe3-a256-4883-854a-60069e423b28.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Fenogreco"],
@@ -1085,7 +1085,7 @@
     {
       "id": 54,
       "name": "Macerado de fenogreco 250ml",
-      "price": 27000,
+      "price": 28000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764111242/90d44b4b-bb87-42a4-b81f-7e5cdeea7834.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Fenogreco"],
@@ -1103,8 +1103,8 @@
     {
       "id": 55,
       "name": "Macerado de fenogreco 105ml",
-      "price": 14000,
-      "image": null,
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1771030770/8fa7df8b-3590-40ee-8bb1-635c8c4544f6.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Fenogreco"],
       "benefits": [
@@ -1121,7 +1121,7 @@
     {
       "id": 56,
       "name": "Macerado de caléndula 130ml",
-      "price": 17000,
+      "price": 18000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1763869056/236a2138-a658-44e0-8abe-86d249e14ac8.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Calendula"],
@@ -1137,7 +1137,7 @@
     {
       "id": 57,
       "name": "Macerado de caléndula 250ml",
-      "price": 27000,
+      "price": 28000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110637/8a1a1dd5-41fe-4365-a10d-46f824922acc.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Calendula"],
@@ -1153,8 +1153,8 @@
     {
       "id": 58,
       "name": "Macerado de caléndula 105ml",
-      "price": 14000,
-      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1765895354/29f17033-bd08-4170-a65f-778861ab08f5.png",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1771032988/31dac0a4-5e00-43ac-a532-588b69333a83.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Calendula"],
       "benefits": [
@@ -1169,7 +1169,7 @@
     {
       "id": 59,
       "name": "Macerado de oregano 130ml",
-      "price": 17000,
+      "price": 18000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764110025/1ab40ecb-baf1-4535-abd4-a2c0d9796f6a.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Orégano"],
@@ -1191,7 +1191,7 @@
     {
       "id": 60,
       "name": "Macerado de oregano 250ml",
-      "price": 27000,
+      "price": 28000,
       "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1764125548/915e6598-a49d-4166-9a87-1dbbefc4589c.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Orégano"],
@@ -1213,8 +1213,8 @@
     {
       "id": 61,
       "name": "Macerado de oregano 105ml",
-      "price": 14000,
-      "image": null,
+      "price": 15000,
+      "image": "https://res.cloudinary.com/dsobv0pj7/image/upload/v1771032932/bb48b4d6-4659-4159-9b26-9d9ad6193492.png",
       "shortDescription": "",
       "ingredients": ["Aceite de coco 100% puro", "Orégano"],
       "benefits": [
